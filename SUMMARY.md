@@ -17,5 +17,5 @@
   * [Broadcast Media](broadcast-media.md)
   * [Media Production](media-production.md)
   * [Data](data.md)
-  * Libraries and Makerspaces
+  * [Libraries and Makerspaces](libraries-and-makerspaces.md)
 
