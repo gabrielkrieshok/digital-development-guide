@@ -7,4 +7,5 @@
   * [Principles of Digital Development](principles-of-digital-development.md)
 * [Part 2. Tools](part-2-tools.md)
 * [Glossary](glossary.md)
+* [Part 3. Topics](part-3-topics.md)
 
