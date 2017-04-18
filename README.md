@@ -6,3 +6,4 @@ Hello, world!
 
 This is a test of the Github sync.
 
+And this is a test of the reverse sync.
