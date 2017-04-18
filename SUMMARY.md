@@ -10,7 +10,7 @@
 * [Part 3. Topics](part-3-topics.md)
   * [Digital Literacy](digital-literacy.md)
   * Design Thinking
-  * ICTs in Education
+  * [ICTs in Education](icts-in-education.md)
   * [Communications](communications.md)
   * [Mapping and GIS](mapping-and-gis.md)
   * [STEM](stem.md)
@@ -18,3 +18,4 @@
   * [Media Production](media-production.md)
   * [Data](data.md)
   * Libraries and Makerspaces
+
