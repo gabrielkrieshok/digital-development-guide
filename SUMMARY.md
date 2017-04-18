@@ -8,4 +8,13 @@
 * [Part 2. Tools](part-2-tools.md)
 * [Glossary](glossary.md)
 * [Part 3. Topics](part-3-topics.md)
+* [Communications](communications.md)
+* Broadcast Media
+* Digital Literacy
+* Design Thinking
+* Libraries and Makerspaces
+* Data
+* Mapping and GIS
+* ICTs in Education
+* STEM
 
