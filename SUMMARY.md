@@ -14,8 +14,8 @@
   * Communications
   * Mapping and GIS
   * STEM
-  * Broadcast Media
-  * Media Production
+  * [Broadcast Media](broadcast-media.md)
+  * [Media Production](media-production.md)
   * [Data](data.md)
   * Libraries and Makerspaces
 * [Communications](communications.md)
