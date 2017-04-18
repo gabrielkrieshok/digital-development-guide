@@ -6,6 +6,7 @@
   * [IT, ICT, ICT4D, Digital Development](it-ict-ict4d-digital-development.md)
   * [Principles of Digital Development](principles-of-digital-development.md)
 * [Part 2. Tools](part-2-tools.md)
+  * [Mobile phones](tools/mobile-phones.md)
 * [Part 3. Topics](part-3-topics.md)
   * [Digital Literacy](topics/digital-literacy.md)
   * [Design Thinking](topics/design-thinking.md)
