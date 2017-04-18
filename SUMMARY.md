@@ -12,7 +12,7 @@
   * Design Thinking
   * ICTs in Education
   * Communications
-  * Mapping and GIS
+  * [Mapping and GIS](mapping-and-gis.md)
   * [STEM](stem.md)
   * [Broadcast Media](broadcast-media.md)
   * [Media Production](media-production.md)
