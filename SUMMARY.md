@@ -19,4 +19,5 @@
   * [Libraries and Makerspaces](topics/libraries-and-makerspaces.md)
 * [Glossary](glossary.md)
 * [Tools Approach](tools-approach.md)
+* [Guides and reviews](guides-and-reviews.md)
 
