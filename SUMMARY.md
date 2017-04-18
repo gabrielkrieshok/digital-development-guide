@@ -9,7 +9,7 @@
 * [Glossary](glossary.md)
 * [Part 3. Topics](part-3-topics.md)
   * [Digital Literacy](digital-literacy.md)
-  * Design Thinking
+  * [Design Thinking](design-thinking.md)
   * [ICTs in Education](icts-in-education.md)
   * [Communications](communications.md)
   * [Mapping and GIS](mapping-and-gis.md)
