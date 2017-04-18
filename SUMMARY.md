@@ -16,6 +16,6 @@
   * [STEM](stem.md)
   * [Broadcast Media](broadcast-media.md)
   * [Media Production](media-production.md)
-  * [Data](data.md)
+  * [Data](topics/data.md)
   * [Libraries and Makerspaces](libraries-and-makerspaces.md)
 
