@@ -15,7 +15,7 @@
   * [Digital threat protection ](tools/threat-protection.md)
   * [Smartphone apps ](tools/smartphone-apps.md)
   * [Computer software ](tools/software .md)
-  * [Offline content and databases ](tools/content.md)
+  * [Offline content and databases ](tools/offline-content.md)
   * [Online services](tools/services.md)
 * [Part 3. Topics](part-3-topics.md)
   * [Digital Literacy](topics/digital-literacy.md)
