@@ -8,7 +8,7 @@
 * [Part 2. Tools](part-2-tools.md)
 * [Glossary](glossary.md)
 * [Part 3. Topics](part-3-topics.md)
-	* Digital Literacy
+	* [Digital Literacy](digital-literacy.md)
 	* Design Thinking
 	* ICTs in Education
 	* Communications
