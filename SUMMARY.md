@@ -13,7 +13,7 @@
   * ICTs in Education
   * Communications
   * Mapping and GIS
-  * STEM
+  * [STEM](stem.md)
   * [Broadcast Media](broadcast-media.md)
   * [Media Production](media-production.md)
   * [Data](data.md)
