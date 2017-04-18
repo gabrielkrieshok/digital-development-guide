@@ -18,4 +18,5 @@
   * [Data](topics/data.md)
   * [Libraries and Makerspaces](topics/libraries-and-makerspaces.md)
 * [Glossary](glossary.md)
+* [Tools Approach](tools-approach.md)
 
