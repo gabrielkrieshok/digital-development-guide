@@ -14,7 +14,7 @@
   * [Advanced devices](tools/advanced-devices.md)
   * [Digital threat protection ](tools/threat-protection.md)
   * [Smartphone apps ](tools/smartphone-apps.md)
-  * [Computer software ](tools/software .md)
+  * [Computer software ](tools/software.md)
   * [Offline content and databases ](tools/offline-content.md)
   * [Online services](tools/services.md)
 * [Part 3. Topics](part-3-topics.md)
