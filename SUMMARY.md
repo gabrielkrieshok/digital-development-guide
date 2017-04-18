@@ -11,7 +11,7 @@
   * [Digital Literacy](digital-literacy.md)
   * Design Thinking
   * ICTs in Education
-  * Communications
+  * [Communications](communications.md)
   * [Mapping and GIS](mapping-and-gis.md)
   * [STEM](stem.md)
   * [Broadcast Media](broadcast-media.md)
