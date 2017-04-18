@@ -4,12 +4,10 @@ Digital development practitioners use mobile messaging platforms such as SMS to 
 
 SMS and mobile phones can improve the productivity of projects, help farmers access markets and value chains, and improve the delivery of services.
 
-Project Examples
+## Project Examples
 
 * Including more individuals and amplifying the reach and extent of their programs.
 * Following up with activity and project participants for feedback.
-
-
 
 
 
