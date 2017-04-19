@@ -1,6 +1,6 @@
 # Principles of Digital Development
 
-The _Digital Principles of Development_ are a set of principles developed and endorsed by 100s of organizations and individuals around digital development processes and programs. The principles help organizations and individuals to ensure that their projects and programs are developed, carried out, and scaled in effective and safe ways.
+The [_Digital Principles of Development_](http://digitalprinciples.org/) are a set of principles developed and endorsed by 100s of organizations and individuals around digital development processes and programs. The principles help organizations and individuals to ensure that their projects and programs are developed, carried out, and scaled in effective and safe ways.
 
 From the [Digital Principles website](http://digitalprinciples.org/):
 
