@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Part 1. Basics of Digital Development](basics/part-1-basics-of-digital-development.md)
+* [Part 1. Basics](basics/part-1-basics.md)
   * [Overview](basics/overview.md)
   * [Introduction to ICT4D](basics/introduction-to-ict4d.md)
   * [ICT4D Organizations](basics/ict4d-organizations.md)
