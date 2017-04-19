@@ -21,7 +21,7 @@ Workshops are a great way to host targeted trainings and sessions across a range
 - Presenter who can guide the participants through the presentation.
 - Access to computers for at least every 2-3 participants either at the facility or ask participants to bring their own.
 - Lunch or snacks. Ask the participants to bring their own if needed.
-- Projector if possible: this will help in walking the participants through the tutorials.
+- Projector if possible -- this will help in walking the participants through the tutorials.
 
 ### Before the event
 
@@ -31,14 +31,14 @@ Workshops are a great way to host targeted trainings and sessions across a range
 - Ask a volunteer to take pictures.
 - Reach out to volunteers/mentors to attend.
 - Send a reminder notice/email to registered participants.
-- Gather materials: computers, sign in sheets, and copies of materials.
+- Gather materials -- computers, sign in sheets, and copies of materials.
 - Create a hashtag (#) so participants can tweet or post.
 - Set up the PPT with a projector.
 - Share your event in case there are local participants you want to reach out to.
 
 ### During the event
 
-- Arrive before the event to set up the technology: computer, Wi-Fi, and PPT.
+- Arrive before the event to set up the technology -- computer, Wi-Fi, and PPT.
 - Post the Wi-Fi access code and hashtag signs around the room.
 - Set up a sign in table or electronic check-in process.
 - Have a twitter live feed for the event so participants can see their posts.
@@ -57,11 +57,11 @@ Successful hackathons are ones that can identify challenges, assemble a team wit
 
 First, review these steps to a successful Hackathon
 
-1\. Identify & Engage Customer: who's interested, and in what
+1\. Identify & Engage Customer -- who's interested, and in what
 
 - Decide on some basics -- whom do you want to serve, what's the range of things you might possibly offer? Set a time and place for a kickoff meeting, around 6-8 weeks away.
 - Find people who are gateways to those communities, or who might have access to your target individuals, and see what they think as a starting point. (Do research, Go to their events, etc.)
-- The Pitch: We are [insert name] We looking to create a resource center for  [insert name]! We might offer a number of things, ranging from [insert name] to [insert name] -- but we want your feedback. Let us know what you're looking for, what you need to help you succeed!
+- The Pitch -- We are [insert name] We looking to create a resource center for  [insert name]! We might offer a number of things, ranging from [insert name] to [insert name] -- but we want your feedback. Let us know what you're looking for, what you need to help you succeed!
 
 2\. Identify & Engage Existing Resources
 
@@ -71,12 +71,12 @@ First, review these steps to a successful Hackathon
 
 3\. Form Initial Business Model
 
-- 3 Models (Broadly Speaking): Community driven space (hackerspace, hobbyist makerspace), Business driven space, Co-working space
-- Possible Offerings: Classes/Workshops, On-site, Off-site, Virtual, Corporate Development.
+- 3 Models (Broadly Speaking) -- Community driven space (hackerspace, hobbyist makerspace), Business driven space, Co-working space
+- Possible Offerings -- Classes/Workshops, On-site, Off-site, Virtual, Corporate Development.
 
 4\. Finding the Co-Founder/Core Team
 
-- Necessary Functions/People: Co-Founder, or Program manager, community manager, financial manager (can be 1 person) - full time.
-- Others: Shop manager, Graphic Design, IT/tech.
+- Necessary Functions/People -- Co-Founder, or Program manager, community manager, financial manager (can be 1 person) - full time.
+- Others -- Shop manager, Graphic Design, IT/tech.
 
 
