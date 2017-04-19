@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Part 1. Basics of Digital Development](basics/part-1-basics-of-digital-development.md)
-  * [Overview](basics/chapter1.md)
+  * [Overview](basics/overview.md)
   * [IT, ICT, ICT4D, Digital Development](basics/it-ict-ict4d-digital-development.md)
   * [Principles of Digital Development](basics/principles-of-digital-development.md)
 * [Part 2. Tools](part-2-tools.md)
