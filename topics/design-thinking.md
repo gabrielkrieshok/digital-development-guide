@@ -6,8 +6,6 @@ Digital development practitioners use design thinking and promote creative capac
 
 Digital development practitioners are optimally placed to work with their community to arrive at new and different ways of doing things, of addressing long-standing challenges, and in finding ways to change behavior, thought, and action in their environments.
 
-'Design Thinking' simply gives a language and vocabulary to those efforts -- while acknowledging that Volunteers have for many years been accomplishing exactly what this 'new' framework sets out to do.
-
 ## Project Examples
 
 * Using design thinking and creative capacity building \(CCB\) to supplement participatory analysis approaches.

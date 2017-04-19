@@ -2,7 +2,7 @@
 
 Despite the popularity and diffusion of smartphones and tablets, the traditional laptop still offers comparative flexibility and productivity for many remote fieldworkers.
 
-**Make and model.** Modern laptops have come a long way in their resilience to challenging environmental conditions, portability, battery-life, and performance. There is no ideal laptop for fieldwork—the best thing to do would be to talk with fellow Volunteers, explore options for upgrades and repairs in country, and to evaluate your own personal experiences and preferences.
+**Make and model.** Modern laptops have come a long way in their resilience to challenging environmental conditions, portability, battery-life, and performance. There is no ideal laptop for fieldwork—the best thing to do would be to talk with fellow field staff, explore options for upgrades and repairs in country, and to evaluate your own personal experiences and preferences.
 
 **Battery life**. In your fieldwork, this will likely be a bigger issue than you might be used to—older machines (lithium ion) batteries wear out over time, so be aware of that. A common experience across many countries is an inconsistent power grid, which leads to fluctuations in electricity (sometimes for days, weeks, or months at a time), which, on the whole, can serve to wear down your battery and system more quickly.
 

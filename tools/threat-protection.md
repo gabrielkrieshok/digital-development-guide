@@ -8,7 +8,7 @@ This has a knock-on effect where then multiple systems become infected with a vi
 
 Nonetheless, it is important to remember that most viruses are transmitted via memory devices though anything with memory (USB sticks, mp3 players, cameras, smart phones, etc.)
 
-### Virus protection
+## Virus protection
 
 **Behavior.** Standard Internet usage rules apply, as always—don't download unknown files or attachments, be skeptical of in-browser warnings and dialogues, ensure that you are using secure http (when you see 'http_s'_ in the URL), use two-factor authentication where available, and clean out your browser cache/cookies regularly.
 
@@ -17,3 +17,8 @@ Nonetheless, it is important to remember that most viruses are transmitted via m
 **Malware and adware**. Malware is short for 'malicious software' and is an umbrella term for software that carries out unintended behavior on a user's system. Virus protection usually protects against malware and adware (malware that targets pop-up ads and may hijack searches and home pages, among other things), but you'll want to check active-running programs, browser extensions, startup programs, etc. from time to time (in addition to some good 'cleaner' software in the software list).
 
 **Backup**. It should go without saying, but backing up your system is incredibly important. Make sure to keep files secure in multiple locations, and/or in cloud computing environments (that you trust and are secure).
+
+## Resources
+
+- [Martus](https://martus.org/) – Encrypted digital platform aimed at humanitarian workers and organizations.
+- [The Guardian Project](https://guardianproject.info/) – The Guardian Project creates easy to use secure apps, open-source software libraries, and customized mobile devices that can be used around the world by any person looking to protect their communications and personal data from unjust intrusion, interception and monitoring.

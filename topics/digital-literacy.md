@@ -17,6 +17,41 @@ Digital development practioners educate their communities and counterparts on th
 
 It's not only about _using_ the technology, but it's also about how to make them functionally usable (beyond teaching just keyboarding skills, but also teaching how to be safe and protecting privacy on the net).
 
+These are just some of the topics associated with 'digital literacy':
+
+- Fundamentals
+	- Computer Education
+	- Internet Education
+	- Digital Tools
+	- Internet Safety and Security
+	- Digital Problem Solving
+- Digital Skills
+	- Word Processors
+	- Spreadsheets
+	- Browsers
+	- Email
+	- Online Services
+- Computer Programming
+	- JavaScript
+	- Python
+- Data
+	- Data Science
+	- Statistics
+	- Monitoring & Evaluation Technologies
+- User Experience
+	- Digital Design
+- Website Development
+	- HTML and CSS
+	- Web Design
+- Building Apps
+- Building Games
+- Entrepreneurship
+	- Product Design
+	- Working in Teams
+	- Building a Tech Business
+	- Pitch Coaching
+	- Presenting
+
 The proliferation of mobile phones and Internet cafes mean that people, particularly young people, are increasingly operating in two separate digital worlds – that of the controlled environment of regimented school computer lab, where 'digital literacy' often means instruction to basic word processing applications, and then the 'anything goes' context of personal mobile phones and private Internet kiosks.
 
 It is in these environments that the knowledge, skills and attitudes necessary to navigate through one's 'digital life' are much more difficult to acquire.

@@ -48,7 +48,4 @@
 - [StarWalk](http://vitotechnology.com/star-walk.html) – an interactive astronomy guide that shows celestial objects in the exact positions on the sky above you, providing detailed information about them. For [iOS](https://itunes.apple.com/app/id295430577?&amp;referrer=click%3Db5e087ee-95e0-47f5-9648-f247913b1758) and [Android](https://play.google.com/store/apps/details?id=com.vitotechnology.StarWalk).
 - [Kiwix Reader](http://www.kiwix.org/) – an offline reader for web content. It's software intended to make Wikipedia (and other packages) available without using the internet, but it is potentially suitable for all HTML content. Kiwix supports the ZIM format, a highly compressed open format with additional meta-data.
 
-## Miscellaneous
-
-- [JFK Challenge](http://jfkchallenge.org/) – Brings American history to life by turning kids (ages 9-11) into NASA and Peace Corps trainees ready to accept President Kennedy's charge to accomplish great things and make a difference in the world! Really cute little app that had nothing to do with Peace Corps Washington. : ) [iPad only](https://itunes.apple.com/us/app/the-jfk-challenge/id957358011?ls=1&amp;mt=8).
 

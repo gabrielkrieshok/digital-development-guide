@@ -1,5 +1,8 @@
 # STEM
 
+> "One of the things that I really strongly believe in is that we need to have more girls interested in math, science, and engineering. We’ve got half the population that is way underrepresented in those fields and that means that we’ve got a whole bunch of talent...not being encouraged the way they need to.""
+> —President Barack Obama, February 2013
+
 Practitioners use STEM \(Science, Technology, Engineering, and Mathematics\) activities to teach students critical thinking, creative capacity-building, and the value of education.
 
 STEM Education—Science, Technology, Engineering and Mathematics \(STEM\), are vital disciplines in the education of communities where many digital development activities are most beneficial. Encouraging STEM education curricula is important for meeting emerging vocational opportunities and the growth of developing nations' workforce.
