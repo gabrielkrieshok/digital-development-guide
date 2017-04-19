@@ -21,6 +21,7 @@
   * [Online services](tools/services.md)
 * [Part 3. Topics](part-3-topics.md)
   * [Digital Literacy](topics/digital-literacy.md)
+  * [Computer Programming](topics/computer-programming.md)
   * [Design Thinking](topics/design-thinking.md)
   * [ICTs in Education](topics/icts-in-education.md)
   * [Communications](topics/communications.md)
