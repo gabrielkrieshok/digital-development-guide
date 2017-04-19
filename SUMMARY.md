@@ -1,11 +1,13 @@
 # Summary
 
 * [Introduction](README.md)
-* [Part 1. Basics of Digital Development](part-1-basics-of-digital-development.md)
-  * [Overview](chapter1.md)
-  * [IT, ICT, ICT4D, Digital Development](it-ict-ict4d-digital-development.md)
-  * [Principles of Digital Development](principles-of-digital-development.md)
+* [Part 1. Basics of Digital Development](basics/part-1-basics-of-digital-development.md)
+  * [Overview](basics/chapter1.md)
+  * [IT, ICT, ICT4D, Digital Development](basics/it-ict-ict4d-digital-development.md)
+  * [Principles of Digital Development](basics/principles-of-digital-development.md)
 * [Part 2. Tools](part-2-tools.md)
+  * [Tools Approach](tools/tools-approach.md)
+  * [Guides and reviews](tools/guides-and-reviews.md)
   * [Mobile phones](tools/mobile-phones.md)
   * [Laptops](tools/laptops.md)
   * [Dongles, modems, tethering, and hotspots](tools/dongles.md)
@@ -29,6 +31,4 @@
   * [Data](topics/data.md)
   * [Libraries and Makerspaces](topics/libraries-and-makerspaces.md)
 * [Glossary](glossary.md)
-* [Tools Approach](tools-approach.md)
-* [Guides and reviews](guides-and-reviews.md)
 
