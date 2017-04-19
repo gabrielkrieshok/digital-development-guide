@@ -4,7 +4,7 @@ Digital development practicioners use mobile technologies to monitor their proje
 
 Mobile data collection allows you to adopt a real-time, feedback-oriented, documented approach to their projects and activities.
 
-## Project Examples
+## Project examples
 
 * Using mobile phones to capture survey data while in the field.
 * Training local staff and counterparts on mobile data collection.
@@ -42,14 +42,8 @@ field staff want to make sure that they're assessing and mitigating any risks to
 
 
 
-# Data - Mobile Data Collection Considerations
 
-An ounce of prevention is worth a pound of treatment, and so although it might seem laborious to look through some of these things at the start of your project – they are borne out of experience.
-
-You'll be doing yourself a favor by starting to address them as early as possible.
-
-
-# Data - Datasets
+## Datasets
 
 - [Indicators Registry – Humanitarian Response](https://www.humanitarianresponse.info/applications/ir/) — Guidance tool for countries to select indicators, and where possible seek standard definitions and applications of those indicators. It lists the principal needs and response monitoring indicators for each cluster and provides a unique identifier, similar to a p-code, for every indicator.
 - [Evidence Gap Maps](http://www.3ieimpact.org/en/evidence/gap-maps/) — Evidence gap maps (EGMs) consolidate what we know about what works in particular development sectors or thematic areas. 3ie's EGMs identify evidence from systematic reviews and impact evaluations and provide a graphical display of areas with strong, weak or non-existent evidence on the effects of development programs and initiatives. It's very cool and useful, but only available for a limited number of topics relevant to Youth, CED, HE, and ED.
@@ -57,9 +51,9 @@ You'll be doing yourself a favor by starting to address them as early as possibl
 - [USAID Program Evaluations](https://www.usaid.gov/results-and-data/progress-data/evaluations) — "USAID uses evaluation findings to inform decisions, improve program effectiveness, be accountable to stakeholders, and support organizational learning. Strengthening evaluation and transparency are part of the USAID Forward reform agenda."
 - [USAID's Development Data Library](https://www.usaid.gov/data) — The Development Data Library (DDL) is USAID's public repository of Agency-funded, machine readable data. The DDL is part of USAID's commitment to evidence-based programming and rigorous evaluation, while supporting the principles of the President's Open Government Initiative. This website provides raw data rather than the analysis or conclusions made from data.
 
-#
 
-# Data – Mobile Data Collection Platforms
+
+## Data collection platforms
 
 _All of these apps below are 'freemium' unless otherwise stated. This means that they basically will have free plans for most users, but your options will be limited to some degree (number of users, number of forms, export functionality, built-in SMS, support, that sort of thing)._
 
@@ -77,7 +71,8 @@ _All of these apps below are 'freemium' unless otherwise stated. This means that
 - [Typeform](http://www.typeform.com/) — Web-based platform for forms. Can also be integrated into other platforms.
 - [Medic Mobile](http://medicmobile.org/) — Software toolkit that combines smart messaging, decision support, easy data gathering and management, and health system analytics.
 
-# Data – Organizations
+
+## Organizations
 
 - [Aptivate](http://www.aptivate.org/) — Developing ICT services that facilitate communication for unconnected communities, empowering ordinary people across the developing world to improve their lives.
 - [Dimagi](http://dimagi.com/) — Privately-held social enterprise – delivers open and innovative technology to help underserved communities everywhere.
@@ -85,3 +80,5 @@ _All of these apps below are 'freemium' unless otherwise stated. This means that
 - [IPA (Innovations for Poverty Action)](http://poverty-action.org/) — Discovers and promotes effective solutions to global poverty problems with a particular economics-centered approach.
 - [Magpi](http://magpi.com/) — Provider of conﬁgurable, cloud-based mobile collection and communication applications that enable users in the ﬁeld to quickly and easily collect data and create broadcast messaging campaigns.
 - [Results for Development](http://r4d.org/) — Non-profit organization whose mission is to unlock solutions to tough development challenges that prevent people in low- and middle-income countries from realizing their full potential.
+
+

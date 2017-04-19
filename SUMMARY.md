@@ -30,8 +30,12 @@
   * [Broadcast Media](topics/broadcast-media.md)
   * [Media Production](topics/media-production.md)
   * [Data](topics/data.md)
-  * [Libraries and Makerspaces](topics/libraries-and-makerspaces.md)
+  * [Libraries, Labs, and Makerspaces](topics/libraries-labs-and-makerspaces.md)
+  * [Software Development](topics/software-development.md)
+  * [Appropriate Technology](topics/appropriate-technology.md)
 * [Part 4. Learn](part-4-learn.md)
   * [Learn Data](learn/learn-data.md)
+* [Part 5. Templates](part-5-templates.md)
+  * [Learn Data](templates/computer-lab.md)  
 * [Glossary](glossary.md)
 
