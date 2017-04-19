@@ -41,7 +41,6 @@
   * [Women and Girls in Digital Development](topics/women-and-girls.md)
 * [Part 4. Learn](part-4-learn.md)
   * [Data](learn/data.md)
-  * [Hosting Camps, Workshops, and Hackathons](learn/hosting-camps-workshops-and-hackathons.md)
   * [Give Better Presentations](learn/give-better-presentations.md)
 * [Part 5. Templates](part-5-templates.md)
   * [Computer Lab](templates/computer-lab.md)  
