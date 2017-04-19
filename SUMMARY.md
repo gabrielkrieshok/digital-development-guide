@@ -31,5 +31,7 @@
   * [Media Production](topics/media-production.md)
   * [Data](topics/data.md)
   * [Libraries and Makerspaces](topics/libraries-and-makerspaces.md)
+* [Part 4. Learn](part-4-learn.md)
+  * [Learn Data](learn/learn-data.md)
 * [Glossary](glossary.md)
 
