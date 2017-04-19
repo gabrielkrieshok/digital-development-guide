@@ -16,9 +16,9 @@ The content of the guide favors people who have some familiarity with Digital De
 
 This guide should not be considered as a comprehensive resource to those working in digital development. The value of this guide is that it is a concise and accessible resource to provide a reference of resources to get you started or moving along through a project.
 
-The guide is divided into three parts.
+The guide is divided into five parts.
 
-## Part I. Basics of Digital Development
+## Part I. Basics
 
 Part one broadly describes digital development, ICT4D, and using data for social good.
 
@@ -26,9 +26,17 @@ Part one broadly describes digital development, ICT4D, and using data for social
 
 Part two gives an overview of useful tools, technologies, and services of the trade for digital development workers.
 
-## Part III: Digital Development Topics
+## Part III: Topics
 
 Part three identifies key focus area topics and associated helpful resources.
+
+## Part IV: Learn
+
+Part four helps get started to learn more about particular topics, tools, and approaches.
+
+## Part V: Templates
+
+Part five has documents you can use to get started with digital development in the field.
 
 ---
 
