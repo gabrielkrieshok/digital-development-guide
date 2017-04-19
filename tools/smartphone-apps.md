@@ -39,8 +39,8 @@
 ## GIS and Mapping
 
 - [me](http://maps.me/en/home) – Maps for places all over the world can be downloaded for offline use. For [iOS](http://maps.me/iphone-app-pro) and [Android](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro).
-- [Go Map!!](http://wiki.openstreetmap.org/wiki/Go_Map!!) – Allows for editing and contributing to Open Street Map. For [iOS](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=592990211&amp;mt=8).
-- [Pushpin OSM](http://www.pushpinosm.org/) – Allows for editing and contributing to Open Street Map. For [iOS](https://itunes.apple.com/us/app/pushpin-osm/id565850639?mt=8) only.
+- [Go Map!!](http://wiki.openstreetmap.org/wiki/Go_Map!!) – Allows for editing and contributing to OpenStreetMap. For [iOS](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=592990211&amp;mt=8).
+- [Pushpin OSM](http://www.pushpinosm.org/) – Allows for editing and contributing to OpenStreetMap. For [iOS](https://itunes.apple.com/us/app/pushpin-osm/id565850639?mt=8) only.
 - [Google Maps](http://maps.google.com/) – For [iOS](https://itunes.apple.com/us/app/google-maps/id585027354?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.maps&amp;hl=en). Also has [enhanced offline functionality](https://support.google.com/gmm/answer/6291838?hl=en).
 
 ## Educational

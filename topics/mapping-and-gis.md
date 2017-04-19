@@ -46,7 +46,7 @@ When we talk about GIS, we could be referring to the academic discipline, the co
 ### Portals
 
 - [GIS Lounge](https://www.gislounge.com/) — Introduction to using GIS data, find up to date and interesting types of raster and vector data and further resources to other downloading sites.
-- [Free GIS Data](http://freegisdata.rtwilson.com/) — A list of links to over 300 sites providing freely available geogprahic datasets, all ready for loading into a Geographic Information System.
+- [Free GIS Data](http://freegisdata.rtwilson.com/) — A list of links to over 300 sites providing freely available geographic datasets, all ready for loading into a Geographic Information System.
 - [Penn State Open Educational Geography Resources](http://open.ems.psu.edu/courseware) — Wide range of free online geography and GIS courses, including Problem-Solving with GIS, Cartography and Visualization, Open Web Mapping, and Location Intelligence for Business.
 
 
@@ -75,8 +75,8 @@ When we talk about GIS, we could be referring to the academic discipline, the co
 
 ### Internet services
 
-- [CartoDB](https://cartodb.com/) — Browser-based mapping and analysis of location data. Use [CartoDB Map Academy](http://academy.cartodb.com/) to earn how to create maps on the web and visualize geospatial data using CartoDB.
-- [MapBox](http://www.mapbox.com/) — Pick from a dozen beautifully designed maps and create an application from it in just a few seconds. Great for creating visually appealing maps from preexisting or pre-cleaned data. Also has iOS, Android, and mobile web versions.
+- [Carto](https://cartodb.com/) — Browser-based mapping and analysis of location data. Use [CartoDB Map Academy](http://academy.cartodb.com/) to learn how to create maps on the web and visualize geospatial data using CartoDB.
+- [MapBox](http://www.mapbox.com/) — Pick from a dozen beautifully designed maps and create an application from it in just a few seconds. Great for creating visually appealing maps from pre-existing or pre-cleaned data. Also has iOS, Android, and mobile web versions.
 - [Mapbox Studio - Mapbox](https://www.mapbox.com/mapbox-studio/) — Design studio to create stunning interactive maps (formerly TileMill).
 - [Ushahidi](https://www.ushahidi.com/) — A web-based platform for mapping information from reports from SMS, Twitter, e-mail, and web. Initially used to map election violence and intimidation in Kenya.
 - [MapHub](https://maphub.net/) — Make your own map by adding points, lines, polygons or labels; allows you to import and export easily.
@@ -98,7 +98,7 @@ There's a lot to say about the crowd-sourced and open platform of OpenStreetMap.
 - [Field Papers](http://fieldpapers.org/) — Print an atlas, record what you see in the world through street mapping, and upload the data to OpenStreetMap.
 - [Big Map](http://wiki.openstreetmap.org/wiki/Bigmap) — Print large maps of OSM data from your browser.
 - [MapOSMatic](http://www.maposmatic.org/) — Generate maps of cities using OpenStreetMap data. The generated maps are available in PNG, PDF and SVG formats and are ready to be printed.
-- [Open Street Map Directions](http://map.project-osrm.org/) — Google Maps alternative for directions (routing from point A to point B) using OSM.
+- [OpenStreetMap Directions](http://map.project-osrm.org/) — Google Maps alternative for directions (routing from point A to point B) using OSM.
 
 ### OSM Projects
 
@@ -177,10 +177,10 @@ There are many different types of applications to support mapping, GIS, and geos
 - [UNDP Projects](http://open.undp.org/?goback=%2Egde_65094_member_191436479#2012) — Detailed information on the UNDP's 6,000+ development projects in 177 countries and territories worldwide. Browse the summaries, click a filter on the right, or search through the full list of projects.
 - [WorldPop](http://www.worldpop.org.uk/) — Open access archive of spatial demographic datasets for Central and South America, Africa and Asia to support development, disaster response and health applications.
 
-### Shape Files
+### Shapefiles
 
 - [Natural Earth Data](http://www.naturalearthdata.com/) — Public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales. Featuring tightly integrated vector and raster data
-- [Ellipsoid World with georeference lines and names](https://www.your-vector-maps.com/hi/-144-free-vector-world-maps/-ellipsoid-world-with-georeference-lines-and-names-jpg-300-dpi/?image=wrld-bm-2) — Site with a bunch of links to vector-based maps and shape files of the whole Earth. Good for building things in Illustrator or Sketch or the web.
+- [Ellipsoid World with georeference lines and names](https://www.your-vector-maps.com/hi/-144-free-vector-world-maps/-ellipsoid-world-with-georeference-lines-and-names-jpg-300-dpi/?image=wrld-bm-2) — Site with a bunch of links to vector-based maps and shapefiles of the whole Earth. Good for building things in Illustrator or Sketch or the web.
 - [Vector Maps](https://www.freevectormaps.com/world-maps) — Various formats and projections.
 
 

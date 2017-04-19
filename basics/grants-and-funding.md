@@ -8,7 +8,7 @@
 ### Funding organizations
 
 - [Accion Venture Lab](http://accion.org/venturelab) – Investment initiative that provides patient seed capital and support to innovative financial inclusion start-ups, fostering experimentation and promoting business models that improve financial access for people living in poverty worldwide.
-- [Acumen Fund](http://acumen.org/) – Non-profit that raises charitable donations to make long investments in early-stage companies providing reliable and affordable access to agricultural inputs, quality education, clean energy, healthcare services, formal housing, and safe drinking water to low-income customers.
+- [Acumen Fund](http://acumen.org/) – Nonprofit that raises charitable donations to make long investments in early-stage companies providing reliable and affordable access to agricultural inputs, quality education, clean energy, healthcare services, formal housing, and safe drinking water to low-income customers.
 - [Ashoka](http://ashoka.org/) – Ashoka Fellows serve as powerful examples of the change-making power inherent in every citizen of the world, so that together, the power of everyone creates the world we wish to see.
 - [Clinton Foundation](https://www.clintonfoundation.org/) – Partnerships of great purpose to find solutions that last.
 - [Echoing Green](http://echoinggreen.com/) – Fellowship Programs offers more than $4.6 million in seed-stage funding and support to emerging leaders working to bring about positive social change.

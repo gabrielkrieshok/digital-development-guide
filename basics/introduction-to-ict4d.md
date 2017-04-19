@@ -2,7 +2,7 @@
 
 ## Introduction to ICT4D
 
-ICT4D is an area in international development focused on improving social and economic wellbeing by leveraging information and communication technologies. It draws from several disciplines both as a field of practice and academia that offers a more holistic approach towards technology-related projects for social good.
+ICT4D is an area in international development focused on improving social and economic well-being by leveraging information and communication technologies. It draws from several disciplines both as a field of practice and academia that offers a more holistic approach towards technology-related projects for social good.
 
 In the past two decades, advances in technology, mobile communications, and digital connectivity have revolutionized how we connect with the world around us —this is especially true for international development workers, field staff, and the remote communities where we serve.
 
@@ -44,7 +44,7 @@ In the past two decades, advances in technology, mobile communications, and digi
 
 ## Events, campaigns, and initiatives
 
-- [Let Girls Build](http://www.builtbygirls.com/letgirlsbuild/) – Challenge from [#BUILTBYGIRLS](http://www.builtbygirls.com/letgirlsbuild/) to focus on girls' education around the world and how to get girls everywhere to develop technical solutions to everyday problems facing these girls.
+- [Let Girls Build](http://www.builtbygirls.com/letgirlsbuild/) – Challenge from [BUILTBYGIRLS](http://www.builtbygirls.com/letgirlsbuild/) to focus on girls' education around the world and how to get girls everywhere to develop technical solutions to everyday problems facing these girls.
 - [Technovation Challenge](http://www.technovationchallenge.org/) – Annual challenge from [Technovation](http://technovationchallenge.org/) that has girls all over the world compete to solve real-world problems through technology.
 - [AppCamp4Girls](http://appcamp4girls.com/) – One-week summer day program where girls can put their creative powers to work, designing and building apps, while learning more about the business of software and being inspired by women mentors in the field.
 - [WiSci Girls STEAM Camp - Girl Up](https://girlup.org/wisci/) – Part of the UN Foundation [Girl Up](https://girlup.org/) campaign, WiSci Camp aims to help bridge that gap through access to education, mentorship opportunities and leadership training.

@@ -20,7 +20,7 @@ When it comes to STEM activities and focus, we cannot afford to miss out on the 
 ## Project Examples
 
 * Teaching students critical thinking, creative capacity-building, solving real-world challenges, and promoting the value of education.
-* Youth-focused science camps, clubs, computer lap teaching activities, and STEM-enhanced lesson plans in all school subjects.
+* Youth-focused science camps, clubs, computer lab teaching activities, and STEM-enhanced lesson plans in all school subjects.
 * Education and empowerment in STEM fields with focus on girls.
 
 
@@ -40,7 +40,7 @@ When it comes to STEM activities and focus, we cannot afford to miss out on the 
 - [PBS Kids](http://pbskids.org/games/engineering/) — Many engineering games that allow students to solve mysteries with Curious George, build robots, and create their own engineering challenges to solve.
 - [Science Kids](http://www.sciencekids.co.nz/) — Contains many different resources for students to learn about the various concepts of engineering. There are fun project ideas, quizzes, experiments, and videos to engage kids.
 - [Kidport](http://www.kidport.com/) — Many offers lots of "think-and-learn" math activities for grades K-8. There are also links to information from other subjects, such as English, history, and science.
-- [APlusMath](http://aplusmath.com/) — Provides interactive math activities to help students improve their math skills. Aplusmath.com has become one of the top math web sites in the world and contains many useful resources for parents, teachers and students.
+- [APlusMath](http://aplusmath.com/) — Provides interactive math activities to help students improve their math skills. Aplusmath.com has become one of the top math websites in the world and contains many useful resources for parents, teachers and students.
 - [com](http://www.multiplication.com/) — Many fun games, learning modules, and quizzes to help students learn multiplication skills!
 - [IXL](https://www.ixl.com/) — List of key math skills that students should learn in different grades. For each concept, they provide practice questions that become harder as you correctly answer them.
 - [ABCya](http://www.abcya.com/) — A wide variety of activities, lessons, and games for students to learn about many different concepts in math and language arts. The concepts are separated by grade level, and cover grades K-5.
@@ -50,9 +50,9 @@ When it comes to STEM activities and focus, we cannot afford to miss out on the 
 
 ## Organizations
 
-- [org](http://code.org/) — Non-profit dedicated to expanding participation in computer science by making it available in more schools, and increasing participation by women and underrepresented students of color.
-- [Curiosity Machine](https://www.curiositymachine.org/) — Science education non-profit offers flexible STEM education tool that can be adapted to any learning environment.
+- [org](http://code.org/) — Nonprofit dedicated to expanding participation in computer science by making it available in more schools, and increasing participation by women and underrepresented students of color.
+- [Curiosity Machine](https://www.curiositymachine.org/) — Science education nonprofit offers flexible STEM education tool that can be adapted to any learning environment.
 - [GLOBE (Global Learning and Observations to Benefit the Environment)](http://globe.gov/) — International science and education program that provides students and the public worldwide with the opportunity to participate in data collection and the scientific process, and contribute meaningfully to our understanding of the Earth system and global environment.
 - [Google RISE Awards](https://www.google.com/edu/resources/programs/google-rise-awards/) — Supports organizations around the world that inspire girls and underrepresented minorities with the power of Computer Science.
-- [Iridescent](http://iridescentlearning.org/) — Education non-profit that trains professional engineers, scientists, and parents to deliver cutting-edge STEM education to underserved girls, children and their families through two flagship programs: Technovation and Curiosity Machine.
+- [Iridescent](http://iridescentlearning.org/) — Education nonprofit that trains professional engineers, scientists, and parents to deliver cutting-edge STEM education to underserved girls, children and their families through two flagship programs: Technovation and Curiosity Machine.
 - [YesWeCode](http://www.yeswecode.org/) — Grassroots training programs and teaming up with major technology partners, celebrities and political leaders to promote the goal of training 100,000 low-opportunity youth to become high-level computer programmers.

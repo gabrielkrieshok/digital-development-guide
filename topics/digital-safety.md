@@ -58,9 +58,9 @@ Digital safety isn't just about protecting oneself from computer viruses and ina
 - [Webwise - Internet Safety](http://www.webwise.ie/) — The Irish Internet Safety campaign – contains links to great resources and materials.
 - [INSAFE](http://www.saferinternet.org/) — Core service platform to create a better internet for children and young people.
 - [eNACSO](http://www.enacso.eu/) — NGO alliance aimed at creating a safer online environment for children through advocacy actions at national, European Union, and international levels.
-- [Childnet](http://www.childnet-int.org/) — Non-profit organization working with others to help make the internet a great and safe place for children.
+- [Childnet](http://www.childnet-int.org/) — Nonprofit organization working with others to help make the internet a great and safe place for children.
 - [Comic Strips SeguraNet - SeguraNet](http://www.seguranet.pt/en/comic-strips-seguranet) — Comic strips targeted at a younger audience to convey Internet safety issues.
-- [Family Online Safety Institute (FOSI)](http://www.fosi.org/) — International, non-profit organization which works to make the online world safer for kids and their families.
+- [Family Online Safety Institute (FOSI)](http://www.fosi.org/) — International, nonprofit organization which works to make the online world safer for kids and their families.
 
 
 

@@ -51,7 +51,7 @@ Workshops are a great way to host targeted trainings and sessions across a range
 
 ### Hosting Hackathons
 
-_Adapted from IDIN's "_ [_Qui_](https://www.idin.org/sites/default/files/resources/Olin%20Y3Q4%20Addendum%20Quick%20Thoughts%20on%20Starting%20Your%20IC.pdf) [_ck Thoughts on Starting Your (Urban) Maker/Hacker/Innovation Space_](https://www.idin.org/sites/default/files/resources/Olin%20Y3Q4%20Addendum%20Quick%20Thoughts%20on%20Starting%20Your%20IC.pdf)_"_
+_Adapted from IDIN's "[Quick Thoughts on Starting Your (Urban) Maker/Hacker/Innovation Space](https://www.idin.org/sites/default/files/resources/Olin%20Y3Q4%20Addendum%20Quick%20Thoughts%20on%20Starting%20Your%20IC.pdf)"_
 
 Successful hackathons are ones that can identify challenges, assemble a team with the relevant skills and motivation to address those challenges, and then to align existing resources, customers, and communities in order to tackle those challenges.
 

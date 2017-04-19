@@ -8,7 +8,7 @@ Hi there.
 
 This guide is being written to help people to use technology and data in order to bring about positive social change.
 
-The information, resources, toolkits, and links provided are the result of many peoples' experiences working in the field—be it domestically in their country, or internationally around the world.
+The information, resources, toolkits, and links provided are the result of many people's experiences working in the field—be it domestically in their country, or internationally around the world.
 
 This is an open and ongoing effort, so please help us to develop its contents!
 

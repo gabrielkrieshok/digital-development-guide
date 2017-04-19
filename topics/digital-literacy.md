@@ -66,7 +66,7 @@ It is in these environments that the knowledge, skills and attitudes necessary t
 
 ## Basic curricula
 
-- [Teaching Activities - Mozilla Foundation](https://www.mozilla.org/en-US/foundation/) — Engaging andready-to-use lesson plans out there on digital literacy skills.
+- [Teaching Activities - Mozilla Foundation](https://www.mozilla.org/en-US/foundation/) — Engaging and ready-to-use lesson plans out there on digital literacy skills.
 - [org](http://www.gcflearnfree.org/) — Essential skills to live and work in the 21st century. From Microsoft Office and email to reading, math, and more, over 125 tutorials, including more than 1,100 lessons, videos, and interactives.
 - [Mozilla Web Literacy Leaders 1-day Training Module](https://d157rqmxrxj6ey.cloudfront.net/anmechung/40860/) — An interactive, learner-centered 1-day training module designed to learn and teach others how to read, write, and participate on the Web.
 - [IBM Activity Kits](https://www.ibm.com/ibm/responsibility/initiatives/activitykits/) — Kits aimed at helping not-for-profit organizations understand their technology needs, sharing the fun of math and science with school children.
@@ -86,7 +86,7 @@ It is in these environments that the knowledge, skills and attitudes necessary t
 
 - [Hive Learning Networks](https://hivelearningnetworks.org/) — Growing constellation of communities around the globe that are championing digital skills and web literacy through connected learning.
 - [ISOC (Internet Society)](http://internetsociety.org/) — Promotes the open development, evolution, and use of the Internet for the benefit of all people throughout the world.
-- [Mozilla Foundation](http://mozilla.org/en-US/foundation/) — Non-profit organization that promotes openness, innovation and participation on the Internet.
+- [Mozilla Foundation](http://mozilla.org/en-US/foundation/) — Nonprofit organization that promotes openness, innovation and participation on the Internet.
 - [Shuttleworth Foundation](http://shuttleworthfoundation.org/) — Privately funded Purpose Trust that focuses opening knowledge resources.
 - [Sunlight Foundation](http://sunlightfoundation.com/) — National, nonpartisan, nonprofit organization that uses the tools of civic tech, open data, policy analysis and journalism to make our government and politics more accountable and transparent to all.
 

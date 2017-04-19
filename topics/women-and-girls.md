@@ -1,6 +1,6 @@
 # Digital Development Focused on Women and Girls
 
-Every organization and individual workinging in digital development has an obligation to consider their impact, activities, and efforts through the lens of gender empowerment and equality for women. They should this perspective to create positive impacts on the lives and livelihoods of the girls and women that make up their host communities.
+Every organization and individual working in digital development has an obligation to consider their impact, activities, and efforts through the lens of gender empowerment and equality for women. They should this perspective to create positive impacts on the lives and livelihoods of the girls and women that make up their host communities.
 
 These perspectives should range from high-level mainstreaming of ICT as tools to advance gender equality and women's empowerment to grassroots-level activities of inclusion and engagement of subject areas where girls and women have typically been excluded or marginalized (as is the case with STEM education in many parts of the world.)
 
@@ -37,8 +37,8 @@ These perspectives should range from high-level mainstreaming of ICT as tools to
 - [Chayn](http://chayn.co/) – An open-source project that leverages technology to empower women against violence and oppression so they can live happier and healthier lives.
 - [Citizen AOL - AOL](http://corp.aol.com/citizen-aol) – AOL CSR focusing on the AOL Charitable Foundation, Employee Engagement, and Cause Marketing.
 - [Code for Progress](http://www.codeforprogress.org/) – Code for Progress brings women and people of color into the coding workforce through holistic investment in their technical training and communities of support.
-- [org](http://code.org/) – Non-profit dedicated to expanding participation in computer science by making it available in more schools, and increasing participation by women and underrepresented students of color.
-- [Curiosity Machine](https://www.curiositymachine.org/) – Science education non-profit offers flexible STEM education tool that can be adapted to any learning environment.
+- [org](http://code.org/) – Nonprofit dedicated to expanding participation in computer science by making it available in more schools, and increasing participation by women and underrepresented students of color.
+- [Curiosity Machine](https://www.curiositymachine.org/) – Science education nonprofit offers flexible STEM education tool that can be adapted to any learning environment.
 - [DIY Girls](http://www.diygirls.org/) – Community organization focused on increasing girls&#39; interest and success in technology, engineering and making through innovative educational experiences and mentor relationships.
 - [Django Girls](https://djangogirls.org/) – Free Python and Django workshops, create open sourced online tutorials and care about curating amazing first experiences with technology.
 - [ELiTE Education](http://www.elite-education.org/) – Support organizations around the world that inspire girls and underrepresented minorities with the power of Computer Science.
@@ -49,12 +49,12 @@ These perspectives should range from high-level mainstreaming of ICT as tools to
 - [Grace Hopper](http://gracehopper.org/) – The Grace Hopper Celebration of Women in Computing is the World&#39;s Largest Gathering of Women Technologists. It is produced by the Anita Borg Institute and presented in partnership with ACM.
 - [GSMA - Mobile for Development](http://gsma.com/mobilefordevelopment) – Group within GSMA that brings together mobile operator members, the wider mobile industry and the development community to drive commercial mobile services for underserved people in emerging markets.
 - [org](http://hearmecode.org/) – Free, beginner-friendly coding classes for women, by women.
-- [Iridescent](http://iridescentlearning.org/) – Education non-profit that trains professional engineers, scientists, and parents to deliver cutting-edge STEM education to underserved girls, children and their families through two flagship programs: Technovation and Curiosity Machine.
+- [Iridescent](http://iridescentlearning.org/) – Education nonprofit that trains professional engineers, scientists, and parents to deliver cutting-edge STEM education to underserved girls, children and their families through two flagship programs: Technovation and Curiosity Machine.
 - [Made with Code (Google.org)](http://madewithcode.com/) – Google initiative to champion creativity, girls, and code, all at once.
 - [NASA](http://nasa.gov/) – Independent agency of the executive branch of the United States federal government responsible for the civilian space program as well as aeronautics and aerospace research.
 - [No Ceilings - The Full Participation Project](http://noceilings.org/) – Collaboration of Bill &amp; Melinda Gates Foundation and the Bill, Hillary &amp; Chelsea Clinton Foundation to gather data and analyze the gains made for women and girls over the last two decades, as well as the gaps that remain.
 - [Nomi Network](http://www.nominetwork.org/) – A nonprofit that creates economic opportunities for survivors and women at risk of human trafficking.
-- [Technovation](http://technovationchallenge.org/) – Non-profit organization of Iridescent whose mission is to inspire and educate girls and women to solve real-world problems through technology.
+- [Technovation](http://technovationchallenge.org/) – Nonprofit organization of Iridescent whose mission is to inspire and educate girls and women to solve real-world problems through technology.
 - [Vital Voices](http://www.vitalvoices.org/) – Partner with women who have made a difference to make that vision a reality through long-term investments that expand skills, connections and visibility, to accelerate their efforts.
 - [WAAW Foundation](http://waawfoundation.org/) – Foundation that supports organizations around the world that inspire girls and underrepresented minorities with the power of computer science.
 - [Womanity](http://www.womanity.org/) – Empower girls and women to shape their future and accelerate progress within their communities.
@@ -66,6 +66,6 @@ These perspectives should range from high-level mainstreaming of ICT as tools to
 - [Anita Borg Institute](http://anitaborg.org/) – Social enterprise founded on the belief that women are vital to building technology that the world needs.
 - [Girl Up (UN Foundation)](https://girlup.org/) – United Nations Foundation&#39;s adolescent girl campaign, helps the hardest to reach girls living in places where it is hardest to be a girl.
 - [Million Women Mentors](https://www.millionwomenmentors.org/) – Supports the engagement of one million Science, Technology, Engineering and Math (STEM) mentors (male and female) to increase the interest and confidence of girls and women to persist and succeed in STEM programs and careers.
-- [Destination Imagination Singapore](http://www.di-sg.org/) – Non-profit, volunteer-led organization that inspires and equips students to become innovators and leaders – annually, offers seven standards-based Challenges in STEM, Improv, Visual Arts, Service Learning, and Early Learning.
+- [Destination Imagination Singapore](http://www.di-sg.org/) – Nonprofit, volunteer-led organization that inspires and equips students to become innovators and leaders – annually, offers seven standards-based Challenges in STEM, Improv, Visual Arts, Service Learning, and Early Learning.
 - [WiSci Girls STEAM Camp - Girl Up](https://girlup.org/wisci/) – aims to help bridge that gap through access to education, mentorship opportunities and leadership training.
 - [United States Institute of Peace - Gender Resources](https://www.usip.org/gender-resources) — address a range of dimensions around gender and peacebuilding.

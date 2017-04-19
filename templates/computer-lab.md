@@ -57,7 +57,7 @@ Computer users are expected to adhere to stated lab rules and policies, of which
 
 ### Uncertainty
 
-If you are unsure of what to do, for instance in the case of an error message, a web site offer, a strange e-mail, a hardware malfunction, etc., ask a lab supervisor. It is better to wait and ask, than to take an action which will endanger yourself, the computer, or the network.
+If you are unsure of what to do, for instance in the case of an error message, a website offer, a strange e-mail, a hardware malfunction, etc., ask a lab supervisor. It is better to wait and ask, than to take an action which will endanger yourself, the computer, or the network.
 
 ### Violations
 

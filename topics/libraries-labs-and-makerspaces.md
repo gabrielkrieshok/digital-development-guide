@@ -41,13 +41,13 @@ Makerspaces are creative, Do-It-Yourself \(DIY\) spaces where people can gather 
 - [#BuiltByGirls](http://www.builtbygirls.com/) — Challenging young women to be builders, creators, and innovators.
 - [Benetech](http://benetech.org/) — Develops innovative and effective technology applications for unmet social needs.
 - [Creative Commons](http://creativecommons.org/) — Nonprofit organization that enables the sharing and use of creativity and knowledge through free legal tools.
-- [Curiosity Machine](https://www.curiositymachine.org/) — Science education non-profit offers flexible STEM education tool that can be adapted to any learning environment.
+- [Curiosity Machine](https://www.curiositymachine.org/) — Science education nonprofit offers flexible STEM education tool that can be adapted to any learning environment.
 - [DIY Girls](http://www.diygirls.org/) — Community organization focused on increasing girls' interest and success in technology, engineering and making through innovative educational experiences and mentor relationships.
-- [Fab Foundation](http://fabfoundation.org/) — Non-profit 501© 3 organization that provides access to the tools, the knowledge and the financial means to educate, innovate and invent using technology and digital fabrication to allow anyone to make (almost) anything, and thereby creating opportunities to improve lives and livelihoods around the world.
+- [Fab Foundation](http://fabfoundation.org/) — Nonprofit 501© 3 organization that provides access to the tools, the knowledge and the financial means to educate, innovate and invent using technology and digital fabrication to allow anyone to make (almost) anything, and thereby creating opportunities to improve lives and livelihoods around the world.
 - [Field Ready](http://fieldready.org/) — Social enterprise that combines a wealth of practical field knowledge, advanced qualifications, expert advisors and an open innovation process that has created an opportunity to address some of the most difficult problems faced in remote and difficult places to work.
 - [org](http://interconnection.org/) — International organization that makes ICT accessible to underserved communities around the world by providing high-quality refurbished computers to nonprofit and non-governmental organizations.
 - [Libraries without Borders](http://librarieswithoutborders.org/) — NGO working in knowledge and culture-based development in the world and supporting libraries in developing countries.
-- [Planetread](http://planetread.org/) — Non-profit dedicated to reading and literacy development around the world.
+- [Planetread](http://planetread.org/) — Nonprofit dedicated to reading and literacy development around the world.
 - [Worldreader](http://worldreader.org/) — Provide e-readers to schools in need through both sponsorships and sales.
 - [Sites Where Girls Can Learn to Code Online DebugMe Blog](http://blog.debugme.eu/where-can-girls-learn-to-code/?utm_source=designernews) — Global Libraries Program in Moldova.
 

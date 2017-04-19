@@ -4,4 +4,4 @@ Tablets (iOS and Android) can offer great functionality but also pose a few chal
 
 Other challenges include battery life in general and compatibility with transferring media to/from the devices.
 
-Many field staff report satisfaction with their e-ink readers (Amazon Kindles, for example), as they have long batter life and are easier to see in direct sunlight, and are slightly more rugged generally.
+Many field staff report satisfaction with their e-ink readers (Amazon Kindles, for example), as they have long battery life and are easier to see in direct sunlight, and are slightly more rugged generally.

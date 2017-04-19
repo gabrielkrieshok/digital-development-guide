@@ -8,7 +8,7 @@ You'll be doing yourself a favor by starting to address them as early as possibl
 
 1. Don't begin with questions around technology—begin with understanding the project objectives, needs being met, and logical framework.
 2. Discuss the project in terms of its data—what is already being collected, what isn't, how, why not, etc.
-3. Determine whether and how ICTs can add value to the projects monitoring and evaluation.
+3. Determine whether and how ICTs can add value to the project's monitoring and evaluation.
 4. Think about the various audiences and stakeholders involved – what are their knowledge, skills, and abilities with respect to the project and potential ICT integration?
 5. Be aware of differing levels of access and inclusion.
 6. Understand motivation to participate in M&E activities—of field staff, staff, community members, and partners.
@@ -39,7 +39,7 @@ Also keep in mind that as you move forward, as you learn more, that the answers 
 3. Initial designs and configurations
 - Will the design and administration of the platform be web-based?
 - Is it intuitive? Is it drag-and-drop or more complicated?
-- What are the tradeoffs in terms of easy-of-development versus complexity (conditionals and skip-logic make things easy for an end-user (maybe), but they can wonky to set-up, especially for the uninitiated.)
+- What are the tradeoffs in terms of ease-of-development versus complexity (conditionals and skip-logic make things easy for an end-user (maybe), but they can wonky to set-up, especially for the uninitiated.)
 4. Components of collection?
 - Will you need GPS coordinators?
 - Will you require photos, audio, and/or video?
@@ -47,7 +47,7 @@ Also keep in mind that as you move forward, as you learn more, that the answers 
 - Will everyone have the right hardware and technical equipment?
 - Will variations affect the data collection model?
 5. Type(s) of data
-- Thinking about text, free paragraphs of information versus rigid categories that have been agreed upon beforehand?
+- Thinking about text—free paragraphs of information versus rigid categories that have been agreed upon beforehand?
 - Will there be other data validation techniques, either within the app or via a project coordinator?
 6. Training and rollout
 - Will the process be intuitive? Will there be helper text? Will this affect the platform selected?

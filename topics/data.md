@@ -1,6 +1,6 @@
 # Data
 
-Digital development practicioners use mobile technologies to monitor their projects, collect feedback, and evaluate their work, and scale their successes.
+Digital development practitioners use mobile technologies to monitor their projects, collect feedback, and evaluate their work, and scale their successes.
 
 Mobile data collection allows you to adopt a real-time, feedback-oriented, documented approach to their projects and activities.
 
@@ -61,7 +61,7 @@ _All of these apps below are 'freemium' unless otherwise stated. This means that
 - [Magpi](http://home.magpi.com/) — iOS, Android app (SMS on the Pro plan). I like their drag-and-drop builder and web-review of data entries.
 - [Commcare](https://www.commcarehq.org/home/) — Android-only. Notable organizations using this include Save the Children and the WHO.
 - [iFormBuilder](https://www.iformbuilder.com/) — iOS, Android, and SMS app. Many options for data types, and does well with multimedia. Fair documentation. Notable organizations using it include Mercy Corps and PSI.
-- [DataWinners](https://www.datawinners.com/) — Android-only, slick drag-and-drop interface on the web. Plus, the creator is an Africa RPCV. I also love this organization because they're originally based out of Madagascar, which is where I served.
+- [DataWinners](https://www.datawinners.com/) — Android-only, slick drag-and-drop interface on the web.
 - [TaroWorks](https://www.taroworks.org/) — Android-only, built on the Salesforce platform and originally designed for project management purposes. I haven't played with this one a ton.
 - [ViewWorld](http://www.viewworld.net/) — iOS and Android. Slick and familiar interface (Bootstrap, for you nerds). It's got good user group controls and sub-items (or sub-forms), and good data validation (by a manager or coordinator on the back-end). No "logic" functions. Organizations using it include CARE and the Danish Red Cross.
 - [Epicollect](http://www.epicollect.net/) (and [Epicollect+](http://plus.epicollect.net/)) — iOS and Android (though EpiCollect+ is Android-only). Actually a pretty slick setup, and paid for by the Imperial College London so it really is free and open-source. Uses the Google App Engine as the back-end, so some assembly required (the cost of free). Organizations using it include FAO.
@@ -79,6 +79,6 @@ _All of these apps below are 'freemium' unless otherwise stated. This means that
 - [HNI (Human Network International)](http://hni.org/) — Global development organization dedicated to bringing the benefits of technology to individuals and organizations working in the developing world.
 - [IPA (Innovations for Poverty Action)](http://poverty-action.org/) — Discovers and promotes effective solutions to global poverty problems with a particular economics-centered approach.
 - [Magpi](http://magpi.com/) — Provider of conﬁgurable, cloud-based mobile collection and communication applications that enable users in the ﬁeld to quickly and easily collect data and create broadcast messaging campaigns.
-- [Results for Development](http://r4d.org/) — Non-profit organization whose mission is to unlock solutions to tough development challenges that prevent people in low- and middle-income countries from realizing their full potential.
+- [Results for Development](http://r4d.org/) — Nonprofit organization whose mission is to unlock solutions to tough development challenges that prevent people in low- and middle-income countries from realizing their full potential.
 
 

@@ -16,7 +16,7 @@ There are challenges and opportunities unique to teaching children versus teachi
 
 Finally – learning to code is tough. While there are a _number_ of resources below that help make it more exciting and challenging, it's not always going to feel like a game.
 
-- [org](http://code.org/) — Everyone should start here. There are tons of [nline courses](https://code.org/learn/beyond), challenges built around the - [Hour of Code](https://code.org/learn) (with awesome modules like [Minecraft](https://code.org/mc), [Angry Birds](http://learn.code.org/hoc/1), [Star Wars](https://code.org/starwars), Disney's [Frozen](https://studio.code.org/s/frozen/stage/1/puzzle/1), introductory curricula in computer science, fundamentals of code taught in their [Code Studio](https://studio.code.org/), and available in 40+ languages.
+- [Code.org](http://code.org/) — Everyone should start here. There are tons of [online courses](https://code.org/learn/beyond), challenges built around the [Hour of Code](https://code.org/learn) (with awesome modules like [Minecraft](https://code.org/mc), [Angry Birds](http://learn.code.org/hoc/1), [Star Wars](https://code.org/starwars), Disney's [Frozen](https://studio.code.org/s/frozen/stage/1/puzzle/1), introductory curricula in computer science, fundamentals of code taught in their [Code Studio](https://studio.code.org/), and available in 40+ languages.
 - [Technovation Curriculum](http://www.technovationchallenge.org/curriculum) — Finally, and just in time for the 2016 season, Technovation has updated their curriculum. The units have new videos, additional activities and resources. These materials are intended to help you dive deeper into the concepts covered in the curriculum.
 - [Khan Academy - Computer Programming](https://www.khanacademy.org/computing/computer-programming/programming) — An obvious entry. Khan Academy hosts online curriculum that teaches JavaScript programming, HTML/CSS, and SQL, in an interactive online environment, plus courses on Algorithms and Cryptography. Includes teaching tools to track student progress. Check out [Khan Academy Lit](https://learningequality.org/ka-lite/) for fully offline courses!
 - [Computer Science Unplugged](http://csunplugged.org/) — Collection of free learning activities that teach Computer Science through engaging games and puzzles that use cards, string, crayons and lots of running around. I highly recommend [Harold the Robot (Robots)](http://csunplugged.org/harold-the-robot-2/), [Count the Dots {Binary Numbers)](http://csunplugged.org/binary-numbers/), and [Battleships (Searching Algorithms)](http://csunplugged.org/searching-algorithms/).
@@ -29,7 +29,7 @@ Finally – learning to code is tough. While there are a _number_ of resources b
 ## Courses
 
 - [Code Academy](https://blockly-games.appspot.com/about?lang=en) — Choose from various courses to explore making a website, and programs such as: Ruby on Rails, Java, CSS.
-- [Code Avengers](https://www.codeavengers.com/) — A number of courses which include CSS3, JavaScript, and HTML 5.
+- [Code Avengers](https://www.codeavengers.com/) — A number of courses which include CSS3, JavaScript, and HTML5.
 - [Code school](https://www.codeschool.com/) — For the more advanced students—includes iOS, HTML/CSS, JavaScript and Ruby.
 - [CodeHS](https://codehs.com/) — comprehensive teaching platform for helping schools teach computer science.
 - [Khan Academy](https://www.khanacademy.org/) — Free education videos on many topics, including coding.
@@ -84,7 +84,7 @@ In order to maximize your time, the 'Hour of Code' could be facilitated at a var
 
 Tips for running coding workshops and sessions with your students:
 
-- **English Language Cheat Sheet**. For non-English speaking countries, it is very useful to create a small cheat sheet of the block codes (in English) with a local language translation. This might require you to work one on one with someone who can help you out, but even PCVs who have just arrived at site should be able to get through it.
+- **English Language Cheat Sheet**. For non-English speaking countries, it is very useful to create a small cheat sheet of the block codes (in English) with a local language translation. This might require you to work one on one with someone who can help you out.
 - **Integrate English Language Lesson Plan**. This is an excellent opportunity to create a mini English lesson plan. use those words on the cheat sheet and have the participants practice/recognizing the English before jumping into the programming.
 - **Know and Understand the Math**. Keep in mind the mathematics behind the code and logic. a few of the puzzles required figuring out angles and basic geometric shapes. if you are in a school, bring in the math teacher to help review.
 - **Balance Languages**. The other debate that often comes up around the language stuff is how much to translate versus how much folks should be learning "English Programming" to better prepare them for future coding things. I think with younger kids this is probably less of an issue.

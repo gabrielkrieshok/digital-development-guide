@@ -39,7 +39,7 @@ ICTs in education facilitates access to educational services, improves teacher c
 - [Learni.st](http://learni.st/) — Learn from expertly curated web, print and video content.
 - [African Storybook](http://www.africanstorybook.org/) — Open access to picture storybooks in the languages of Africa. For children's literacy, enjoyment and imagination.
 - [ICDL - International Children's Digital Library](http://en.childrenslibrary.org/) — Open repository of digital texts aimed at children of a global context.
-- [Internet Archive](https://archive.org/) — Non-profit library of millions of free books, movies, software, music, and more.
+- [Internet Archive](https://archive.org/) — Nonprofit library of millions of free books, movies, software, music, and more.
 - [LibriVox](https://librivox.org/) — Free public domain audiobooks.
 - [Open Library](https://openlibrary.org/) — Classics of world literature.
 - [Project Gutenberg](http://www.gutenberg.org/) — Over 50,000 free eBooks in many formats available for download and online reading.
@@ -139,14 +139,14 @@ ICTs in education facilitates access to educational services, improves teacher c
 ## Organizations
 
 - [Education Technology for Development (et4d)](http://et4d.com/) — Social enterprise which specializes in Education Technology for Development projects.
-- [Educator Innovator](http://educatorinnovator.org/) — An online "meet-up" for educators who are re-imagining learning.
+- [Educator Innovator](http://educatorinnovator.org/) — An online meetup for educators who are re-imagining learning.
 - [Health eVillages](http://healthevillages.org/) — State-of-the-art mobile health technology including medical reference and clinical decision support resources to medical professionals in the most challenging clinical environments around the world.
 - [org](http://internet.org/) — Facebook-led initiative bringing together technology leaders, nonprofits and local communities to connect the two thirds of the world that doesn't have internet access.
 - [IREX](http://irex.org/) — International nonprofit organization providing thought leadership and innovative programs to promote positive lasting change globally.
-- [Learning Equality](http://learningequality.org/) — Education non-profit committed to enabling universal access to high quality open educational resources, and creating tools that empower communities to author and share their own content.
-- [Open Learning Exchange](http://ole.org/) — International non-profit helping to create powerful Open Learning Communities throughout the developing world that ensure quality basic learning for all, with a focus on children and youth, especially girls.
+- [Learning Equality](http://learningequality.org/) — Education nonprofit committed to enabling universal access to high quality open educational resources, and creating tools that empower communities to author and share their own content.
+- [Open Learning Exchange](http://ole.org/) — International nonprofit helping to create powerful Open Learning Communities throughout the developing world that ensure quality basic learning for all, with a focus on children and youth, especially girls.
 - [Right to Education Project](http://www.right-to-education.org/) — Promote mobilization and accountability on the right to education and build bridges between the disciplines of human rights, education and development.
-- [Rumie](http://rumie.org/) — Non-profit organization bringing free digital educational content to the world's underprivileged children
+- [Rumie](http://rumie.org/) — Nonprofit organization bringing free digital educational content to the world's underprivileged children
 - [Sesame Workshop](http://sesameworkshop.org/) — Nonprofit educational organization behind Sesame Street, their mission is to help kids grow smarter, stronger, and kinder.
 - [UNICEF](http://unicef.org/) — International organization that advocates for measures to give children the best start in life.
 - [WiderNet](http://widernet.org/) — Promotes digital education and communications for all communities and individuals around the world, particularly through the support of their eGranary initiative.

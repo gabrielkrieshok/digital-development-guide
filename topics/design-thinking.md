@@ -17,7 +17,7 @@ Digital development practitioners are optimally placed to work with their commun
 
 For those new to design thinking, human-centered design (HCD), creative capacity building and the like, there are some great video introductions – including this [short video from the Grameen Foundation](https://www.youtube.com/watch?v=6mcZKWhjr9o) that follows a process for identifying and scaling solutions to problems faced by poor people.
 
-This [TED talk from Timothy Prestero](http://www.ted.com/talks/timothy_prestero_design_for_people_not_awards) (RPCV Cameroon) about designing for people and [this video](https://www.youtube.com/watch?v=DjevL1kY-sI) discussing how nurses in Ghana are using mobile phones and human-centered design to make a difference are great examples that connect the dots between design thinking and activities that field staff find themselves working in.
+This [TED talk from Timothy Prestero](http://www.ted.com/talks/timothy_prestero_design_for_people_not_awards) about designing for people and [this video](https://www.youtube.com/watch?v=DjevL1kY-sI) discussing how nurses in Ghana are using mobile phones and human-centered design to make a difference are great examples that connect the dots between design thinking and activities that field staff find themselves working in.
 
 Finally, there are a few key articles that give great overviews as well, including this.
 
