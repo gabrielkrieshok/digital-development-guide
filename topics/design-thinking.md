@@ -15,7 +15,7 @@ Digital development practitioners are optimally placed to work with their commun
 
 
 
-## Introduction to Design Thinking
+## Introduction
 
 For those new to design thinking, human-centered design (HCD), creative capacity building and the like, there are some great video introductions – including this [short video from the Grameen Foundation](https://www.youtube.com/watch?v=6mcZKWhjr9o) that follows a process for identifying and scaling solutions to problems faced by poor people.
 
@@ -23,9 +23,11 @@ This [TED talk from Timothy Prestero](http://www.ted.com/talks/timothy_prestero_
 
 Finally, there are a few key articles that give great overviews as well, including this.
 
-# Design Thinking – Readings
 
-- [Designing for social impact - O'Reilly Media](https://www.oreilly.com/ideas/designing-for-social-impact) —Using design to solve usability and communication issues in the social space at scale
+
+## Readings
+
+- [Designing for social impact - O'Reilly Media](https://www.oreilly.com/ideas/designing-for-social-impact) —Using design to solve usability and communication issues in the social space at scale.
 - [Asili Case Study - DesignKit - IDEO](http://www.designkit.org/case-studies/6) — Good example of ICT4D approach with HCD. A sustainable community-owned health, agricultural, and water business in the Democratic Republic of the Congo.
 - [Innovation for Developing Countries Through Human-Centered Design - Academic Thesis (pdf)](http://www.poverty.ch/documents/MasterSolarPumpKarin.pdf) — Example of Micro Solar Pump in Bangladesh.
 - [Design Thinking 101 - Nielsen Norman Group](https://www.nngroup.com/articles/design-thinking/) — Introductory article on Design Thinking.
@@ -35,7 +37,9 @@ Finally, there are a few key articles that give great overviews as well, includi
 - [Everyone Deserves Great Design - Ehsan Noursahli](http://www.everyonedeservesgreatdesign.com/) —Guide on how to make products that matter.
 - [Power Dynamics in Social Impact Design - Medium.com](https://medium.com/@interkatie/power-dynamics-in-social-impact-design-ca83769a1483#.hjagdqvrw) — Article covering how "Do-good" design can do more harm than good if we're not cautious.
 
-# Design Thinking – Tools and Manuals
+
+
+## Tools and Manuals
 
 - [The Field Guide to Human Centered-Design - Design Kit - IDEO.org](http://www.designkit.org/resources/1/) — Human Centered Design mindsets, methods, and case studies from [IDEO](http://www.ideo.org/), as part of the quite wonderful [Design Kit](http://www.designkit.org/).
 - [International Development Innovation Network (IDIN) Resources](http://www.idin.org/resource-library) — Favorite resources used at IDIN trainings and summits around the world.
