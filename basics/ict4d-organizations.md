@@ -15,7 +15,7 @@
 - [Citizen AOL - AOL](http://corp.aol.com/citizen-aol) – AOL CSR focusing on the AOL Charitable Foundation, Employee Engagement, and Cause Marketing.
 - [Clinton Foundation](https://www.clintonfoundation.org/) – Partnerships of great purpose to find solutions that last.
 - [Code for Progress](http://www.codeforprogress.org/) – Code for Progress brings women and people of color into the coding workforce through holistic investment in their technical training and communities of support.
-- [org](http://code.org/) – Non-profit dedicated to expanding participation in computer science by making it available in more schools, and increasing participation by women and underrepresented students of color.
+- [Code.org](http://code.org/) – Non-profit dedicated to expanding participation in computer science by making it available in more schools, and increasing participation by women and underrepresented students of color.
 - [Compatible Technology International](http://compatibletechnology.org/) – Nonprofit that designs and distributes tools in collaboration with small farmers and their communities to improve food and water security in developing countries.
 - [Corporation for National and Community Service (CNCS)](http://nationalservice.gov/) – Federal agency that helps more than 5 million Americans improve the lives of their fellow citizens through service.
 - [Creative Associates](http://creativeassociatesinternational.com/) – International development organization providing development services and forging partnerships to deliver sustainable solutions to global challenges.
