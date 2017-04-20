@@ -1,5 +1,7 @@
 # The Digital Development Guide
 
+![Cover](cover.jpg)
+
 —Edited by [Gabriel Krieshok](http://gabrielkrieshok.com)
 
 ---
