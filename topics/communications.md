@@ -41,5 +41,3 @@ SMS and mobile phones can improve the productivity of projects, help farmers acc
 - [GSMA (Groupe Spécial Mobile Alliance)](http://gsma.com/) — Association of mobile operators and related companies devoted to supporting the standardizing, deployment and promotion of the GSM mobile telephone system.
 - [mPoweringHealth](http://mpoweringhealth.org/) — Partnership of private sector, government, donors, and program implementers working to accelerate the use of mobile technology to improve the skills and performance of frontline health workers.
 - [is](http://outernet.is/) — Global broadcast data startup to provide free access to content from the web through geostationary and Low Earth Orbit satellites, made available effectively to all parts of the world.
-
-

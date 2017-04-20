@@ -193,5 +193,3 @@ There are many different types of applications to support mapping, GIS, and geos
 - [Esri](http://esri.com/) — GIS enterprise organization offering software and training.
 - [GIS Corps](http://giscorps.org/) — Coordinates short term, volunteer-based GIS services to underprivileged communities.
 - [WRI](http://wri.org/) — Non-governmental global research organization which seeks to create equity and prosperity through sustainable natural resource management.
-
-

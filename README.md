@@ -49,6 +49,3 @@ Part five has documents you can use to get started with digital development in t
 **Contribute content, suggestions, and fixes on github**:
 
 * [https://github.com/gabrielkrieshok/digital-development-guide](https://github.com/gabrielkrieshok/digital-development-guide)
-
-
-

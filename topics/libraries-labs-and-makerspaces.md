@@ -79,7 +79,3 @@ The questions are intended as a starting point for thinking about the need and p
 8. What is your budget?
 9. Are you going to charge any fees to youth for the use of these computers? (if yes, how much?)
 10. Where (or with what company) specifically will you dispose of the computer equipment when it no longer works?
-
-
-
-

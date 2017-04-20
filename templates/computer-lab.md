@@ -70,5 +70,3 @@ Violation of any of the above rules may be cause for:
 ### Signature
 
 It helps as well to have participants sign and date a form or notice that they have read and agree to the computer use contract.
-
-

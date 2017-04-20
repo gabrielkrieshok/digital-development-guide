@@ -152,5 +152,3 @@ ICTs in education facilitates access to educational services, improves teacher c
 - [WiderNet](http://widernet.org/) — Promotes digital education and communications for all communities and individuals around the world, particularly through the support of their eGranary initiative.
 - [Wikimedia Foundation](http://wikimediafoundation.org/) — Empower and engage people around the world to collect and develop educational content under a free license or in the public domain, and to disseminate it effectively and globally.
 - [World Education](http://worlded.org/) — International organization that supports effective local management and promote partnerships between local organizations that improves the quality of life through education.
-
-

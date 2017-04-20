@@ -103,5 +103,3 @@ The below resources and lesson plans provide ways that even these communities ca
 - [Activity: Ping Kong](https://mozilla.github.io/mozilla-club-activity-ping-kong/#en) — For many, "the Internet" is an abstract and overwhelming concept. This activity challenges learners to think concretely about how the internet communicates with a computer.
 - [Web Literacy Bingo](https://karenlouisesmith.makes.org/thimble/MTgwNTUxNjgw/web-literacy-bingo) — This activity can be used in offline settings, or between screen based activities. Web literacy Bingo allows you to explore a web literacy competency of your choice with a group of learners. This example shows a privacy Bingo card.
 - [Computer Science Unplugged](http://csunplugged.org/) — Collection of free learning activities that teach Computer Science through engaging games and puzzles that use cards, string, crayons and lots of running around. I highly recommend [Harold the Robot (Robots)](http://csunplugged.org/harold-the-robot-2/), [Count the Dots {Binary Numbers)](http://csunplugged.org/binary-numbers/), and [Battleships (Searching Algorithms)](http://csunplugged.org/searching-algorithms/).
-
-

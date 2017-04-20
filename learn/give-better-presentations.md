@@ -39,5 +39,3 @@ OK ok – just a couple of technical points because they drive me crazy.
 - [The Data Visualisation Catalogue](http://www.datavizcatalogue.com/) — Useful for designers and also anyone in a field that requires the use of data visualization regularly – you can select by function and get a description as well as links to tools that you can build that visualization in.
 - [20 Websites to Get Free Vector Designs, Images and Icons](http://blog.templatetoaster.com/20-websites-get-free-vector-designs-images-icons/) — Links to links. Very useful.
 - Finally, I'll always check out what _others_ are doing on the topic I'm speaking on to get inspiration. My two favorites are [Slideshare](http://www.slideshare.net/) and [Speaker Deck](https://speakerdeck.com/).
-
-

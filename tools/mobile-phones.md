@@ -55,6 +55,4 @@ It’s always good to have a feature/brick phone as a backup, for emergencies, a
 
 ### Download offline-friendly apps and content
 
-Use the storage in your smartphone or with SD cards to hold [offline Wikipedia](http://wiki.kiwix.org/wiki/Main_Page), [offline dictionary apps](http://www.androidauthority.com/best-dictionary-apps-android-751290/), and fun things like [knot tying](https://play.google.com/store/apps/details?id=com.max.KnotsGuide&hl=en) and [stargazing](https://play.google.com/store/apps/details?id=com.vitotechnology.StarWalk2Free&hl=en).
-
-
+Use the storage in your smartphone or with SD cards to hold [offline Wikipedia](http://wiki.kiwix.org/wiki/Main_Page), [offline dictionary apps](http://www.androidauthority.com/best-dictionary-apps-android-751290/), and fun things like [knot tying](https://play.google.com/store/apps/details?id=com.max.KnotsGuide) and [stargazing](https://play.google.com/store/apps/details?id=com.vitotechnology.StarWalk2Free).

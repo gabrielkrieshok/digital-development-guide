@@ -99,5 +99,3 @@ The keys to being safe in a digital world should include the following:
 - [Webwise Primary Teachers' Handbook](http://www.webwise.ie/2014/teachers/webwiseprimaryprogramme/) — For primary school teachers who wish to introduce internet safety. The resources teach kids the skills needed for surfing the web. It also examines ways of communicating effectively.
 - [Think B4U Click](http://www.webwise.ie/2014/teachers/thinkb4uclick-2/) — Designed for teachers, explores the issue of online privacy in the context of online rights and responsibilities.
 - [Web We Want](http://www.webwise.ie/2014/teachers/web-we-want-2/) — Educational handbook for use by 13-16 year olds, developed with and by young people. Learn more about your online rights and create tips that you can share with young people all over the world.
-
-

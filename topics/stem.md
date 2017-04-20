@@ -29,8 +29,8 @@ When it comes to STEM activities and focus, we cannot afford to miss out on the 
 
 - [Make the most of Your UNIVERSE](http://chandra.si.edu/corps/) (NASA's Chandra X-Ray Observatory)— Tools to help you learn more about the Universe that all of us inhabit.
 - [Explore Smithsonian](https://ssec.si.edu/explore-smithsonian) — From the Smithsonian Science Education Center, dedicated to formal preK-12 science education reform.
-  - [Curriculum & Resources](https://ssec.si.edu/explore-our-curriculum-resources) — Videos, games, resources, ebooks, curriculum, and apps—be sure to check the "free resources only" filter.
-  - [Good Thinking](https://ssec.si.edu/goodthinking) — Animated series that helps teachers teach science.
+	- [Curriculum & Resources](https://ssec.si.edu/explore-our-curriculum-resources) — Videos, games, resources, ebooks, curriculum, and apps—be sure to check the "free resources only" filter.
+	- [Good Thinking](https://ssec.si.edu/goodthinking) — Animated series that helps teachers teach science.
 - [Smithsonian Learning Lab](https://learninglab.si.edu/) — Digital resources from across the Smithsonian's 19 museums, 9 major research centers, the National Zoo, and more, can be used together, for learning.
 - [IBM Activity Kits](https://www.ibm.com/ibm/responsibility/initiatives/activitykits/) — Kits aimed at helping not-for-profit organizations understand their technology needs, sharing the fun of math and science with school children.
 - [TeachersTryScience Lesson Plans](http://www.teacherstryscience.org/lp) — Hands-on lessons focused on environmental science. Each lesson is integrated with effective teaching strategies, practical how-to's and other helpful supports.

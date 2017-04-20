@@ -13,4 +13,3 @@ Rather, the challenge is in striking that balance—to be able to leverage the t
 Finally—it's important to approach any tools and technologies with a healthy amount of detachment and even skepticism. Field experiences are chock full of challenges—weather, water, sand, sun, theft, robbery, degradation, isolation, and misaligned expectations.
 
 The secret sauce of the successful field worker consists of healthy parts patience, resilience, a keen ear, and an ability to always be learning.
-

@@ -6,7 +6,7 @@ ICT4D is an area in international development focused on improving social and ec
 
 In the past two decades, advances in technology, mobile communications, and digital connectivity have revolutionized how we connect with the world around us —this is especially true for international development workers, field staff, and the remote communities where we serve.
 
-##  Readings
+## Readings
 
 ### Guides
 
@@ -33,7 +33,7 @@ In the past two decades, advances in technology, mobile communications, and digi
 - [Knowledge Sharing Tools](http://www.kstoolkit.org/) – Resource of knowledge sharing tools, framed in the context of international development with a focus on agriculture, fisheries, food and nutrition, forestry and sustainable development.
 - [Kopernik Impact Tracker Technology](http://impacttrackertech.kopernik.info/) – For Nonprofits and Social Enterprises Without Strong it Capacities: Affordable, Simple Tools to Collect Data, Communicate With Clients, and Measure Impact.
 - [NetHope Solutions Center](http://solutionscenter.nethope.org/) – [NetHope](http://nethope.org/)'s mission is to act as a catalyst for collaboration, bringing together the knowledge and power of more than 41 leading international humanitarian organizations so that the best information communication technology and practices can be used to serve people in the developing world.
-- [World Summit on the Information Society (WSIS) Stocktaking ICTD Projects Database](http://groups.itu.int/Default.aspx?tabid=788&language=en-US) – Register of ICT activities carried out by governments, international organizations, the business sector, civil society and other entities.
+- [World Summit on the Information Society (WSIS) Stocktaking ICTD Projects Database](http://groups.itu.int/Default.aspx?tabid=788) – Register of ICT activities carried out by governments, international organizations, the business sector, civil society and other entities.
 - [ICT4D @ Tulane](https://tulaneict4d.wordpress.com/country-ict-resources/) – Student perspectives on ICT4D from the Payson Center's IDEV4100 Classes at Tulane University in New Orleans.
 - [Mhealth Knowledge](http://mhealthknowledge.org/) – Connecting global health professionals to people, products, and ideas.
 - [Map of Tech & Start-up Hubs across Sub-Saharan Africa](https://docs.google.com/spreadsheets/d/1DvXVB2ikFzUxi78lznojlZyDcR_Gn43i7m-Y3mkTrCQ/edit#gid=0) – The Cambridge-based [Fab Foundation](http://www.fabfoundation.org/), with the help of [BongoHive Tech Hub in Zambia](http://bongohive.co.zm/).
@@ -50,5 +50,3 @@ In the past two decades, advances in technology, mobile communications, and digi
 - [WiSci Girls STEAM Camp - Girl Up](https://girlup.org/wisci/) – Part of the UN Foundation [Girl Up](https://girlup.org/) campaign, WiSci Camp aims to help bridge that gap through access to education, mentorship opportunities and leadership training.
 - [Tech Needs Girls - Soronko Solutions](http://www.soronkosolutions.com/tng.html) – Tech Needs Girls (sponsored by [Soronko Solutions](http://www.soronkosolutions.com/)) is a movement and a mentorship program to get more girls to create technology.
 - [Computers for Girls](http://www.worldcomputerexchange.org/computers-girls) – Initiative from [World Computer Exchange](http://www.worldcomputerexchange.org/) that targets providing digital resources for girls.
-
-

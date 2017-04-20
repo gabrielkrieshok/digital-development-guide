@@ -7,4 +7,3 @@ Very broadly, IT is often considered “hard” technology—hardware, code, sys
 ICT is generally “soft ” technology—the designing and managing of digital strategies, content and digital processes, and project programming.
 
 ICT4D refers to the use of ICTs \(Information and Communication Technologies\) put to use explicitly for social or economic development—the ‘4D’ portion of the acronym. Over the last few years, the term ‘digital development’ has come to be used interchangeably with ICT4D—owing to its greater accessibility and flexibility.
-

@@ -33,5 +33,3 @@ _30-minute YouTube Series on Mobile Apps in the Developing World_
 - [Life Apps: Silicon Savannah](https://www.youtube.com/watch?v=LeE3ptRlpWQ) — Can a Nairobi-based software developer create a mobile phone app to help Kenya's hard-pressed subsistence farmers?
 - [Life Apps: Favela Farm](https://www.youtube.com/watch?v=vbTNMQHTxSA) — Can a Brazilian digital design student develop an app that could benefit those living in some of Rio's largest favelas?
 - [Life Apps: Mobile Harvest](https://www.youtube.com/watch?v=VwQLMsf0omo) — Will a software designer be able to create an app that can transform the lives of millions of India's poorest farmers?
-
-

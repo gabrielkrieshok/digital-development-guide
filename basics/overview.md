@@ -20,5 +20,4 @@ The gulf between the technology ‘haves’ and ‘have nots’ has been called 
 
 The Digital Divide is not just the inequality between rich and poor countries — it is the gap in geography, in status, in generation, in race, and in gender. If there’s limited understanding about how it all works, these new users will likely miss out.
 
-Our role as digital development practitioners  is to act as catalysts to bridge this divide; to build on the existing historical and market forces that have led to the amazing diffusion of technology and innovation and ensure that it can benefit as many lives as possible.
-
+Our role as digital development practitioners is to act as catalysts to bridge this divide; to build on the existing historical and market forces that have led to the amazing diffusion of technology and innovation and ensure that it can benefit as many lives as possible.

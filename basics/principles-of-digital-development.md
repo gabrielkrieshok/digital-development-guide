@@ -60,6 +60,3 @@ From the [Digital Principles website](http://digitalprinciples.org/):
 * Engage diverse expertise across disciplines and industries at all stages.
 * Work across sector silos to create coordinated and more holistic approaches.
 * Document work, results, processes and best practices and share them widely.
-
-
-

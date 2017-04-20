@@ -48,5 +48,3 @@ Finally, there are a few key articles that give great overviews as well, includi
 - [Human-Centered Design Toolkit Africa - Future by Design](http://futurebydesign.co.za/myhcd/) — Afro-centric approach to HCD.
 - [IDDS Design Notebook - International Development Innovation Network (IDIN)](http://www.idin.org/resources/curriculum/idds-design-notebook) — The IDDS Design Notebook is used to teach the design process during International Development Design Summits.
 - [Resources - OpenIDEO](https://challenges.openideo.com/content/resources) — Great resources on topics such as 'building a team', 'engaging offline', 'building by doing', 'reimagining international aid', 'interview toolkits', 'brainstorm toolkits', and more!
-
-

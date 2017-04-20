@@ -6,7 +6,7 @@ Some field staff are finding that portable routers help make sharing files and c
 
 Local servers allow for portable digital file distribution typically based on inexpensive hardware (routers or low-cost computer modules). They enable the delivery of educational, healthcare, and other vital information to individuals in off-the-grid settings where access to the Internet is expensive or challenging.
 
-- [RACHEL Pi](https://racheloffline.org/products/rachel-pi-complete-server-package) — Remote Area Community Hotspot for Education &amp; Learning (RACHEL), featuring many offline educational packages on Raspberry Pi (computer module) router.
+- [RACHEL Pi](https://racheloffline.org/products/rachel-pi-complete-server-package) — Remote Area Community Hotspot for Education & Learning (RACHEL), featuring many offline educational packages on Raspberry Pi (computer module) router.
 - [RACHEL Plus](https://racheloffline.org/products/rachel-plus) — Similar to RACHEL Pi, allows for many more simultaneous users, plenty of offline storage, extended battery life, and extended WiFi range.
 - [Pirate Box](http://piratebox.cc/) – PirateBox is a DIY anonymous offline file-sharing and communications system built with free software and inexpensive off-the-shelf hardware.
 - [LibraryBox](http://librarybox.us/) – Open source, portable digital file distribution tool based on inexpensive hardware that enables delivery of educational, healthcare, and other vital information to individuals off the grid.

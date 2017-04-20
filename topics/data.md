@@ -80,5 +80,3 @@ _All of these apps below are 'freemium' unless otherwise stated. This means that
 - [IPA (Innovations for Poverty Action)](http://poverty-action.org/) — Discovers and promotes effective solutions to global poverty problems with a particular economics-centered approach.
 - [Magpi](http://magpi.com/) — Provider of conﬁgurable, cloud-based mobile collection and communication applications that enable users in the ﬁeld to quickly and easily collect data and create broadcast messaging campaigns.
 - [Results for Development](http://r4d.org/) — Nonprofit organization whose mission is to unlock solutions to tough development challenges that prevent people in low- and middle-income countries from realizing their full potential.
-
-

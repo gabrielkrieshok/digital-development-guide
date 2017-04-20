@@ -21,5 +21,3 @@
 - [Skoll Foundation](http://skollfoundation.org/) – Entrepreneurship organization that drives large-scale change by investing in, connecting, and celebrating social entrepreneurs and innovators who help them solve the world's most pressing problems.
 - [Solutions for Youth Employment](https://www.s4ye.org/about) – Helps stakeholders across all sectors to link to each other for coordinated action, to identify, learn from, and innovate upon successful solutions, and to leverage and scale up effective policies and investments to enhance employment among youth.
 - [TechSoup](http://techsoup.org/) – International network of 53 partner NGOs in Africa, the Americas, Asia Pacific, Europe, and the Middle East that leverages technology to build NGO capacity towards solving social problems in local communities and fostering global social change.
-
-
