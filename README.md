@@ -20,23 +20,23 @@ This guide should not be considered as a comprehensive resource to those working
 
 The guide is divided into five parts.
 
-## Part I. Basics
+## [Part I. Basics](/part-1-basics.md)
 
 Part one broadly describes digital development, ICT4D, and using data for social good.
 
-## Part II: Tools
+## [Part II: Tools](/part-2-tools.md)
 
 Part two gives an overview of useful tools, technologies, and services of the trade for digital development workers.
 
-## Part III: Topics
+## [Part III: Topics](/part-3-topics.md)
 
 Part three identifies key focus area topics and associated helpful resources.
 
-## Part IV: Learn
+## [Part IV: Learn](/part-4-learn.md)
 
 Part four helps get started to learn more about particular topics, tools, and approaches.
 
-## Part V: Templates
+## [Part V: Templates](/part-5-templates.md)
 
 Part five has documents you can use to get started with digital development in the field.
 
