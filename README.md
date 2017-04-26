@@ -1,6 +1,10 @@
 # ICT4D Guide
 
-A digital development guide to help field staff in 'information and communication technologies for development' \(ICT4D\) projects around the world.![](/images/logo.svg)Hi there!
+A digital development guide to help field staff in 'information and communication technologies for development' \(ICT4D\) projects around the world.
+
+![](/images/logo.svg)
+
+Hi there!
 
 This guide is being written to help people to use technology and data in order to bring about positive social change.
 
