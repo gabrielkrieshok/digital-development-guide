@@ -1,6 +1,4 @@
-# The Digital Development Guide
-
-![Cover](cover.jpg)
+![](/cover.jpg)
 
 —Edited by [Gabriel Krieshok](http://gabrielkrieshok.com)
 
@@ -49,3 +47,6 @@ Part five has documents you can use to get started with digital development in t
 **Contribute content, suggestions, and fixes on github**:
 
 * [https://github.com/gabrielkrieshok/digital-development-guide](https://github.com/gabrielkrieshok/digital-development-guide)
+
+
+
