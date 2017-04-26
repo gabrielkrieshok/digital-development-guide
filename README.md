@@ -1,16 +1,12 @@
-![](/cover.jpg)
+# ICT4D Guide
 
-—Edited by [Gabriel Krieshok](http://gabrielkrieshok.com)
-
----
-
-Hi there.
+A digital development guide to help field staff in 'information and communication technologies for development' \(ICT4D\) projects around the world.![](/images/logo.svg)Hi there!
 
 This guide is being written to help people to use technology and data in order to bring about positive social change.
 
 The information, resources, toolkits, and links provided are the result of many people's experiences working in the field—be it domestically in their country, or internationally around the world.
 
-This is an open and ongoing effort, so please help us to develop its contents!
+This is an open, ongoing, and collaborative effort, so please help us to develop its contents!
 
 The content of the guide favors people who have some familiarity with Digital Development, ICT4D, and international development, but should be accessible and engaging to everyone.
 
@@ -48,5 +44,7 @@ Part five has documents you can use to get started with digital development in t
 
 * [https://github.com/gabrielkrieshok/digital-development-guide](https://github.com/gabrielkrieshok/digital-development-guide)
 
+---
 
+—This website and resource were prepared through many nights and weekends by [Gabriel Krieshok](http://gabrielkrieshok.com).
 
