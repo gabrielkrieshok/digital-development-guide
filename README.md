@@ -44,7 +44,7 @@ Part five has documents you can use to get started with digital development in t
 
 **Download a .pdf, .epub, or .mobi file from**:
 
-* [https://www.gitbook.com/book/gabrielkrieshok/digital-development-guide/details](https://www.gitbook.com/book/gabrielkrieshok/digital-development-guide/details)
+* [https://www.gitbook.com/book/gabrielkrieshok/ict4d-guide/details](https://www.gitbook.com/book/gabrielkrieshok/digital-development-guide/details)
 
 **Contribute content, suggestions, and fixes on github**:
 
