@@ -1,6 +1,4 @@
-![](/images/logo.png)
-
-# ICT4D Guide
+# ![](/images/logo.png)ICT4D Guide
 
 > ICT4D Guide — A digital development guide to help field staff in 'information and communication technologies for development' \(ICT4D\) projects around the world.
 
@@ -16,7 +14,7 @@ This is an open, ongoing, and collaborative effort, so please help us to develop
 
 ---
 
-**Download a .[pdf](https://www.gitbook.com/download/pdf/book/gabrielkrieshok/ict4d-guide), .[epub](https://www.gitbook.com/download/epub/book/gabrielkrieshok/ict4d-guide), or .[mobi](https://www.gitbook.com/download/mobi/book/gabrielkrieshok/ict4d-guide) file from**:
+**Download a .**[**pdf**](https://www.gitbook.com/download/pdf/book/gabrielkrieshok/ict4d-guide)**, .**[**epub**](https://www.gitbook.com/download/epub/book/gabrielkrieshok/ict4d-guide)**, or .**[**mobi**](https://www.gitbook.com/download/mobi/book/gabrielkrieshok/ict4d-guide)** file from**:
 
 * [https://www.gitbook.com/book/gabrielkrieshok/ict4d-guide/details](https://www.gitbook.com/book/gabrielkrieshok/ict4d-guide/details)
 
@@ -25,7 +23,6 @@ This is an open, ongoing, and collaborative effort, so please help us to develop
 * [https://github.com/gabrielkrieshok/ict4d-guide](https://github.com/gabrielkrieshok/ict4d-guide)
 
 ---
-
 
 ## Contents
 
@@ -51,15 +48,11 @@ Part four helps get started to learn more about particular topics, tools, and ap
 
 Part five has documents you can use to get started with digital development in the field.
 
-
-
 ## Who this Guide is for
 
 The content of the guide favors people who have some familiarity with Digital Development, ICT4D, and international development, but should be accessible and engaging to everyone.
 
 This guide should not be considered as a comprehensive resource to those working in digital development. The value of this guide is that it is a concise and accessible resource to provide a reference of resources to get you started or moving along through a project.
-
-
 
 ## Who made this
 
