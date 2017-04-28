@@ -22,7 +22,7 @@ ___
 
 ## Contents
 
-The guide is divided into five parts.
+The guide is divided into four parts.
 
 #### [Part I. Basics](/part-1-basics.md)
 
