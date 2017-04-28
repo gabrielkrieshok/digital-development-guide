@@ -6,6 +6,16 @@ ICT4D is an area in international development focused on improving social and ec
 
 In the past two decades, advances in technology, mobile communications, and digital connectivity have revolutionized how we connect with the world around us —this is especially true for international development workers, field staff, and the remote communities where we serve.
 
+## IT, ICT, ICT4D, or Digital Development
+
+One thing that separates ICT4D from say, a more straightforward approach to IT interventions is the explicit focus on impact on people, and in ensuring that the primary focus of any intervention is placed squarely on the well-being of the target group.
+
+Very broadly, IT is often considered “hard” technology—hardware, code, systems administration, server maintenance, and IT assets like computers, workstations, and the back-end of digital tools.
+
+ICT is generally “soft ” technology—the designing and managing of digital strategies, content and digital processes, and project programming.
+
+ICT4D refers to the use of ICTs \(Information and Communication Technologies\) put to use explicitly for social or economic development—the ‘4D’ portion of the acronym. Over the last few years, the term ‘digital development’ has come to be used interchangeably with ICT4D—owing to its greater accessibility and flexibility.
+
 ## Readings
 
 ### Guides
