@@ -45,3 +45,4 @@
 * [Part 5. Templates](part-5-templates.md)
   * [Computer Lab](templates/computer-lab.md)  
 * [Glossary](glossary.md)
+* [Glossary](about/glossary2.md)
