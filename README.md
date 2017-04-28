@@ -4,27 +4,21 @@
 
 This is an open and accessible guide to help field staff in 'information and communication technologies for development' \(ICT4D\) projects around the world.
 
----
+This guide is the result of many people's experiences working in the field—be it domestically in their country, or internationally around the world.
 
-Hi there!
+This is an open, ongoing, and collaborative effort, so please help us by contributing to the guide!
 
-This guide is being written to help people to use technology and data in order to bring about positive social change.
+*Ready to jump in? Browse the Guide here (works on mobile as well), or download a [PDF](https://www.gitbook.com/download/pdf/book/gabrielkrieshok/ict4d-guide), [EPUB](https://www.gitbook.com/download/epub/book/gabrielkrieshok/ict4d-guide), or [MOBI](https://www.gitbook.com/download/mobi/book/gabrielkrieshok/ict4d-guide) version of the Guide.*
 
-The information, resources, toolkits, and links provided are the result of many people's experiences working in the field—be it domestically in their country, or internationally around the world.
+*Ready to collaborate? Head on over to the [book source](https://github.com/gabrielkrieshok/ict4d-guide) on Github or browse the [issues](https://github.com/gabrielkrieshok/ict4d-guide/issues) page to get started.*
 
-This is an open, ongoing, and collaborative effort, so please help us to develop its contents!
+*Ready to contibute? See [the contributing guide](about/contributing.md).*
 
----
 
-**Download a .**[**pdf**](https://www.gitbook.com/download/pdf/book/gabrielkrieshok/ict4d-guide)**, .**[**epub**](https://www.gitbook.com/download/epub/book/gabrielkrieshok/ict4d-guide)**, or .**[**mobi**](https://www.gitbook.com/download/mobi/book/gabrielkrieshok/ict4d-guide)** file from**:
 
-* [https://www.gitbook.com/book/gabrielkrieshok/ict4d-guide/details](https://www.gitbook.com/book/gabrielkrieshok/ict4d-guide/details)
+___
 
-**Contribute content, suggestions, and fixes on github**:
 
-* [https://github.com/gabrielkrieshok/ict4d-guide](https://github.com/gabrielkrieshok/ict4d-guide)
-
----
 
 ## Contents
 
@@ -58,5 +52,5 @@ This guide should not be considered as a comprehensive resource to those working
 
 ## Who made this
 
-—This website and resource were prepared through many nights and weekends by [Gabriel Krieshok](http://gabrielkrieshok.com).
+This Guide and resources were prepared through many nights and weekends by [Gabriel Krieshok](http://gabrielkrieshok.com).
 
