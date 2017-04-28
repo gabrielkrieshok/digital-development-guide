@@ -8,6 +8,7 @@
   * [Grants and funding](basics/grants-and-funding.md)
   * [IT, ICT, ICT4D, Digital Development](basics/it-ict-ict4d-digital-development.md)
   * [Principles of Digital Development](basics/principles-of-digital-development.md)
+  * [Glossary](glossary.md)
 * [Part 2. Tools](part-2-tools.md)
   * [Tools Approach](tools/tools-approach.md)
   * [Guides and reviews](tools/guides-and-reviews.md)
@@ -42,7 +43,5 @@
 * [Part 4. Learn](part-4-learn.md)
   * [Data](learn/data.md)
   * [Give Better Presentations](learn/give-better-presentations.md)
-* [Part 5. Templates](part-5-templates.md)
-  * [Computer Lab](templates/computer-lab.md)  
-* [Glossary](glossary.md)
-* [Glossary](about/glossary2.md)
+* About
+  * [Contributing](about/contributing.md)
