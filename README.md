@@ -1,6 +1,8 @@
-# ![](/images/logo.png)ICT4D Guide
+![](/images/logo.png)
 
-> ICT4D Guide — A digital development guide to help field staff in 'information and communication technologies for development' \(ICT4D\) projects around the world.
+# ICT4D Guide
+
+This is an open and accessible guide to help field staff in 'information and communication technologies for development' \(ICT4D\) projects around the world.
 
 ---
 
