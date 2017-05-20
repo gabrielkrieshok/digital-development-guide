@@ -11,4 +11,32 @@ One very important feature of ICT4D as an area of focus is that it looks at all 
 Access to technologies, to information, and to services can also serve to exacerbate and amplify inequality, limit opportunities to the rich and well-connected, and leapfrog marginalized communities.
 
 
+## Five terms to understand ICT4D
+
+Hype Cycle
+
+Wicked Problems
+
+User Experience
+
+Technological Determinism
+
+
+## Evoluation of ICT4D
+
+
+| Issue // Phase       | ICT4D 0.0                 | ICT4D 1.0                       | ICT4D 2.0                 | 
+|----------------------|---------------------------|---------------------------------|---------------------------| 
+| Iconic technology    | PC database               | Telecentre                      | Mobile phone, convergence | 
+| Key application      | Data processing           | Content (and iteration)         | Services and production   | 
+| The poor             | Who?                      | Consumers                       | Innovators and producers  | 
+| Key goal             | Organizational efficiency | MDGs                            | Growth and development    | 
+| Key issue            | Technology's potential    | Readiness and availability      | Uptake and impact         | 
+| Key actor            | Government                | Donors and NGOs                 | All sectors               | 
+| Attitude             | Ignore → Isolate          | Idolise → Integrate             | Integrate → Innovate      | 
+| Innovation model     | Northern                  | Pro-poor → Para-poor            | Para-poor → Per-poor      | 
+| Dominant discipline  | Information Systems       | Informatics/Development Studies | Tribrid of CS, IS, and DS | 
+| Development paradigm | Modernisation             | Human development               | Development 2.0           | 
+
+
 

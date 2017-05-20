@@ -25,7 +25,7 @@ Finally, there are a few key articles that give great overviews as well, includi
 
 ## Readings
 
-- [Designing for social impact - O'Reilly Media](https://www.oreilly.com/ideas/designing-for-social-impact) —Using design to solve usability and communication issues in the social space at scale.
+- [Designing for social impact - O'Reilly Media](https://www.oreilly.com/ideas/designing-for-social-impact) — Using design to solve usability and communication issues in the social space at scale.
 - [Asili Case Study - DesignKit - IDEO](http://www.designkit.org/case-studies/6) — Good example of ICT4D approach with HCD. A sustainable community-owned health, agricultural, and water business in the Democratic Republic of the Congo.
 - [Innovation for Developing Countries Through Human-Centered Design - Academic Thesis (pdf)](http://www.poverty.ch/documents/MasterSolarPumpKarin.pdf) — Example of Micro Solar Pump in Bangladesh.
 - [Design Thinking 101 - Nielsen Norman Group](https://www.nngroup.com/articles/design-thinking/) — Introductory article on Design Thinking.
