@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Basics](part-1-basics.md)
   * [Overview of ICT4D](1-basics/1-overview.md)
-  * [Introduction to ICT4D](1-1-basics/2-introduction.md)
+  * [Introduction to ICT4D](1-basics/2-introduction.md)
   * [ICT4D across Sectors](1-basics/3-cross-sector.md)
   * [Principles of ICT4D](1-basics/3-principles.md)
   * [Readings](1-basics/readings.md)
