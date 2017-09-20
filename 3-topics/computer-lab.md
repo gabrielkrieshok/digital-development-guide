@@ -32,7 +32,7 @@ Field staff find themselves still front-and-center in helping to create, facilit
 
 
 
-### Organization
+### Organizations
 
 - [Interconnection.org](http://interconnection.org) -- International organization that makes ICT accessible to underserved communities around the world by providing high-quality refurbished computers to nonprofit and non-governmental organizations. (Organization > computer lab)
 - [Kids On Computers](http://www.kidsoncomputers.org/) -- Nonprofit organization comprised of a group of volunteers, setting up computer labs in areas where kids don’t have access to technology. (Organization > computer lab > children)
