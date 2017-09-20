@@ -1,6 +1,6 @@
-## Communications
+# Communications
 
-### Ideas
+## Ideas
 
 - Amplifying the reach of your projects to more people and communities. 
 - Faster and more reliable feedback loops through reminders and follow-up. 
@@ -12,14 +12,14 @@ Communications include formal and informal messaging, feedback channels on a ran
 
 The growth of mobile communications in both technology and demonstrated by user preferences around the world puts significant focus on the use of mobile tools of communication for social growth—which bring with them new questions of user experience, sustainability, and privacy.
 
-### Resources
+## Resources
 
-#### Reading
+### Reading
 
 - [How social media data can improve people’s lives - if used responsibly - The Conversation](https://theconversation.com/how-social-media-data-can-improve-peoples-lives-if-used-responsibly-75367) -- Overview of social media data use in international development contexts. (Reading > communications > social media, data responsibility)
 - [How to Integrate Mobile Solutions into Development Projects - USAID](http://donorscharter.org/resources/USAID-Mobile-Development-Handbook.pdf) -- Toolkit for development practitioners using mobile communications. (Reading > communications > mobile, manual)
 
-#### Services
+### Services
 
 - [appear.in](https://appear.in/) -- Browser-based video conferencing. (Service > communications > video conferencing)
 - [BlueJeans Conferencing](https://www.bluejeans.com/) -- Video-conferencing and screen-sharing. Works well when facing faulty connections. (Service > communications > video conferencing)
@@ -43,7 +43,7 @@ The growth of mobile communications in both technology and demonstrated by user 
 - [WriteRack](https://writerack.com/app) -- Create a tweetstorm. (Service > communications > social media, tweetstorm)
 - [Your Social Media Fingerprint](https://robinlinus.github.io/socialmedia-leak/) -- Detect which platforms you're currently signed into. (Service > communications > social media)
 
-#### Organization
+### Organization
 
 - [Ushahidi](http://ushahidi.com) -- Global non-profit technology company that changes the way information flows in the world and empower people to make an impact with open source technologies, cross-sector partnerships, and ground-breaking ventures. (Organization > communications > international development, data)
 - [VillageTelco](https://villagetelco.org) -- Non-profit that builds low-cost community telephone network hardware and software. (Organization > communications > appropriate technology)
