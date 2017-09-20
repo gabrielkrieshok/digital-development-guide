@@ -19,8 +19,11 @@ Field staff find themselves still front-and-center in helping to create, facilit
 ### Services
 
 - [Acceptable Use Policies - Education World](http://educationworld.com/a_curr/curr093.shtml) -- Examples and tips for creating your own AUP with your local school, cyber cafe, or community center. (Service > computer lab > policies, resources)
+
 - [Libib](https://libib.com/) -- Cataloging software for books, movies, music & video games online. (Service > computer lab > library)
+
 - [Responsible & Acceptable Use Guidelines - US Digital Literacy](http://digitalliteracy.us/responsible-acceptable-use-guidelines/) -- Creating an 'Acceptable Use Policy'. (Service > computer lab > policies, resources)
+
 - [Sample Acceptable Use Policies - Webwise](https://webwise.ie/teachers/sample-acceptable-use-policies-2/) -- Sample 'acceptable use policies'. (Service > computer lab > policies, resources)
 
 
