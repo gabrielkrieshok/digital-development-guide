@@ -1,6 +1,5 @@
 # Summary
 
-* [Todo](TODO.md)
 * [Read Me](README.md)
 * [Preface](PREFACE.md)
 * [Introduction](INTRODUCTION.md)
