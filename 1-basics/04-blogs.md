@@ -1,3 +1,0 @@
-# Blogs
-
-- Insert blogs
