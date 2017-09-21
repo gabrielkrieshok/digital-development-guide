@@ -58,6 +58,17 @@ This results in security, privacy and confidentiality not being adequately addre
 
 
 
+### Software
+
+- [CaseBox](https://casebox.org) -- Sophisticated case management solution to NGOs with flexible task, document and record management system. (Software > data responsibility > activism, data protection)
+- [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/) -- Tools for human rights defenders, bloggers, activists and journalists facing attacks themselves, as well as providing guidelines for digital first responders to assist a person under threat. (Software > data responsibility > activism, data protection)
+- [Martus](https://martus.org) -- Encrypted digital platform aimed at humanitarian workers and organizations. (Software > data responsibility > activism, data protection)
+- [OpenEvsys](https://openevsys.org) -- Open Events System, is a free and open source database application developed by [HURIDOCS](http://www.huridocs.org/), built on the [Events methodology](http://openevsys.wpengine.com/the-methodology-of-openevsys) for recording violations and the “who did what to whom” data model. (Software > data responsibility > activism, data protection)
+- [RightsCase](https://equalit.ie/portfolio/rightscase/) -- Securely record, collate and analyae information and evidence of past and ongoing human rights violations. RightsCase allows you to access meaningful statistics through visualisations of collated data. (Software > data responsibility > activism, data protection)
+- [Umbrella](https://secfirst.org/) -- Digital and physical security app for people at risk. (Software > data responsibility > activism, data protection)
+
+
+
 ### Organizations
 
 - [Advocacy Assembly](https://advocacyassembly.org/) -- Non-profit focused on digital privacy and human rights. (Organization > data responsibility > human rights, advocacy, privacy)
