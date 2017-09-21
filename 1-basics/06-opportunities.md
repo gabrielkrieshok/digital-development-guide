@@ -1,3 +1,0 @@
-# Opportunities
-
-- Insert opportunities
