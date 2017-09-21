@@ -13,6 +13,11 @@
 - [PeaceTech Wiki](http://peacetech.wiki/) -- Links to resources and tools with a focus on peace-building technologies and services. (Website > civil society > network, assistant, peace)
 
 
+### Projects
+
+- [HarassMap](http://harassmap.org/en/) -- Ending the social acceptability of sexual harassment and assault in Egypt -- it's an SMS-to-web solution which allows women to anonymously report sexual harassment they face in Egypt by sending a simple text that is then displayed on a public map on the website. (Project > civil society > egypt)
+
+
 
 ### Organizations
 
