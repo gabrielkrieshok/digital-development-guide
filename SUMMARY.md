@@ -35,7 +35,7 @@
   * [Entrepreneurship](3-topics/entrepreneurship.md)
   * [Gender](3-topics/gender.md)
   * [Make](3-topics/make.md)
-  * [Mapps](3-topics/maps.md)
+  * [Maps](3-topics/maps.md)
   * [Monitoring & Evaluation](3-topics/monitoring-and-evaluation.md)
   * [Radio](3-topics/radio.md)
   * [STEM](3-topics/stem.md)
