@@ -39,4 +39,5 @@
   * [Monitoring & Evaluation](3-topics/monitoring-and-evaluation.md)
   * [Radio](3-topics/radio.md)
   * [STEM](3-topics/stem.md)
+  * [Systems Thinking](3-topics/systems-thinking.md)
 * [Contributing](contributing.md)
