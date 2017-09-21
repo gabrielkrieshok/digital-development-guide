@@ -18,6 +18,8 @@
   * [Software and Apps](2-tools/07-software-and-apps.md)
   * [Services](2-tools/08-services.md)
 * [Topics]()
+  * [Agriculture](3-topics/agriculture.md)
+  * [Appropriate Technology](3-topics/appropriate-technology.md)
   * [Civil Society](3-topics/civil-society.md)
   * [Communications](3-topics/communications.md)
   * [Computer Lab](3-topics/computer-lab.md)

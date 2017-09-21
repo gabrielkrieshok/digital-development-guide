@@ -1,28 +1,25 @@
-# Civil Society
-
-## Ideas
-
-- Using technology to strengthen democratic processes. 
-- Leveraging ICT as a peacebuilding tool.
+# Appropriate Technology
 
 ## Resources
 
 ### Websites
 
-- [DemTools - Cultivating Democracy](https://dem.tools/) -- Free, open-source software to provide civic organizations, legislatures, and political parties with the capabilities to effectively engage 21st century citizens and build better democracies. (Website > civil society > offline content, assistant, peace)
-- [PeaceTech Wiki](http://peacetech.wiki/) -- Links to resources and tools with a focus on peace-building technologies and services. (Website > civil society > network, assistant, peace)
-
-
-### Projects
-
-- [HarassMap](http://harassmap.org/en/) -- Ending the social acceptability of sexual harassment and assault in Egypt -- it's an SMS-to-web solution which allows women to anonymously report sexual harassment they face in Egypt by sending a simple text that is then displayed on a public map on the website. (Project > civil society > egypt)
+- [Appropedia](http://appropedia.org) -- Collaborative solutions in sustainability, appropriate technology and poverty reduction. (Website > appropriate technology > network, wiki)
+- [Farmhack](http://farmhack.net) -- An Open Source Community for Resilient Agriculture. (Website > appropriate technology > agriculture)
+- [iFixIt](http://ifixit.org/) -- Very helpful site with repair manuals and product reviews for maintenance and repairability of devices. (Website > appropriate technology > guides and reviews, repair)
+- [Practical Answers Resource Library](https://answers.practicalaction.org/our-resources) -- Over 2,000 online resources available, including technical briefs and drawings, and audios and videos, on a range of topics and sub-topics, and in different languages. (Website > appropriate technology > network, guide)
+- [Repair Café](https://repaircafe.org/) -- Repair Cafés are free meeting places and they’re all about repairing things (together). There are over thousand Repair Cafés worldwide. (Website > appropriate technology > network, repair)
+- [Repair Manuals for Every Thing - iFixit](https://ifixit.com/guide) -- Wiki-based site that teaches people how to fix almost anything. (Website > appropriate technology > manual, repair)
+- [The Restart Project](https://therestartproject.org/) -- Organization that works with communities, schools, and companies to value and use electronics longer. (Website > appropriate technology > repair, electronics)
 
 
 
 ### Organizations
 
-- [DME for Peace](http://dmeforpeace.org/) -- Design, monitoring and evaluation for Peacebuilding (Organization > civil society > peace)
-- [ICT4Peace](http://ict4peace.org/) -- Conflict resolution in ICT4D. (Organization > civil society > peace)
-- [PeaceTech Lab](http://www.peacetechlab.org/) -- Non-profit (formerly associated with U.S. Institute of Peace) that brings together engineers and activists to develop peacebuilding solutions. (Organization > civil society > ict4d site, peace)
+- [D-Lab - MIT](https://d-lab.mit.edu/) -- Global network of innovators to design and disseminate technologies that meaningfully improve the lives of people living in poverty. (Organization > appropriate technology > design thinking)
+- [Engineers without Borders](http://www.ewb-usa.org/) -- Builds a better world through engineering projects that empower communities to meet their basic human needs and equip leaders to solve the world’s most pressing challenges. (Organization > appropriate technology > engineering)
+- [Gearbox](http://www.gearbox.co.ke/) -- Hardware prototyping in Kenya (Organization > appropriate technology > kenya)
+- [IDIN (International Development Innovation Network) - D-LAB - MIT](http://d-lab.mit.edu/idin) -- Empowers a diverse, global network of innovators to design, develop, and disseminate low-cost technologies to improve the lives of people living in poverty -- is a consortium of university and partners led by the Massachusetts Institute of Technology and funded by the US Agency for International Development's U.S. Global Development Lab. (Organization > appropriate technology > academic, design thinking)
+- [Planet Aid](http://planetaid.org) -- Nonprofit organization that collects and recycles used textiles to protect the environment and support sustainable development in impoverished communities around the world. (Organization > appropriate technology > recycling)
 
 
