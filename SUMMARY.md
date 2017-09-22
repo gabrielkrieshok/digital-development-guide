@@ -1,8 +1,8 @@
 # Summary
 
 * [Read Me](README.md)
-* [Introduction](INTRODUCTION.md)
-* [Contents](CONTENTS.md)
+* [Introduction](introduction.md)
+* [Contents](contents.md)
 * [Basics]()
   * [ICT4D Overview](1-basics/01-ict4d-overview.md)
   * [Doing ICT4D](1-basics/02-doing-ict4d.md)
