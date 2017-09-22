@@ -27,6 +27,7 @@ More advanced digital literacy includes computer programming, data science and a
 
 ### Websites
 
+- [Computer Lessons from Thailand](https://sites.google.com/site/pcthailandwiki2/projects-and-proposals/technology/computer-lessons) -- Materials for teaching basic computer skills to adults. (Website > digital literacy > education, lessons, thailand)
 - [Digital Learning Basics - OER Commons](https://oercommons.org/courses/digital-learn/) -- Really solid collection of courses on a range of discrete topics having to do with basic computer use. (Website > digital literacy > computer skills, course)
 - [Digital Literacy - Microsoft](https://microsoft.com/en-us/digitalliteracy/) -- Microsoft's education site with a few number of interesting lesson plans around basic computer use. (Website > digital literacy > computer skills, course)
 - [Digital Literacy.gov](https://digitalliteracy.gov/) -- Free tutorials, skills assessments, and other resources for educators and users curated from organizations around the U.S. (Website > digital literacy > computer skills, course)

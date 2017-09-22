@@ -43,6 +43,7 @@
 - [MINDSZ](https://mindsz.com/) -- Ideas, inventions and products every day from all walks of life. (Website > ict4d > mental, fieldworker)
 - [NetHope Solutions Center](http://solutionscenter.nethope.org/) -- Catalog of technology solutions, products, and services. (Website > ict4d > assistant)
 - [No Excuse List](http://noexcuselist.com/) -- Learn anything. (Website > ict4d > mental, fieldworker)
+- [Organizational Guide to ICT4D](http://solutionscenter.nethope.org/toolkit/view/organizational-guide-to-ict4d) -- Guide to developing ICT4D capacity within organizations. (Reading > ict4d > ict4d site, guide)
 - [Peace Direct](https://www.peacedirect.org) -- Prize awards for local peacebuilding -- $10,000 and online promotion of your work. (Website > ict4d > funding)
 - [PeaceTech Wiki](http://peacetech.wiki/) -- Links to resources and tools with a focus on peace-building technologies and services. (Website > ict4d > network, assistant, peace)
 - [Phone Arena](https://www.phonearena.com/phones) -- Phone finder and comparer, allows you to filter through various specifications. (Website > ict4d > phones)
