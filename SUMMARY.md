@@ -33,6 +33,7 @@
   * [Digital Media](3-topics/digital-media.md)
   * [Education](3-topics/education.md)
   * [Entrepreneurship](3-topics/entrepreneurship.md)
+  * [Environment](3-topics/environment.md)
   * [Gender](3-topics/gender.md)
   * [Make](3-topics/make.md)
   * [Maps](3-topics/maps.md)
