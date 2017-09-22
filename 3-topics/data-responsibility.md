@@ -60,6 +60,7 @@ This results in security, privacy and confidentiality not being adequately addre
 
 ### Software
 
+- [Boxcryptor](https://www.boxcryptor.com/) -- Encryption software to secure cloud files. (Software > digital responsibility > encryption)
 - [CaseBox](https://casebox.org) -- Sophisticated case management solution to NGOs with flexible task, document and record management system. (Software > data responsibility > activism, data protection)
 - [Digital First Aid Kit](https://www.digitaldefenders.org/digitalfirstaid/) -- Tools for human rights defenders, bloggers, activists and journalists facing attacks themselves, as well as providing guidelines for digital first responders to assist a person under threat. (Software > data responsibility > activism, data protection)
 - [Martus](https://martus.org) -- Encrypted digital platform aimed at humanitarian workers and organizations. (Software > data responsibility > activism, data protection)
