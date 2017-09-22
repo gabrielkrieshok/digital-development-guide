@@ -87,7 +87,7 @@ The development community has been too obsessed with technology-as-invention, an
 
 A 'hype cycle' is one way to characterize how people tend to over-emphasize the new technologies and ideas in the short-run, and to under-emphasize them in the long run. The 'hype cycle' traces a level of interest and investment over time as it ascends to a broader trend of interest, loses its lustre as not being a cure-all, and eventually begins to rise again as an area with renewed interest and productivity.
 
-![Hype cycle](../images/hype-cycle.svg)
+![Hype Cycle](../images/hype-cycle.svg)
 *Hype Cycle from Gartner — Source: [Wikipedia](https://en.wikipedia.org/wiki/Hype_cycle#/media/File:Gartner_Hype_Cycle.svg).*
 
 The challenge in ICT4D is not simply to recognize that the Hype Cycle exists in the minds of stakeholders, beneficieries, and teammates—but to also be allergic to the hype itself.
