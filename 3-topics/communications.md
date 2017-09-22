@@ -1,6 +1,6 @@
 # Communications
 
-![communications](../images/communications.jpg)
+![communications](./images/communications.jpg)
 
 ICT4D is founded upon the idea that communications which are faster, less costly, and more convenient can have a significant impact on social and economic growth.
 
