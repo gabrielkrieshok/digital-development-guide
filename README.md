@@ -2,6 +2,7 @@
   <img
     alt="ICT4D Guide logo"
     src="images/logo.png"
+    width="100"
   />
   <br />
   ICT4D Guide
