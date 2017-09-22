@@ -1,5 +1,7 @@
 # Computer Lab
 
+![Computer Lab](../images/computer-lab.jpg)
+
 Computer labs offer flexible environments for education, digital literacy, and engaging with technology in a variety of ways.
 
 Computer labs have a long history in ICT4D and exist in range of setups: school computer labs, telecenters, Internet cafes, and public libraries.
