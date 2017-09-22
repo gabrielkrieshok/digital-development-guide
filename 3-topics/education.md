@@ -1,16 +1,18 @@
 # Education
 
-## Ideas
-
-- Teachers using computers in the classroom.
-- Teacher training on computer skills, and educational and productivity software.
-- Camps, clubs, and conferences targeting educational ICT engagement.
-
 ICTs in education helps with access to educational services, improves teacher capacity to deliver those services, and strengthens education system capacity.
 
 It’s not enough to simply have access to computers in the classroom or for students to have mobile phones or computer labs.
 
 Many ICT4D professionals work to ensure that there is effective training of these tools, that they are incorporated into local school programs, and that they are resourced in sustainable ways.
+
+
+
+## Ideas
+
+- Teachers using computers in the classroom.
+- Teacher training on computer skills, and educational and productivity software.
+- Camps, clubs, and conferences targeting educational ICT engagement.
 
 
 

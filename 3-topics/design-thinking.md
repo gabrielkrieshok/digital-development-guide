@@ -1,13 +1,15 @@
 # Design thinking
 
+ICT4D practitioners use design thinking and creative capacity-building (CCB) to respond to the challenges of their host communities and counterparts.
+
+Field staff are optimally placed to work with their community to arrive at new and different ways of doing things, of addressing long-standing challenges, and in finding ways to change behavior, thought, and action in their environments.
+
+
+
 ## Ideas
 
 - Using design thinking and creative capacity building (CCB) to supplement participatory approaches to problem-solving.
 - Investigate the needs, context, and assets of their environment and use cooperative problem-solving to build towards sustainable solutions.
-
-ICT4D practitioners use design thinking and creative capacity-building (CCB) to respond to the challenges of their host communities and counterparts.
-
-Field staff are optimally placed to work with their community to arrive at new and different ways of doing things, of addressing long-standing challenges, and in finding ways to change behavior, thought, and action in their environments.
 
 
 

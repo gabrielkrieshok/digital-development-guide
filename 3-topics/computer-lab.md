@@ -1,16 +1,18 @@
 # Computer Lab
 
-## Ideas
-
-- School computer labs to supplement coursework in all school subjects.
-- Teach computer programming to all ages.
-- Practice digital literacy skills and digital responsibility.
-
 Computer labs offer flexible environments for education, digital literacy, and engaging with technology in a variety of ways.
 
 Computer labs have a long history in ICT4D and exist in range of setups: school computer labs, telecenters, Internet cafes, and public libraries.
 
 Field staff find themselves still front-and-center in helping to create, facilitate, and encourage atmospheres of technical instruction in a safe, open, and impactful ways.
+
+
+
+## Ideas
+
+- School computer labs to supplement coursework in all school subjects.
+- Teach computer programming to all ages.
+- Practice digital literacy skills and digital responsibility.
 
 
 

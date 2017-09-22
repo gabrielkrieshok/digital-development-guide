@@ -1,14 +1,16 @@
 # Monitoring & Evaluation
 
+ICT4D practitioners use mobile technologies to monitor their projects, collect feedback, and evaluate their work, and scale their successes.
+
+Mobile data collection in particular allows you to adopt a real-time, feedback-oriented, documented approach to their projects and activities.
+
+
+
 ## Ideas
 
 - Using mobile phones to capture survey data while in the field.
 - Training local staff and counterparts on data collection.
 - Train their communities on data-driven decision-making, analysis, and reporting.
-
-ICT4D practitioners use mobile technologies to monitor their projects, collect feedback, and evaluate their work, and scale their successes.
-
-Mobile data collection in particular allows you to adopt a real-time, feedback-oriented, documented approach to their projects and activities.
 
 
 

@@ -1,10 +1,5 @@
 # Computer programming
 
-## Ideas
-
-- ‘Hour of Code’ activities to promote computer programming.
-- Computer programming as a way to coordinate and focus youth and entrepreneurship camps and clubs.
-
 Learning how to code and program computers can benefit students and communities in a number of ways beyond simple exposure to coding.
 
 Programming teaches how to problem-solve, think critically and analytically, ask questions, work in teams, and maybe most important of all, how to be creative and have fun with technology!
@@ -12,6 +7,13 @@ Programming teaches how to problem-solve, think critically and analytically, ask
 Schools are increasingly promoting computer programming and coding in official curricula–and there are lots of ways to incorporate programming in many different education topics.
 
 There are resources and platforms to learn coding at all levels, for all ages, from immersively interactive to offline textbooks.
+
+
+
+## Ideas
+
+- ‘Hour of Code’ activities to promote computer programming.
+- Computer programming as a way to coordinate and focus youth and entrepreneurship camps and clubs.
 
 
 

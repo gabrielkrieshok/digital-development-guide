@@ -1,10 +1,5 @@
 # Data Responsibility
 
-## Ideas
-
-- Practice responsible use of data collection and informed consent in organizations.
-- Teach responsible use of digital media platforms for youth — focused on cyberbullying, appropriate images, and scams.
-
 Protecting oneself from computer viruses and malware is just the beginning when it comes to data responsibility. As practitioners, we must address issues related to individual privacy, data collection, and appropriate processes and communications with informed consent.
 
 Field staff want to make sure that they’re assessing and mitigating any risks to the security of users and their data, considering the context and needs for privacy of personally identifiable information (PII) when using systems, signing users up for platforms, and designing solutions.
@@ -12,6 +7,14 @@ Field staff want to make sure that they’re assessing and mitigating any risks 
 Many organizations and technology providers are unaware of the ethical implications of collecting data via new tools and channels, or the nature of the privacy and protection risks that come along with new technologies.
 
 This results in security, privacy and confidentiality not being adequately addressed across the board—and thus a greater importance in addressing data responsibility.
+
+
+
+## Ideas
+
+- Practice responsible use of data collection and informed consent in organizations.
+- Teach responsible use of digital media platforms for youth — focused on cyberbullying, appropriate images, and scams.
+
 
 
 ## Resources

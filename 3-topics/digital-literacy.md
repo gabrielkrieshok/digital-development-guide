@@ -1,16 +1,20 @@
 # Digital Literacy
 
+Digital literacy includes many topics such as familiarity with digital tools and services, basic computer skills, web skills, and mobile digital tools.
+
+The commonality of these topics are that they help to make use of devices and technologies in a way that adds value to someone’s circumstances.
+
+More advanced digital literacy includes computer programming, data science and analysis, web and app development, and digital entrepreneurship.
+
+
+
 ## Ideas
 
 - Basic computer skills for students, youth, and adults.
 - Intermediate computer skills, mobile phone skills, and Internet literacy.
 - Advanced technological skills related to computer programming, media production, and data science.
 
-Digital literacy includes many topics such as familiarity with digital tools and services, basic computer skills, web skills, and mobile digital tools.
 
-The commonality of these topics are that they help to make use of devices and technologies in a way that adds value to someone’s circumstances.
-
-More advanced digital literacy includes computer programming, data science and analysis, web and app development, and digital entrepreneurship.
 
 ## Resources
 

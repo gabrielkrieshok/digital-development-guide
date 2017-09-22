@@ -1,13 +1,15 @@
 # Radio
 
+The auditory nature of radio helps community residents, many who are illiterate, to gain important access to the information on the radio, without the necessity of reading.
+
+ICT4D practitioners amplify the reach of their programs through broadcast media such as radio, television, and the Internet.
+
+
+
 ## Ideas
 
 - Use radio to leverage the reach, affordability, and attention to local communities.
 - Radio as a means to supplement existing programming efforts of education initiatives.
-
-The auditory nature of radio helps community residents, many who are illiterate, to gain important access to the information on the radio, without the necessity of reading.
-
-ICT4D practitioners amplify the reach of their programs through broadcast media such as radio, television, and the Internet.
 
 
 

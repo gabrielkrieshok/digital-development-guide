@@ -1,13 +1,15 @@
 # Gender
 
+Every organization and individual working in ICT4D has an obligation to consider their impact, activities, and efforts through the lens of gender empowerment and equality for women and girls.
+
+This includes a high-level mainstreaming of ICT as tools to advance gender equality and women’s empowerment to grassroots-level activities of inclusion and engagement of subject areas where girls and women have typically been excluded or marginalized (as is the case with STEM education in many parts of the world.)
+
+
+
 ## Ideas
 
 - Help to create spaces that foster inclusivity.
 - Promote STEM fields of learning and engagement for girls.
-
-Every organization and individual working in ICT4D has an obligation to consider their impact, activities, and efforts through the lens of gender empowerment and equality for women and girls.
-
-This includes a high-level mainstreaming of ICT as tools to advance gender equality and women’s empowerment to grassroots-level activities of inclusion and engagement of subject areas where girls and women have typically been excluded or marginalized (as is the case with STEM education in many parts of the world.)
 
 
 

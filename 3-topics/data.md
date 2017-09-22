@@ -1,16 +1,18 @@
 # Data
 
-## Ideas
-
-- Clean and organize a counterpart organizations’ datasets.
-- Use data mining and data science tools to analyze existing data collections.
-- Create data visualizations that highlight new analysis and lessons-learned.
-
 Data is the unsung hero of ICT4D projects and activities. Understanding how data is created, stored, retrieved, manipulated, analyzed, and interpreted are key to any ICT4D fieldwork.
 
 ‘Data’ as a thing can also be very difficult to address within ICT4D projects. Data quality, quantity, visualization, mining, storage, and processing all require different approaches and skill sets.
 
 Knowing where to begin with data will help to ensure smooth ICT4D projects.
+
+
+
+## Ideas
+
+- Clean and organize a counterpart organizations’ datasets.
+- Use data mining and data science tools to analyze existing data collections.
+- Create data visualizations that highlight new analysis and lessons-learned.
 
 
 

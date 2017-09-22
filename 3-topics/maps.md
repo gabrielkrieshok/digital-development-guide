@@ -1,13 +1,15 @@
 # Maps
 
+Organizations use digital maps to understand a variety of development-related issues: critical outbreaks and health other issues; the monitoring of natural disasters and emergency risk management; distribution of food programs and products; and drawing attention to issues of human rights abuses, corruption, and social welfare.
+
+ICT4D practitioners use mapping and geospatial information systems (GIS) approaches to assist in community assessments, participatory analysis, and program-specific projects.
+
+
+
 ## Ideas
 
 - Record geospatial data associated with field surveys and project activities.
 - Use maps as a reporting feature as part of any project.
-
-Organizations use digital maps to understand a variety of development-related issues: critical outbreaks and health other issues; the monitoring of natural disasters and emergency risk management; distribution of food programs and products; and drawing attention to issues of human rights abuses, corruption, and social welfare.
-
-ICT4D practitioners use mapping and geospatial information systems (GIS) approaches to assist in community assessments, participatory analysis, and program-specific projects.
 
 
 
