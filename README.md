@@ -11,7 +11,7 @@
   A work-in-progress guide to all things ICT4D-related
 </h4>
 
-# What is the ICT4D Guide?
+## What is the ICT4D Guide?
 
 This is an open and accessible guide to help field staff in 'information and communication technologies for development' \(ICT4D\) projects around the world.
 
