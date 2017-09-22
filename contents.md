@@ -2,19 +2,15 @@
 
 The guide is divided into three parts.
 
-
-
 ## Part 1. Basics
 
 Digital development, ICT4D, and links to the main resources and organizations working in ICT4D.
 
-  * [ICT4D Overview](1-basics/01-ict4d-overview.md)
-  * [Doing ICT4D](1-basics/02-doing-ict4d.md)
-  * [Sites](1-basics/03-sites.md)
-  * [Organizations](1-basics/04-organizations.md)
-  * [Glossary](1-basics/05-glossary.md)
-
-
+* [ICT4D Overview](1-basics/01-ict4d-overview.md)
+* [Doing ICT4D](1-basics/02-doing-ict4d.md)
+* [Sites](1-basics/03-sites.md)
+* [Organizations](1-basics/04-organizations.md)
+* [Glossary](1-basics/05-glossary.md)
 
 ## Part 2: Tools
 
@@ -28,8 +24,6 @@ Useful tools, technologies, and services of the trade for digital development wo
 * [Accessories](2-tools/06-accessories.md)
 * [Software and Apps](2-tools/07-software-and-apps.md)
 * [Services](2-tools/08-services.md)
-
-
 
 ## Part 3: Topics
 
@@ -52,9 +46,9 @@ Key focus area topics and associated helpful resources.
 * [Radio](3-topics/radio.md)
 * [STEM](3-topics/stem.md)
 
-
-
-## [Other]()
+## Other
 
 * [Contributing](contributing.md)
+
+
 
