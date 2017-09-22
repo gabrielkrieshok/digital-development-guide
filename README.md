@@ -25,7 +25,7 @@ This is an open, ongoing, and collaborative effort, so please help us by contrib
 
 Browse the Guide here (works on mobile as well), or [download a PDF](https://www.gitbook.com/download/pdf/book/gabrielkrieshok/ict4d-guide), [EPUB](https://www.gitbook.com/download/epub/book/gabrielkrieshok/ict4d-guide), or [MOBI](https://www.gitbook.com/download/mobi/book/gabrielkrieshok/ict4d-guide) version of the Guide.*
 
-If you just want a full-on list of the links to resources, organizations, and websites, [have at it](LIST.md).
+If you just want a full-on list of the links to resources, organizations, and websites, [have at it](https://github.com/gabrielkrieshok/ict4d-guide/blob/master/list.md).
 
 
 
