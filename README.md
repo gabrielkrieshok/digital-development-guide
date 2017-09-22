@@ -8,7 +8,6 @@
   <br />
   ICT4D Guide
 </h1>
-
 <h4 align="center">
   A work-in-progress guide to all things ICT4D-related
 </h4>
