@@ -2,8 +2,8 @@
   <img
     alt="ICT4D Guide logo"
     src="images/logo.png"
-    width="256"
-    height="256"
+    width="200"
+    height="308"
   />
   <br />
   ICT4D Guide
