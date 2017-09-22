@@ -1,17 +1,18 @@
 # Communications
 
-## Ideas
-
-- Amplifying the reach of your projects to more people and communities. 
-- Faster and more reliable feedback loops through reminders and follow-up. 
-- Simple and low-cost way to exchange ideas, updates, questions. 
-
 ICT4D is founded upon the idea that communications which are faster, less costly, and more convenient can have a significant impact on social and economic growth.
 
 Communications include formal and informal messaging, feedback channels on a range of projects and processes, and broadcasting ideas through a variety of channels.
 
 The growth of mobile communications in both technology and demonstrated by user preferences around the world puts significant focus on the use of mobile tools of communication for social growth—which bring with them new questions of user experience, sustainability, and privacy.
 
+
+
+## Ideas
+
+- Amplifying the reach of your projects to more people and communities. 
+- Faster and more reliable feedback loops through reminders and follow-up. 
+- Simple and low-cost way to exchange ideas, updates, questions. 
 
 
 ## Resources
