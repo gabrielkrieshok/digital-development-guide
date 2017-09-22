@@ -1,5 +1,7 @@
 # STEM
 
+![STEM](../images/stem.jpg)
+
 Encouraging STEM education curricula is important for meeting emerging vocational opportunities and the growth of developing nations’ workforce.
 
 Additionally, leveraging STEM education as a component leads to enhanced education activity engagement and interaction for learners.

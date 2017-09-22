@@ -1,5 +1,7 @@
 # Data Responsibility
 
+![Data Responsibility](../images/data-responsibility.jpg)
+
 Protecting oneself from computer viruses and malware is just the beginning when it comes to data responsibility. As practitioners, we must address issues related to individual privacy, data collection, and appropriate processes and communications with informed consent.
 
 Field staff want to make sure that they’re assessing and mitigating any risks to the security of users and their data, considering the context and needs for privacy of personally identifiable information (PII) when using systems, signing users up for platforms, and designing solutions.

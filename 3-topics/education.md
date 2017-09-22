@@ -1,5 +1,7 @@
 # Education
 
+![Education](../images/education.jpg)
+
 ICTs in education helps with access to educational services, improves teacher capacity to deliver those services, and strengthens education system capacity.
 
 It’s not enough to simply have access to computers in the classroom or for students to have mobile phones or computer labs.

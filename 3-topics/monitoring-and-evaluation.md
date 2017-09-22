@@ -1,5 +1,7 @@
 # Monitoring & Evaluation
 
+![Monitoring and Evaluation](../images/m-and-e.jpg)
+
 ICT4D practitioners use mobile technologies to monitor their projects, collect feedback, and evaluate their work, and scale their successes.
 
 Mobile data collection in particular allows you to adopt a real-time, feedback-oriented, documented approach to their projects and activities.

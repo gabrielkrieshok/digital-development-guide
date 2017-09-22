@@ -1,5 +1,7 @@
 # Developer
 
+![Developer](../images/developer.jpg)
+
 The notion of field staff employee in the disconnected underbrush of the developing world while they work is firmly in the rear-view mirror (if indeed it was ever true!)
 
 Today's international aid workers often find themselves at the cutting edge of technological innovation—making and building systems that work in environments that offer challenges on many sides and innovation from all perspectives.

@@ -1,5 +1,7 @@
 # Data
 
+![Data](../images/data.jpg)
+
 Data is the unsung hero of ICT4D projects and activities. Understanding how data is created, stored, retrieved, manipulated, analyzed, and interpreted are key to any ICT4D fieldwork.
 
 ‘Data’ as a thing can also be very difficult to address within ICT4D projects. Data quality, quantity, visualization, mining, storage, and processing all require different approaches and skill sets.

@@ -1,5 +1,7 @@
 # Digital Literacy
 
+![Digital Literacy](../images/digital-literacy.jpg)
+
 Digital literacy includes many topics such as familiarity with digital tools and services, basic computer skills, web skills, and mobile digital tools.
 
 The commonality of these topics are that they help to make use of devices and technologies in a way that adds value to someone’s circumstances.

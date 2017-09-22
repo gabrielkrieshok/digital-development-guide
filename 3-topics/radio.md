@@ -1,5 +1,7 @@
 # Radio
 
+![Radio](../images/radio.jpg)
+
 The auditory nature of radio helps community residents, many who are illiterate, to gain important access to the information on the radio, without the necessity of reading.
 
 ICT4D practitioners amplify the reach of their programs through broadcast media such as radio, television, and the Internet.

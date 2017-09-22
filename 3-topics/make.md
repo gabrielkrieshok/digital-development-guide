@@ -1,5 +1,7 @@
 # Make
 
+![Make](../images/make.jpg)
+
 Makerspaces are creative, Do-It-Yourself (DIY) spaces where people can gather to create, invent, and learn. In libraries, they often have 3D printers, book printers, software, electronics, craft and hardware supplies and tools, and more. 
 
 ICT4D practitioners help to promote, build, renovate, and support local learning in their communities and to encourage skills development.

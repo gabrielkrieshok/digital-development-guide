@@ -1,5 +1,7 @@
 # Digital Media
 
+![Digital Media](../images/digital-media.jpg)
+
 Digital media in ICT4D refers to all of the ways in which media can be created, edited, and used for counterpart organizations.
 
 Leveraging digital media successfully doesn’t stop at simply having access to the hardware required such as digital cameras and video cameras, but also the staffing, skills, and experience necessary to make effective use of these tools.

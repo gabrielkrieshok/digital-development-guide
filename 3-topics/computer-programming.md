@@ -1,4 +1,6 @@
-# Computer programming
+# Computer Programming
+
+![Computer Programming](../images/computer-programming.jpg)
 
 Learning how to code and program computers can benefit students and communities in a number of ways beyond simple exposure to coding.
 
