@@ -13,7 +13,7 @@ If you're not ready to make pull requests and edit markdown files yet, we've got
 You should use [the GitHub Workflow](https://guides.github.com/introduction/flow/) (either on your computer, or [in the browser](https://github.com/blog/1557-github-flow-in-the-browser)) to make any changes to the repository. In other words:
 
 * Never commit directly to the master branch unless you're fixing a very obvious typo or mistake that does not warrant any discussion.
-* Open [a new pull request](https://github.com/https://github.com/gabrielkrieshok/ict4d-guide/compare) to propose changes to any file in this repository.
+* Open [a new pull request](https://github.com/gabrielkrieshok/ict4d-guide/compare) to propose changes to any file in this repository.
 
 New to GitHub? The [GitHub Guides](http://guides.github.com) are a great place to start, and go over everything you need to know.
 
