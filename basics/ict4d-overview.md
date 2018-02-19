@@ -1,6 +1,6 @@
 # ICT4D Crash Course
 
-> "We live in a rapidly evolving age, where technology can either be used to solve human rights problems or misued to erode human rights." — Zeid Ra'ad Al Hussein, UN High Commissioner for Human Rights
+> "We live in a rapidly evolving age, where technology can either be used to solve human rights problems or misused to erode human rights." — Zeid Ra'ad Al Hussein, UN High Commissioner for Human Rights
 
 ICT4D stands for ‘Information and Communication Technologies for Development’.
 
