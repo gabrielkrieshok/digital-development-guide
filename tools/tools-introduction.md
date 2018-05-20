@@ -1,5 +1,7 @@
 # A Word on tools, technologies, and devices
 
+![tools](../images/tools.jpg)
+
 > "But they are useless. They can only give you answers. (on computers)" — Pablo Picasso
 
 ICT4D project tools and technologies are often characterized by their deployment in atypical environments.
@@ -12,7 +14,9 @@ Much has changed in the global south device landscape in recent years. You can f
 
 The days of packing everything digital or electronic that you'll need into a fieldwork setting are sunsetting at the global market for devices and electronic value chains proliferate to all corners of the globe.
 
-### People first
+
+
+## People first
 
 It's important to remember, as well, that the core objectives of the field worker don't change with modern technologies. The work continues in empowering people to make a difference in their own lives for themselves and their communities.
 
@@ -22,7 +26,9 @@ As a digital development practitioner, you should not get caught up acquiring or
 
 You should also not aim for your environment to be closely match the connectivity ecosystem (is always-on, ubiquitus, multiple modes of connection, etc.) that you've come to expect living in connected, industrialized environment.
 
-### Noble fieldworker
+
+
+## Noble fieldworker
 
 On the same token, your task is not to eschew modern conveniences and creature comforts in order to experience a romantic expectation about life off-the-grid (though taken in doses, this can be quite valuable).
 
@@ -33,3 +39,5 @@ Finally—it's important to approach any tools and technologies with a healthy a
 Field experiences are chock full of challenges—weather, water, sand, sun, theft, robbery, degradation, isolation, and misaligned expectations. Manage your expectations of perfect field experiences accordingly—and maintain a positive attitude.
 
 The secret sauce of the successful field worker consists of healthy parts patience, resilience, a keen ear, and an ability to always be learning.
+
+

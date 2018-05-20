@@ -1,5 +1,7 @@
 # Laptops and Tablets
 
+![laptop](../images/laptop.jpg)
+
 > "You haven't rolled out any electronics in the field until you've had a cockroach pee on everything." - Timothy Prestero
 
 Computers are the workhorses of the ICT4D field staff. They aid in office productivity, equipment setup and debugging, general communications, and long-term storage.

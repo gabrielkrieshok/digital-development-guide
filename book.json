@@ -1,0 +1,12 @@
+{
+ 
+    "plugins": [
+        "analytics"
+    ],
+ 
+    "pluginsConfig": {
+        "analytics": {
+            "google": "UA-106565467-1"
+        }
+    }
+}

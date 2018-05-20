@@ -1,22 +1,34 @@
 # Introduction
 
+![ict4d-guide-mobile](images/ict4d-guide-mobile.jpg)
+
 > "The future is already here — it's just not very evenly distributed." — William Gibson
 
-Digital technologies revolutionize how we engage with the world.
+Digital technologies change how we engage with the world.
 
-Modern devices play a critical role in how we communicate with one another. They are the key in how we speak to each other, how we remember information, and how we learn.
+Modern devices play a critical role in how we communicate. They are key in all the ways that we speak to each other, how we remember information, and how we learn.
 
-They all have an important feature in common—they carry information from one location to another.
+They carry information from one place to another, whether it's through airwaves, undersea cables, or satellite signals.
 
-The influence they have affects the lives of individuals, communities, and whole countries.
+The reach is important, vast, and complicated.
 
-And the reach is vast.
+But the tools and technologies themselves aren't going to make things better themselves. The tools are neutral—they are as capable of dividing, harming, and increasing inequality.
+
+It's up to **us** to make sure that we use technology in ways that make the world a better place.
 
 
 
-### Why this Guide
+## Why this Guide
 
-This guide helps anyone working in digital development around the world. This guide should help you whether you are a practitioner, expert, entrepreneur, aid worker, or community leader.
+This guide hopes to help anyone who wants to use technology to make the world a slightly better place. 
+
+This guide should help you whether if you work in international development, community organizing, entrepreneurship, university student—everyone.
+
+My hope in putting this together was that could be something in it for everyone. There are items that may seem too simple, and others that are too advanced. That's ok -- it's a good place to learn, to grow, and hopefully, to teach!
+
+
+
+## Where this Guide came from
 
 I began writing this guide as a simple way to organize my own resources along the way in my fieldwork.
 
@@ -27,18 +39,7 @@ Additionally, I'm hoping to learn from those who read it to provide feedback so 
 If we have been successful, we will play a part in 'more evenly distributing the future' among the present.
 
 
-## Who this is for
 
-The content of the guide favors people who have some familiarity with Digital Development, ICT4D, and international development, but should be accessible and engaging to everyone.
-
-This guide should not be considered as a comprehensive resource to those working in digital development. The value of this guide is that it is a concise and accessible resource to provide a reference of resources to get you started or moving along through a project.
+Let's get started!
 
 
-
-## Who made this
-
-This Guide and resources were prepared through many nights and weekends by [Gabriel Krieshok](https://gabrielkrieshok.com).
-
-Alright then, let's get to it!
-
-[Contents](CONTENTS.md)

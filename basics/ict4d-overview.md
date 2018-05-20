@@ -1,6 +1,12 @@
-# ICT4D Crash Course
+# ICT4D Overview
 
-> "We live in a rapidly evolving age, where technology can either be used to solve human rights problems or misused to erode human rights." — Zeid Ra'ad Al Hussein, UN High Commissioner for Human Rights
+![ict4d-overview](../images/ict4d-overview.jpg)
+
+> "We live in a rapidly evolving age, where technology can either be used to solve human rights problems or misued to erode human rights." — Zeid Ra'ad Al Hussein, UN High Commissioner for Human Rights
+
+
+
+## Crash course in ICT4D
 
 ICT4D stands for ‘Information and Communication Technologies for Development’.
 
@@ -14,7 +20,7 @@ Those new to the ICT4D space will find a great deal of jargon and 'fuzzy' defini
 
 
 
-### A helpful lens
+## A helpful lens
 
 In fact, it’s the case that many ICT4D efforts are not aware that they are using ICT4D. They are simply solving a local problem through digital technologies.
 
@@ -26,7 +32,7 @@ To make matters even more complicated, we sometimes focus too much on ICT4D and 
 
 
 
-### ICT4D vs. water
+## ICT4D vs. water
 
 Sometimes the choice to invest in digital technologies does not seem like it should be a priority.
 
@@ -42,7 +48,7 @@ Sustainable development requires water development *and* digital development. Th
 
 
 
-### IT, ICT, ICT4D, and Digital Development
+## IT, ICT, ICT4D, and Digital Development
 
 ICT4D is distinct from IT.
 
@@ -54,7 +60,7 @@ ICT4D is distinct from IT.
 
 
 
-### ICT4D focuses on people
+## ICT4D focuses on people
 
 One very important feature of ICT4D as an area of focus is that it looks at all technologies, information, data, and communications through the lens of how it affects *people*
 
@@ -64,7 +70,7 @@ Often, the ICT4D professionals and scholars are the most skeptical of a given te
 
 
 
-### Inaccessible
+## Inaccessible
 
 Access to digital tools opens up a world of exploration, support, and opportunity. For those with access—they find doors open to them. They can improve their education, find job opportunities, and use online services.
 
@@ -76,7 +82,7 @@ Times have changed. Mobile phone networks have diffused across the globe. Comput
 
 
 
-### Inclusion
+## Inclusion
 
 'Accessible' no longer means 'unavailable'. It has taken on a broader, more nuanced meaning.
 
@@ -92,7 +98,7 @@ Those excluded will find it harder and harder to bridge that gap alone.
 
 
 
-### The digital divide
+## The 'Digital Divide'
 
 The gulf between the technology ‘haves’ and ‘have nots’ has is the ‘digital divide.' It is the social and economic inequality that exists with both access to and use of digital technologies.
 

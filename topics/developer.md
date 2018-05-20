@@ -1,48 +1,51 @@
 # Developer
 
-![Developer](../images/developer.jpg)
+![developer](../images/developer.jpg)
 
-The notion of field staff employee in the disconnected underbrush of the developing world while they work is firmly in the rear-view mirror (if indeed it was ever true!)
+- [Google Charts](https://developers.google.com/chart) — Google developer charts.
 
-Today's international aid workers often find themselves at the cutting edge of technological innovation—making and building systems that work in environments that offer challenges on many sides and innovation from all perspectives.
+- [Balsamiq](https://balsamiq.com) — Wireframe mockups and interfaces.
 
-## Ideas
+- [Framer](https://framer.com) — Design interactive prototypes for web & mobile.
 
-- Develop offline-friendly resources and servers.
-- Test web resources and services across a range of networking environments.
+- [How Much to Make](http://howmuchtomake.com) — Costs of building an app, idea, etc. estimator — great for getting ballpark estimations, particularly if you're not a developer yourself!
 
+- [Loband](http://www.loband.org/loband) — Website that reduces webpages to the bare bones.
 
+- [Marvel](https://marvelapp.com) — Mobile & web prototyping for designers.
 
-## Resources
+- [OpenBTS](http://openbts.org) — Open source software project for hardware-enabled mobile networks.
 
-### Websites
+- [Origami Studio](https://origami.design) — Design prototyping.
 
-- [Low Bandwidth Tools](http://www.kstoolkit.org/Low+Bandwidth+Tools) -- Interaction tools that work in low or lower bandwidth setting or where people have to use internet mostly through public or internet cafes, or mobile devices. (Website > developer > offline, network, bandwidth, library)
-- [Offline First Resources](https://github.com/pazguille/offline-first) -- Everything you need to know to create offline-first web apps. (Website > developer > offline)
+- [Offline First Resources](https://github.com/pazguille/offline-first) — Everything you need to know to create offline-first apps.
 
+- [impress.js](https://github.com/impress/impress.js) — Presentation framework based on the power of CSS3 transforms and transitions.
 
+- [PicApp](http://picapp.net) — App image generator.
 
-### Services
+- [PolyMaps](http://polymaps.org) — JavaScript Maps Library.
 
-- [Balsamiq](https://balsamiq.com/) -- Wireframe mockups and interfaces. (Service > developer > prototype, wireframe, design)
-- [Card Validator - Twitter](https://cards-dev.twitter.com/validator) -- Test Twitter link cards on a URL. (Service > developer > debug, test, social media)
-- [Chrome Daltonize](https://chrome.google.com/webstore/detail/chrome-daltonize/efeladnkafmoofnbagdbfaieabmejfcf) -- Exposing details to color-blind users, allowing them see what they otherwise would have missed. (Service > developer > accessibility, color, test)
-- [Chrome Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/) -- Resize browser window to emulate various screen resolutions. (Service > developer > browser, test, screen resolution)
-- [Comcast](https://github.com/tylertreat/Comcast) -- Simulating troublesome network connections so you can build better systems. (Service > developer > debug, test, offline, network, bandwidth)
-- [Erli bird](https://erlibird.com/) -- Recruit beta testing iOS and Android apps, websites, and gadgets. (Service > developer > test, user testing, usability)
-- [Fast.com](https://fast.com/) -- Very simple bandwidth test from Netflix. (Service > developer > bandwidth, test)
-- [Framer](https://framer.com/) -- Design interactive prototypes for web & mobile. (Service > developer > prototype, wireframe, design)
-- [Hamms](https://github.com/kevinburke/hamms) -- Elicit failures in your HTTP Client -- connection failures, malformed response data, slow servers, fat headers, etc. (Service > developer > debug, test, offline, network, bandwidth)
-- [How Much to Make](http://howmuchtomake.com/) -- Costs of building an app, idea, etc. estimator. (Service > developer > project management, app, developer, web development)
-- [Loband](http://www.loband.org/loband/) -- Website that reduces webpages to the bare bones. (Service > developer > offline, network, bandwidth)
-- [MapLatency.com](http://www.maplatency.com/) -- Check latency, ping, dns, page load from multiple locations. (Service > developer > test, bandwidth, latency)
-- [Marvel](https://marvelapp.com/) -- Mobile & web prototyping for designers. (Service > developer > prototype, design)
-- [NetSpotApp](https://www.netspotapp.com/) -- WiFi site survey software for MacOS & Windows. (Service > developer > test, bandwidth, latency, wifi)
-- [Object Debugger - Facebook](https://developers.facebook.com/tools/debug/og/object?q=) -- Test Facebook Graph links on a URL. (Service > developer > debug, test, social media)
-- [OpenBTS](http://openbts.org/) -- Open source software project for mobile networks. (Service > developer > network, hardware, cellular)
-- [Origami Studio](http://origami.design/) -- Design prototyping. (Service > developer > prototype, design)
-- [UpUp](https://github.com/TalAter/UpUp/) -- Quick and dirty way to achieve offline availability of simple apps. (Service > developer > offline, javascript)
-- [Validator](http://validator.w3.org/) -- The W3C Markup Validation Service. (Service > developer > debug, test, markup, html)
-- [Website Speed Test](https://webspeedtest.cloudinary.com/) -- Image analysis tool. (Service > developer > debug, test, images)
+- [Placeit](https://placeit.net) — Free product mockups & templates.
 
+- [TinyPNG](https://tinypng.com) — Compress PNG images while preserving transparency.
 
+- [Lynda](https://www.lynda.com) — Professional online courses, classes, training, tutorials.
+
+- [Atom](https://atom.io) — Text editor (similar to Sublime) built by [Github](https://github.com) — free and open-source.
+
+- [MAMP](https://www.mamp.info/en) — Local server environment.
+
+- [Sublime Text](https://www.sublimetext.com) — Text editor for code, markup and prose.
+
+- [Anita Borg Institute](https://anitaborg.org) — Social enterprise founded on the belief that women are vital to building technology that the world needs. Amazing network of individuals.
+
+- [AppCamp4Girls](https://appcamp4girls.com) — One-week summer day program where girls can put their creative powers to work, designing and building apps, while learning more about the business of software and being inspired by women mentors in the field.
+
+- [Grace Hopper](https://gracehopper.org) — World's largest gathering of women technologists.
+
+- [Hearmecode.org](https://hearmecode.org) — Free, beginner-friendly coding classes for women, by women.
+
+- [Systers](https://anitaborg.org/get-involved/systers) — Forum for all women involved in the technical aspects of computing. The community has over 5,500 members from at least 60 countries around the world.
+
+- [Hearth](https://hearth.eternum.io) — Decentralized website publishing.

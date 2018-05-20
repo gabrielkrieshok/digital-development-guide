@@ -1,5 +1,7 @@
 # Mobiles
 
+![mobiles](../images/mobiles.jpg)
+
 > "Any teacher that can be replaced by a computer, ought to be." — David Thornburg
 
 For the ICT4D fieldworker, the mobile phone is your Swiss Army Knife.
@@ -12,7 +14,9 @@ As with laptops, there are a number of considerations you'll want to think throu
 
 There are a [number](https://www.phonearena.com/phones).of.[phone](http://www.gsmarena.com/compare.php3).[comparison](http://geekaphone.com/compare-phones).[sites](http://www.compare-cellphones.org/). out there as well to help you get started.
 
-### Smartphone vs. feature phone
+
+
+## Smartphone vs. feature phone
 
 For the most part, phones can be divided into these two broad categories—smartphones and feature phones (or dumb phones). There is a vast spectrum of devices that fit somewhere between these two extremes.
 
@@ -25,7 +29,9 @@ It's important to consider the general pros and cons of each type of mobile phon
 	- Pros: Rugged, cost-effective, long battery life, dependable.
 	- Cons: Limited functionality, only basic texting and phone features.
 
-### Operating systems
+
+
+## Operating systems
 
 Most phones operate on either Android or iOS, the two primary operating systems. Though you will also find Windows phones, Blackberries, and Nokia's Symbian still available as well.
 
@@ -33,13 +39,17 @@ There is no concrete rule here about which operating system is across-the-board 
 
 There are tradeoffs with any direction, but it is worth thinking about the ecosystem of available apps, maintenance and repair opportunities, and your (and your organization's) existing comfort level/preference with one system over another.
 
-### GSM vs. CDMA
+
+
+## GSM vs. CDMA
 
 GSM and CDMA refer to two different types of network protocols that mobile phone networks use to communicate. Thankfully, this is a lot less complicated than it used to be. Much of the world has adopted the GSM standard (with the exception of certain networks in the US and Japan that use CDMA).
 
 The next generation of wireless data technologies is a little bit more confusing again with competing standards of LTE, WiMAX, and now 5G on the horizon. If you'll be engaging in heavy bandwidth operations, be sure to thoroughly research the details of technologies, plans, coverage, and reviews of actual performance if possible.
 
-### Unlocked vs. locked
+
+
+## Unlocked vs. locked
 
 Many phones bought with a contract are 'locked' to that carrier, meaning you can't use another carrier's SIM card (unique identifier chip – but be careful as there are [multiple 'sizes' of SIM cards](http://kenstechtips.com/index.php/smartphone-type-standard-sim-micro-sim-or-nano-sim) as well).
 
@@ -47,7 +57,9 @@ If you've had the phone for a couple of years or in some cases just inform your 
 
 One great place to learn more about your country of service’s telecommunications environment is the new and very user-friendly [GSMA Mobile Connectivity Index](http://www.mobileconnectivityindex.com/).
 
-### Tethering and Hotspots
+
+
+## Tethering and Hotspots
 
 Many smartphones can be used as tethers (both iOS and Android) for connecting a data connection to a specific computer (via Bluetooth or charging cable), or acting as a wireless hotspot that multiple devices (computer and phones) can connect to.
 

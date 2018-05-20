@@ -1,5 +1,7 @@
 # Accessories
 
+![accessories](../images/accessories.jpg)
+
 > "Technology...the knack of so arranging the world that we don't have to experience it." — Max Frisch
 
 The electronic accessories will (literally) make or break the ability of your fieldwork technologies to work.
@@ -62,7 +64,7 @@ I normally think that 'ruggedized' as a feature is just buzz marketing, but I *d
 
 USB modems (also called more generally 'dongles') are the USB sticks that plug into your computer's USB port and allow it to communicate with local data and cellular plans.
 
-It might be a good idea to purchase a USB modem for personal and professional use in-country. Like mobile phones, these devices can be 'locked' to specific carriers, or bought [already unlocked](https://www.amazon.com/Unlocked-Huawei-E397u-53-Worldwide-Required/dp/B01M0JY15V) -- though pay attention to GSM v. CDMA v. LTE technologies as you would with mobile phones.
+It might be a good idea to purchase a USB modem for personal and professional use in-country. Like mobile phones, these devices can be 'locked' to specific carriers, or bought [already unlocked](https://www.amazon.com/Unlocked-Huawei-E397u-53-Worldwide-Required/dp/B01M0JY15V) — though pay attention to GSM v. CDMA v. LTE technologies as you would with mobile phones.
 
 Finally, you'll want to weigh carefully the various technologies and communications of modems—they can be sold in USB form, router form (requiring power), with/without Wi-Fi connectivity, etc.
 
