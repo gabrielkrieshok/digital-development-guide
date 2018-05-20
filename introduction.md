@@ -1,6 +1,6 @@
 # Introduction
 
-![ict4d-guide-mobile](../images/ict4d-guide-mobile.jpg)
+![ict4d-guide-mobile](images/ict4d-guide-mobile.jpg)
 
 > "The future is already here — it's just not very evenly distributed." — William Gibson
 
