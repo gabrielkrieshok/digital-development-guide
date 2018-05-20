@@ -39,7 +39,11 @@ Most of this guide was prepared through many nights and weekends by me, [Gabriel
 
 ## Ready to contribute?
 
-The easiest way to make a change is to simply [edit the project file within Github](https://github.com/gabrielkrieshok/ict4d-guide), or [open an issue](https://github.com/gabrielkrieshok/ict4d-guide/issues). Otherwise you can use the hashtag '[#ict4dguide](https://twitter.com/search?f=tweets&q=%23ict4dguide&src=typd)' to alert someone (or just [@me](https://twitter.com/gabrielkrieshok)).
+The easiest way to add a link is simply to [fill out this form](https://goo.gl/forms/SGMdxUP02brsq1k52).
+
+To suggest other changes, simply [edit the project file within Github](https://github.com/gabrielkrieshok/ict4d-guide), or [open an issue](https://github.com/gabrielkrieshok/ict4d-guide/issues).
+
+Lastly, you can use the hashtag '[#ict4dguide](https://twitter.com/search?f=tweets&q=%23ict4dguide&src=typd)' to alert someone (or just [@me](https://twitter.com/gabrielkrieshok)).
 
 ___
 
