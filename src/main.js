@@ -1,15 +1,22 @@
-// The Vue build version to load with the `import` command
-// (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 import Vue from 'vue'
-import App from './App'
-import router from './router'
+import ICT4DTable from './ICT4DTable.vue'
+import TableComponent from 'vue-table-component'
+import Buefy from 'buefy'
+import 'buefy/lib/buefy.css'
 
-Vue.config.productionTip = false
+Vue.use(Buefy)
 
-/* eslint-disable no-new */
-new Vue({
+Vue.use(TableComponent)
+
+TableComponent.settings({
+  tableClass: '',
+  theadClass: '',
+  tbodyClass: '',
+  filterPlaceholder: 'Filter table…',
+  filterNoResults: 'There are no matching rows'
+})
+
+new Vue({ // eslint-disable-line no-new
   el: '#app',
-  router,
-  template: '<App/>',
-  components: { App }
+  render: h => h(ICT4DTable)
 })
