@@ -1,21 +1,29 @@
-# ict4dguide
+# ICT4D Guide
 
-> A Vue.js project
+This **ICT4D Guide** is a free and open guide to help anyone who wants to make a positive social impact with technology's help.
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
+## Jumping In
 
-# build for production with minification
-npm run build
+Browse the Guide online here (optimized for mobile as well), or [download a PDF](https://www.gitbook.com/download/pdf/book/gabrielkrieshok/ict4d-guide), [EPUB](https://www.gitbook.com/download/epub/book/gabrielkrieshok/ict4d-guide), or [MOBI](https://www.gitbook.com/download/mobi/book/gabrielkrieshok/ict4d-guide) version of the Guide.
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+There is also a [spreadsheet of the list of the links to resources, organizations, and websites](http://bit.ly/ict4dguide).
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+## Contributing
+
+The easiest way to add a link is simply to [fill out this form](https://goo.gl/forms/SGMdxUP02brsq1k52).
+
+To suggest other changes, simply [edit the project file within Github](https://github.com/gabrielkrieshok/ict4dguide), or [open an issue](https://github.com/gabrielkrieshok/ict4dguide/issues).
+
+Lastly, you can use the hashtag '[#ict4dguide](https://twitter.com/search?f=tweets&q=%23ict4dguide&src=typd)' to alert someone (or just [@me](https://twitter.com/gabrielkrieshok)).
+
+
+
+## Acknowledgements
+
+These links are the result of many people's experiences working in the field in many locations around the world.
+
+Most of this guide was prepared through many nights and weekends by me, [Gabriel Krieshok](https://gabrielkrieshok.com) -- and with **amazing** help from [Henry Bruce](https://twitter.com/henryhbruce), [Annie Legge](https://twitter.com/annielegge), [Derek Caelin](https://twitter.com/derekpost), and [Matt Haikin](https://twitter.com/matthaikin).
