@@ -60,6 +60,8 @@
 
 - [Engineers without Borders](https://www.ewb-usa.org) — Builds a better world through engineering projects that empower communities to meet their basic human needs and equip leaders to solve the world’s most pressing challenges.
 
+- [Farm Radio International](http://www.farmradio.org) — International non-profit organization dedicated exclusively to serving African farming families and rural communities through radio.
+
 - [FHI360](https://fhi360.org) — Nonprofit human development organization dedicated to improving lives in lasting ways by advancing integrated, locally driven solutions.
 
 - [Frugal Digital](http://frugaldigital.org) — Research group that focuses on researching methods and practices around creating digital solutions in low resource settings like that of developing economies.

@@ -194,7 +194,7 @@
 
 - [Developing Radio Partners](https://www.developingradio.org) — US-based non-profit media development organization that works with local radio stations in developing countries, providing them with the skills they need to bring reliable information to those who need it most.
 
-- [Farm Radio International](http://www.farmradio.org) — Canadian charity working with more than 500 radio partners in 38 African countries to fight poverty and food insecurity.
+- [Farm Radio International](http://www.farmradio.org) — International non-profit organization dedicated exclusively to serving African farming families and rural communities through radio.
 
 - [Curiosity Machine](https://www.curiositymachine.org) — Science education non-profit offers flexible STEM education tool that can be adapted to any learning environment.
 
@@ -227,3 +227,11 @@
 - [Global Digital Health Network](https://www.globaldigitalhealthnetwork.org) — Formerly the mHealth Working Group, created in 2009 by global health organizations for global health organizations, is a 3000+ person-strong networking forum for members from 108 countries to share information, engage with the broader community, and provide leadership in digital health for global public health.
 
 - [CGIAR](https://www.cgiar.org) — Global research partnership for a food secure future dedicated to reducing poverty, enhancing food and nutrition security, and improving natural resources.
+
+- [Civicus](https://civicus.org/) — Global alliance of civil society organisations and activists dedicated to strengthening citizen action and civil society throughout the world. (NEW)
+
+- [C4D Network](https://c4d.org/) — Global community of professionals working in Communication for Development. (NEW)
+
+- [Humanitarian Innovation Fund](http://www.elrha.org/hif/) — Supports organisations and individuals to identify, nurture and share innovative and scalable solutions to the challenges facing effective humanitarian assistance. (NEW)
+
+- [mySociety](https://www.mysociety.org/) — Not-for-profit social enterprise, based in the UK and working internationally, providing technology, research and data that help people to become active citizens. (NEW)

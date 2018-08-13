@@ -23,3 +23,7 @@
 - [Guardian Project](https://guardianproject.info) — Non-profit group creating apps and promoting libraries and devices that protect data and communications.
 
 - [Guardian Project Blog](https://guardianproject.info/blog) — Blog for the non-profit group creating apps and promoting libraries and devices that protect data and communications.
+
+- [Transparency Toolkit](https://transparencytoolkit.org/) — Gathers open data on surveillance and human rights abuses and makes free software to examine it. (NEW)
+
+- [Privacy International](https://privacyinternational.org/) — Advocates for strong privacy protections and surveillance safeguards in law and technology. (NEW)

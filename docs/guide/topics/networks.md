@@ -57,3 +57,9 @@
 - [Developing Radio Partners](https://www.developingradio.org) — US-based non-profit media development organization that works with local radio stations in developing countries, providing them with the skills they need to bring reliable information to those who need it most.
 
 - [GLOBE (Global Learning and Observations to Benefit the Environment)](http://globe.gov) — International science and education program that provides students and the public worldwide with the opportunity to participate in data collection and the scientific process, and contribute meaningfully to our understanding of the Earth system and global environment.
+
+- [Civicus](https://civicus.org/) — Global alliance of civil society organisations and activists dedicated to strengthening citizen action and civil society throughout the world. (NEW)
+
+- [C4D Network](https://c4d.org/) — Global community of professionals working in Communication for Development. (NEW)
+
+- [Humanitarian Innovation Fund](http://www.elrha.org/hif/) — Supports organisations and individuals to identify, nurture and share innovative and scalable solutions to the challenges facing effective humanitarian assistance. (NEW)

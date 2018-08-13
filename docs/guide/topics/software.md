@@ -113,3 +113,6 @@
 - [Tableau](https://tableau.com) — Data visualization and business intelligence software (with built-in mapping charts and widgets).
 
 - [Graphite](https://www.graphitedocs.com) — Secure, decentralized, and user-owned file creation, file storage, communication, and sharing.
+
+- [CiviCRM](https://civicrm.org/) — Open source constituent relationship management for non-profits, NGOs and advocacy organizations. (NEW)
+

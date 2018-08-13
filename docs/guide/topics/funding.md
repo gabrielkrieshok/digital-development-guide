@@ -39,3 +39,7 @@
 - [Peace Direct](https://www.peacedirect.org) — Prize awards for local peacebuilding — $10,000 and online promotion of your work.
 
 - [UNICEF Innovation Fund](https://www.unicefinnovationfund.org) — A newer funding source that may be of interest to communities.
+
+- [OSC Grant Programs](http://www.osc.dial.community/grants.html) — Grants for open-source software projects with a focus on ICT4D-related efforts. (NEW)
+
+- [Humanitarian Innovation Fund](http://www.elrha.org/hif/) — Supports organisations and individuals to identify, nurture and share innovative and scalable solutions to the challenges facing effective humanitarian assistance. (NEW)

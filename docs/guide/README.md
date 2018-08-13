@@ -1,6 +1,4 @@
-# Getting Started
-
-**ICT4D** is 'Information and Communications Technologies for Development' ([wikipedia link](https://en.wikipedia.org/wiki/Ict4d)) — which is simply the long name for using technology for good around the world.
+# ICT4D Guide
 
 This **ICT4D Guide** is a free and open guide to help anyone who wants to make a positive social impact with technology's help.
 
@@ -16,9 +14,7 @@ There is also a [spreadsheet of the list of the links to resources, organization
 
 ## Contributing
 
-The easiest way to add a link is simply to [fill out this form](https://goo.gl/forms/SGMdxUP02brsq1k52).
-
-To suggest other changes, simply [edit the project file within Github](https://github.com/gabrielkrieshok/ict4dguide), or [open an issue](https://github.com/gabrielkrieshok/ict4dguide/issues).
+To suggest changes (big or small!), simply [edit the project text within Github](https://github.com/gabrielkrieshok/ict4dguide/tree/master/docs/guide), or [open an issue](https://github.com/gabrielkrieshok/ict4dguide/issues).
 
 Lastly, you can use the hashtag '[#ict4dguide](https://twitter.com/search?f=tweets&q=%23ict4dguide&src=typd)' to alert someone (or just [@me](https://twitter.com/gabrielkrieshok)).
 

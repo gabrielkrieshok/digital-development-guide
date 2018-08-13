@@ -33,3 +33,5 @@
 - [Tangerine](http://www.tangerinecentral.org) — Electronic data collection software designed for use on mobile computers, including netbooks, tablet computers and smartphones.
 
 - [EdTech Roundup](http://www.edtechroundup.org/) — Roundup of the latest educational technology news as well as a collection of reviews, lesson plans, suggested applications, and professional development ideas.
+
+- [The Web for Classrooms](https://webforclassrooms.com/) — Helping students at schools, in libraries and at home find relevant content online. (NEW)

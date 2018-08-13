@@ -41,3 +41,5 @@
 - [VisualHunt](https://visualhunt.com) — Free high-quality stock photos from many different sites.
 
 - [XnView](https://www.xnview.com) — Easy-to-use photo viewer, organizer and converter.
+
+- [IYCF Image Bank](https://iycf.spring-nutrition.org/) — Collection of over 700 images, developed from adaptations of UNICEF’s Community Infant and Young Child Feeding Counselling Package. (NEW)

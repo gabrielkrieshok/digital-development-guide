@@ -41,3 +41,5 @@
 - [Nesta](http://nesta.org.uk) — Global consulting firm based in the U.K. — many good resources on design thinking, innovation, etc.
 
 - [D-Lab](https://d-lab.mit.edu) — Global network of innovators to design and disseminate technologies that meaningfully improve the lives of people living in poverty.
+
+- [Humanitarian Innovation Guide](https://higuide.elrha.org/) — Online resource to help individuals and organisations define humanitarian problems and successfully develop innovative solutions. (NEW)

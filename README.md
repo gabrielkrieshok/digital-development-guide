@@ -14,9 +14,7 @@ There is also a [spreadsheet of the list of the links to resources, organization
 
 ## Contributing
 
-The easiest way to add a link is simply to [fill out this form](https://goo.gl/forms/SGMdxUP02brsq1k52).
-
-To suggest other changes, simply [edit the project file within Github](https://github.com/gabrielkrieshok/ict4dguide), or [open an issue](https://github.com/gabrielkrieshok/ict4dguide/issues).
+To suggest changes (big or small!), simply [edit the project text within Github](https://github.com/gabrielkrieshok/ict4dguide/tree/master/docs/guide), or [open an issue](https://github.com/gabrielkrieshok/ict4dguide/issues).
 
 Lastly, you can use the hashtag '[#ict4dguide](https://twitter.com/search?f=tweets&q=%23ict4dguide&src=typd)' to alert someone (or just [@me](https://twitter.com/gabrielkrieshok)).
 
