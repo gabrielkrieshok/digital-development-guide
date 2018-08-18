@@ -1,6 +1,6 @@
 module.exports = {
   title: 'ICT4D Guide',
-  description: 'Technology Tools for Everyone',
+  description: 'Technology tools for everyone',
   // base: '/gabrielkrieshok/ict4dguide/',
   ga: 'UA-106565467-2',
   serviceWorker: true,
@@ -13,7 +13,12 @@ module.exports = {
     ['link', { rel: 'apple-touch-icon', href: `/icons/apple-touch-icon.png` }],
     ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#3eaf7c' }],
     ['meta', { name: 'msapplication-TileImage', content: '/icons/mstile-150x150.png' }],
-    ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
+    ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
+    ['meta', { name: 'og:title', content: 'ICT4D Guide' }],
+    ['meta', { name: 'og:description', content: 'Technology tools for everyone' }],
+    ['meta', { name: 'og:type', content: 'website' }],
+    ['meta', { name: 'og:url', content: 'https://ict4dguide.org' }],
+    ['meta', { name: 'og:image', content: 'https://ict4dguide.org/logo.png' }]
   ],
   themeConfig: {
     displayAllHeaders: false, // Default: false
