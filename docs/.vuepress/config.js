@@ -14,11 +14,11 @@ module.exports = {
     ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#3eaf7c' }],
     ['meta', { name: 'msapplication-TileImage', content: '/icons/mstile-150x150.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
-    ['meta', { name: 'og:title', content: 'ICT4D Guide' }],
-    ['meta', { name: 'og:description', content: 'Technology tools for everyone' }],
-    ['meta', { name: 'og:type', content: 'website' }],
-    ['meta', { name: 'og:url', content: 'https://ict4dguide.org' }],
-    ['meta', { name: 'og:image', content: 'https://ict4dguide.org/logo.png' }]
+    ['meta', { property: 'og:title', content: 'ICT4D Guide' }],
+    ['meta', { property: 'og:description', content: 'Technology tools for everyone' }],
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:url', content: 'https://ict4dguide.org' }],
+    ['meta', { property: 'og:image', content: 'https://ict4dguide.org/logo.png' }]
   ],
   themeConfig: {
     displayAllHeaders: false, // Default: false
