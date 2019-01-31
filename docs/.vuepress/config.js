@@ -41,11 +41,9 @@ module.exports = {
     sidebar: [
       {
         title: 'Introduction',
-        collapsable: false,
+        collapsable: true,
         children: [
-          '/guide/',
-          '/guide/contents',
-          '/guide/about'
+          '/guide/'
         ]
       },
       {

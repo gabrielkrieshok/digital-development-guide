@@ -1,18 +1,20 @@
-# ICT4D Guide
+# About
 
 This **ICT4D Guide** is a free and open guide to help anyone who wants to make a positive social impact with technology's help.
 
 
 
-## Jumping In
+### Why the Guide
 
-Browse the Guide online here (optimized for mobile as well), or [download a PDF](https://www.gitbook.com/download/pdf/book/gabrielkrieshok/ict4d-guide), [EPUB](https://www.gitbook.com/download/epub/book/gabrielkrieshok/ict4d-guide), or [MOBI](https://www.gitbook.com/download/mobi/book/gabrielkrieshok/ict4d-guide) version of the Guide.
+This guide hopes to help anyone who wants to use technology to make the world a slightly better place. 
 
-There is also a [spreadsheet of the list of the links to resources, organizations, and websites](http://bit.ly/ict4dguide).
+This guide should help you whether if you work in international development, community organizing, entrepreneurship, university student—everyone.
+
+My hope in putting this together was that could be something in it for everyone. There are items that may seem too simple, and others that are too advanced. That's ok -- it's a good place to learn, to grow, and hopefully, to teach!
 
 
 
-## Contributing
+### Contributing
 
 To suggest changes (big or small!), simply [edit the project text within Github](https://github.com/gabrielkrieshok/ict4dguide/tree/master/docs/guide), or [open an issue](https://github.com/gabrielkrieshok/ict4dguide/issues).
 
@@ -20,7 +22,19 @@ Lastly, you can use the hashtag '[#ict4dguide](https://twitter.com/search?f=twee
 
 
 
-## Acknowledgements
+
+### Guide Background
+
+I began writing this guide as a simple way to organize my own resources along the way in my fieldwork.
+
+I wanted to use the opportunity of making this resource more public as a way to extend that reach even further.
+
+Additionally, I'm hoping to learn from those who read it to provide feedback so that I can learn even more along the way.
+
+If we have been successful, we will play a part in 'more evenly distributing the future' among the present.
+
+
+### Acknowledgements
 
 These links are the result of many people's experiences working in the field in many locations around the world.
 
