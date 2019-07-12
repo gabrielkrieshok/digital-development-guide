@@ -20,6 +20,24 @@ Lastly, you can use the hashtag '[#ict4dguide](https://twitter.com/search?f=twee
 
 
 
+## Running Locally
+
+# git clone
+
+# install
+yarn global add vuepress # OR npm install -g vuepress
+
+# create a markdown file
+echo '# Hello VuePress' > README.md
+
+# start writing
+yarn docs:dev
+
+# build to static files
+yarn docs:build
+
+
+
 ## Acknowledgements
 
 These links are the result of many people's experiences working in the field in many locations around the world.
