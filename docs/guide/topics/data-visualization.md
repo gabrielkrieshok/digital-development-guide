@@ -39,3 +39,5 @@
 - [Tableau](https://tableau.com) — Data visualization and business intelligence software (with built-in mapping charts and widgets).
 
 - [Geojournalism](http://geojournalism.org) — Online resources and training for journalists, designers and developers to dive into the world of data visualization using geographic data.
+
+- [Keshif](https://keshif.me) — Fully automated visual data analysis software for creating rich exploratory maps, charts and dashboard environments
