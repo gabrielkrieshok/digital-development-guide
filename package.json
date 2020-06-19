@@ -13,7 +13,7 @@
     "docs:build": "vuepress build docs"
   },
   "dependencies": {
-    "vue": "^2.6.10",
+    "vue": "^2.6.11",
     "vue-router": "^3.0.7"
   },
   "devDependencies": {
@@ -58,7 +58,7 @@
     "vue-loader": "^15.6.2",
     "vue-style-loader": "^4.1.2",
     "vue-template-compiler": "^2.6.10",
-    "vuepress": "^1.0.2",
+    "vuepress": "^1.5",
     "webpack": "^4.29.0",
     "webpack-bundle-analyzer": "^3.0.3",
     "webpack-dev-middleware": "^3.5.1",
