@@ -1,0 +1,64 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic);
+
+body,h1,h2,h3,h4,h5,h6,p,a,ul,pre,blockquote{
+	font-family: 'Lato', sans-serif;
+}
+body{
+	font-size:16px;
+	line-height:1.75em;
+	letter-spacing:0.1em;
+	font-weight:300;
+}
+h1,.h1{
+	font-size:80px;
+	line-height:1.2em;
+	letter-spacing:0.05em;
+	font-weight:900;
+}
+h2,.h2{
+	font-size:60px;
+	line-height:1.2em;
+	letter-spacing:0.05em;
+	font-weight:900;
+}
+h3,.h3{
+	font-size:48px;
+	line-height:1.25em;
+	letter-spacing:0.1em;
+	font-weight:900;
+}
+h4,.h4{
+	font-size:36px;
+	line-height:1.3em;
+	letter-spacing:0.05em;
+	font-weight:900;
+}
+h5,.h5{
+	font-size:18px;
+	line-height:1.5em;
+	letter-spacing:0.1em;
+	font-weight:300;
+}
+h6,.h6{
+	font-size:14px;
+	line-height:1.4em;
+	letter-spacing:0.1em;
+	font-weight:900;
+}
+p,.p{
+	font-size:16px;
+	line-height:1.75em;
+	letter-spacing:0.1em;
+	font-weight:300;
+}
+p.lead{
+	font-size:24px;
+	line-height:1.75em;
+	letter-spacing:0.1em;
+}
+blockquote{
+	font-size:18px;
+	line-height:2em;
+	font-weight:300;
+	letter-spacing:0.05em;
+}
