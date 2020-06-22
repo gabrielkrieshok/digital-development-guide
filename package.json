@@ -1,7 +1,7 @@
 {
-  "name": "ict4dguide",
+  "name": "tech4good-guide",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "An open guide to using Technology for Good",
   "author": "Gabriel Krieshok <gabriel.krieshok@gmail.com>",
   "private": true,
   "scripts": {
@@ -58,7 +58,7 @@
     "vue-loader": "^15.6.2",
     "vue-style-loader": "^4.1.2",
     "vue-template-compiler": "^2.6.10",
-    "vuepress": "^1.5",
+    "vuepress": "^1.5.2",
     "webpack": "^4.29.0",
     "webpack-bundle-analyzer": "^3.0.3",
     "webpack-dev-middleware": "^3.5.1",
