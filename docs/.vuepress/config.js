@@ -20,9 +20,9 @@ module.exports = {
     ['meta', { name: 'msapplication-TileImage', content: '/icons/mstile-150x150.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
     ['meta', { name: 'title', content: 'Open Tech4Good' }],
-    ['meta', { name: 'description', content: 'An open guide to using Technology for Good' }],
-    ['meta', { property: 'og:title', content: 'Tech4Good Guide' }],
-    ['meta', { property: 'og:description', content: 'An open guide to using Technology for Good' }],
+    ['meta', { name: 'description', content: 'An open guide to using Technology for Good.' }],
+    ['meta', { property: 'og:title', content: 'Open Tech4Good' }],
+    ['meta', { property: 'og:description', content: 'An open guide to using Technology for Good.' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:url', content: 'https://opentech4good.org' }],
     ['meta', { property: 'og:image', content: 'https://opentech4good.org/feature.png' }]
