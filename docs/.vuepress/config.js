@@ -5,8 +5,8 @@ module.exports = {
   title: 'Open Tech4Good',
   description: 'An open guide to using Technology for Good',
   // dest: './guide/',
-  base: '/guide/', // for realz
-  // base: '', // // for development!
+  // base: '/guide/', // for realz
+  base: '', // // for development!
   ga: 'UA-106565467-2',
   serviceWorker: true,
   head: [
