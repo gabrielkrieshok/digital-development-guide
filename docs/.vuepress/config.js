@@ -1,14 +1,20 @@
+const { description } = require('../../package')
+
 module.exports = {
-  themeConfig: {
-    logo: '/assets/img/logo.svg',
-  },
+  /**
+   * Ref：https://v1.vuepress.vuejs.org/config/#title
+   */
   title: 'Open Tech4Good',
-  description: 'An open guide to using Technology for Good',
-  // dest: './guide/',
-  // base: '/guide/', // for realz
-  base: '', // // for development!
-  ga: 'UA-106565467-2',
-  serviceWorker: true,
+  /**
+   * Ref：https://v1.vuepress.vuejs.org/config/#description
+   */
+  description: 'An open guide to using Technology for Good.',
+
+  /**
+   * Extra tags to be injected to the page HTML `<head>`
+   *
+   * ref：https://v1.vuepress.vuejs.org/config/#head
+   */
   head: [
     ['link', { rel: 'icon', href: `/logo.svg` }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
@@ -27,23 +33,25 @@ module.exports = {
     ['meta', { property: 'og:url', content: 'https://opentech4good.org' }],
     ['meta', { property: 'og:image', content: 'https://opentech4good.org/feature.png' }]
   ],
+  /**
+   * Theme configuration, here is the default theme configuration for VuePress.
+   *
+   * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
+   */
   themeConfig: {
     displayAllHeaders: false, // Default: false
+    logo: '/logo.svg',
     repo: 'gabrielkrieshok/open-tech4good',
-    // Customising the header label
-    // Defaults to "GitHub"/"GitLab"/"Bitbucket" depending on `themeConfig.repo`
-    // Optional options for generating "Edit this page" link
-    // if your docs are in a different repo from your main project:
-    docsRepo: 'gabrielkrieshok/open-tech4good',
-    // if your docs are not at the root of the repo:
-    docsDir: 'docs',
-    // if your docs are in a specific branch (defaults to 'master'):
-    docsBranch: 'master',
-    // defaults to false, set to true to enable
-    editLinks: true,
-    // custom text for edit link. Defaults to "Edit this page"
-    editLinkText: 'Help improve this page!',
-    lastUpdated: 'Last Updated', // string | boolean,
+    editLinks: false,
+    docsDir: '',
+    editLinkText: '',
+    lastUpdated: false,
+    nav: [
+      {
+        text: 'Tech4Good Field Guide',
+        link: 'https://tech4goodguide.org',
+      }
+    ],
     sidebar: [
       {
         title: 'Introduction',
@@ -100,11 +108,18 @@ module.exports = {
         ]
       }
     ],
-    nav: [
-      { text: 'Tech4Good Field Guide', link: 'https://tech4goodguide.org' }
+  },
+  /**
+   * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
+   */
+  plugins: [
+    '@vuepress/plugin-back-to-top',
+    '@vuepress/plugin-medium-zoom',
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-106565467-2'
+      }
     ]
-  }
+  ]
 }
-
-
-

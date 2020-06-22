@@ -18,14 +18,9 @@ This part of the guide is 100% made with [VuePress](https://vuepress.vuejs.org/)
 
 Feel free to fork and install local versions to your heart's content.
 
-### Install
+## Development
 
-yarn global add vuepress # OR npm install -g vuepress
-
-### Development
-
-yarn docs:dev
-
-### Build
-
-yarn docs:build
+```bash
+yarn dev
+yarn build
+```
