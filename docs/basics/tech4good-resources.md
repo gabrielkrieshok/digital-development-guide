@@ -10,7 +10,7 @@ Some of these resources are difficult to narrowly categorize, and often serve mu
 
 I’ve also prioritized resources that have been around for a few years, or that seem particularly solid and with a strong reputation, as new areas, organizations, and resources are being created all of the time.
 
-All of these resources can also be found online in [an easy-to-read table](https://tech4goodguide.org/resources/).
+All of these resources can also be found online in [an easy-to-read table](https://opentech4good.org/basics/tech4good-resources.html).
 
 ## General Resources
 

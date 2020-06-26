@@ -1,6 +1,6 @@
 # Doing Tech4Good
 
-There is no one-size-fits-all approach to Tech4Good projects. If there were, we wouldn't need guides like this one! There are many challenges to face, and many barriers to overcome in any technology project, much less ones dealing with at-risk populations, the digitally disenfranchised, or projects created in laboratories of bureaucracy, policy, and complicated governance structures.
+There is no one-size-fits-all approach to Tech4Good projects. If there were, we wouldn't need guides like this one!There are many challenges to face, and many barriers to overcome in any technology project, much less ones dealing with at-risk populations, the digitally disenfranchised, or projects created in laboratories of bureaucracy, policy, and complicated governance structures.
 
 Helpfully, there are a number of project guides, process checklists, and tools out there to get you started in specific Tech4Good-related areas. While these are not comprehensive by any stretch, they have come to the surface as my often-encountered challenges as well as approaches that have served to re-orient myself and my teams towards the problem at hand.
 
@@ -32,7 +32,7 @@ The task of the Tech4Good professional is to use that interest and investment in
 
 ### Opportunity Cost
 
-Opportunity cost is essentially the value of opportunities not taken when at a fork in the road. Borrowing from the world of economics, I have found opportunity cost to be incredibly helpful as an explanatory concept in a variety of settings: from the attendance numbers of a nutrition training by new mothers to the slower growth of smartphone adoption around the world. It’s helpful when thinking through the cost-benefit of decision-making and why we make decisions in the way that we do.
+Opportunity cost is essentially the value of opportunities not taken when at a fork in the road. Borrowing from the world of economics, I have found opportunity cost to be incredibly helpful as an explanatory concept in a variety of settings: from the attendance numbers of a nutrition training by new mothers to the slower growth of smartphone adoption around the world.It’s helpful when thinking through the cost-benefit of decision-making and why we make decisions in the way that we do.
 
 For example, though our nutrition training may have been free and even provided a phone credit stipend, it was not greater than the opportunity cost of finding someone to watch your other children or take time off of work.
 
@@ -69,7 +69,7 @@ But none of this comes without listening, without understanding, and without kno
 
 #### 3. Don’t Lead with Technology
 
-Don't lead with technology — instead, lead with needs. One of the first mistakes we often make, and that derails us from a people-centered approach, is by focusing on the technology solution first, and then inserting that “solutionism” round peg into the square hole of the problem. Tsk tsk. One helpful way to avoid this is by giving yourself the exercise of defining the problem and its terms without invoking technology.
+Don't lead with technology — instead, lead with needs.One of the first mistakes we often make, and that derails us from a people-centered approach, is by focusing on the technology solution first, and then inserting that “solutionism” round peg into the square hole of the problem. Tsk tsk.One helpful way to avoid this is by giving yourself the exercise of defining the problem and its terms without invoking technology.
 
 By defining the problem without technology, you’re ensuring that it doesn’t get tangled up as the “end,” and stays rightfully in the space of being a means to an end.
 
@@ -87,7 +87,7 @@ So yes, you might be the wet blanket of the group that highlights the limitation
 
 #### 5. Use Principles Where Available
 
-I’m a fan of checklists in Tech4Good. They can be great reminders, and helpful building blocks with teams to ensure a common vocabulary. One of the better launching pads for checklists in Tech4Good to come along recently are the Digital Principles of Development (digitalprinciples.org) from the Digital Impact Alliance. While the nine principles themselves are fairly straightforward, the resources, organizations, and case studies that they point to are invaluable as a starting point and a great checkpoint to refer back to:
+I’m a fan of checklists in Tech4Good. They can be great reminders, and helpful building blocks with teams to ensure a common vocabulary.One of the better launching pads for checklists in Tech4Good to come along recently are the Digital Principles of Development (digitalprinciples.org) from the Digital Impact Alliance. While the nine principles themselves are fairly straightforward, the resources, organizations, and case studies that they point to are invaluable as a starting point and a great checkpoint to refer back to:
 
 - Design with the user
 - Understand the existing ecosystem
@@ -99,7 +99,7 @@ I’m a fan of checklists in Tech4Good. They can be great reminders, and helpful
 - Address privacy & security
 - Be collaborative
 
-A second set of principles that I’ve found to be quite useful when working with organizations are the [Digital Investment Principles for Global Health](https://igitalinvestmentprinciples.org). These serve at a little higher level of abstraction than the digital principles of development, but are equally useful for organizations looking for a checklist and framework to guide their activities in Tech4Good.
+A second set of principles that I’ve found to be quite useful when working with organizations are the [Digital Investment Principles for Global Health](https://digitalinvestmentprinciples.org). These serve at a little higher level of abstraction than the digital principles of development, but are equally useful for organizations looking for a checklist and framework to guide their activities in Tech4Good.
 
 #### 6. Technology is (only) an Amplifier
 

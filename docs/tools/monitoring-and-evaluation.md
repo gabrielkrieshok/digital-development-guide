@@ -19,7 +19,6 @@ Tech4Good and M&E share a lot of DNA, but they are not interchangeable. It’s n
 - [Changeroo](https://changeroo.com/) — Web-based Theory-of-Change software — has a focus on allowing collaboration and co-creation with stakeholders.
 - [DevResults Platform](https://www.devresults.com/tour) — Web-based project management tool specially designed for the international development community.
 - [DME for Peace](https://dmeforpeace.org) — Design, monitoring and evaluation for peacebuilding.
-- [DoView](http://doview.com/) — Visual strategic planning and outcomes tool.
 - [Indicators Registry](https://humanitarianresponse.info/applications/ir) — Guidance tool for countries to select indicators, and where possible seek standard definitions and applications of those indicators.
 - [IndiKit](https://www.indikit.net) — Czech-NGO web product that has a very detailed catalog of indicators across a range of sectors.
 - [Kashana](http://kashana.org) — Open-source monitoring, evaluation, and learning (MEL) information system for international development.

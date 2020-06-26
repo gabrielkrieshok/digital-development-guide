@@ -14,7 +14,7 @@ If there is one obvious area of mandate and growth for the Tech4Good community, 
 
 ## Resources
 
-- [ChildNet](http://childnet.com) — Nonprofit organization working with others to help make the internet a safe place for children.
+- [ChildNet](https://www.childnet.com) — Nonprofit organization working with others to help make the internet a safe place for children.
 - [Data Detox Kit](https://datadetoxkit.org/) — Guide for digital privacy, security, and wellbeing.
 - [Data Protection Guide - Privacy International](https://privacyinternational.org/data-protection-guide) — Data protection guide with explainer infographics.
 - [Data Starter Kit for Humanitarian Field Staff](http://elan.cashlearning.org) — Concise tip sheets on privacy impact assessments, data minimization, encryption, archiving and more by the Electronic Cash Transfer Learning Action Network (cashlearning.org/elan/elan).

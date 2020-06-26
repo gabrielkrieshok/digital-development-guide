@@ -18,4 +18,3 @@ It’s not just a matter of promoting pilot projects or promising-sounding solut
 - [Counterpart International](https://counterpart.org) — Nonprofit that builds the capacity of leaders, organizations, and social sector networks.
 - [Grameen Foundation](https://grameenfoundation.com) — Global nonprofit based in Washington DC that works to replicate the Grameen Bank microfinance model around the world through a global network of partner microfinance institutions.
 - [Humanity United](https://humanityunited.org) — Launched in 2008, HU is part of The Omidyar Group, which represents the philanthropic, personal, and professional interests of Pam and Pierre Omidyar.
-- [Learning Lions](http://learninglions.com) — Nonprofit organization enabling young adults in impoverished rural areas of Eastern Africa to work, and to live a life full of opportunity while remaining in their home area.

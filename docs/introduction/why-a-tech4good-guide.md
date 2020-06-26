@@ -8,4 +8,4 @@ However, I found that there was still a gap to understanding, and in aggregating
 
 I realize of course, that the minute a document like this gets finalized, the clock starts running on how long its able to stay current. This document is by no means comprehensive, and I would encourage your help in adding to the list!
 
-I also manage the [Tech4Good website](https://tech4goodguide.org), which houses these resources in an updated, dynamic table that can be sorted and filtered, which can be found [here](https://tech4goodguide.org/resources/).
+I also manage the [OpenTech4Good website](https://opentech4good.org/), which houses these resources in an updated, dynamic table that can be sorted and filtered, which can be found [here](https://opentech4good.org/basics/tech4good-resources.html).
