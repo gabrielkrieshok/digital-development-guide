@@ -1,7 +1,7 @@
 {
   "name": "open-tech4good",
   "version": "0.0.1",
-  "description": "An open guide to using Technology for Good.",
+  "description": "Resources and guides to using Technology for Good.",
   "main": "index.js",
   "authors": {
     "name": "Gabriel Krieshok",

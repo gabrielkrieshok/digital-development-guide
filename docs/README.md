@@ -1,6 +1,6 @@
 # Open Tech4Good
 
-This **Open Tech4Good** guide is an open guide to help anyone who wants to make a positive social impact with technology's help.
+This **Open Tech4Good** site is a set of guides and resources to help anyone who wants to make a positive social impact with technology's help.
 
 Browse the Guide online here (optimized for mobile and as a [Progressive Web App](https://web.dev/what-are-pwas/) as well), and contribute changes via [GitHub issues](https://github.com/gabrielkrieshok/opentech4good/issues). I also maintain an [AirTable listing](basics/tech4good-airtable.html) of all the up-to-date resources as well.
 

@@ -1,24 +1,23 @@
 # Open Tech4Good
 
-This **Open Tech4Good** guide is an open guide to help anyone who wants to make a positive social impact with technology's help.
+This **Open Tech4Good** site is a set of guides and resources to help anyone who wants to make a positive social impact with technology's help.
 
-Browse the Guide online here (optimized for mobile and as a [Progressive Web App](https://web.dev/what-are-pwas/) as well), and contribute changes via [GitHub issues](https://github.com/gabrielkrieshok/opentech4good/issues). I also maintain an [AirTable listing](basics/tech4good-airtable.html) of all the up-to-date resources as well.
+# Contributing
 
-Recently, I [wrote a book](https://www.amazon.com/Gabriel-Krieshok/e/B07RTRKY9V/ref=dp_byline_cont_ebooks_1) which incorporates many of these resources, as well as additional history, context, and how-tos for using Tech4Good resources. [Check it out](https://tech4goodguide.org/) — available for download as a PDF or for [purchase from Amazon](https://www.amazon.com/Gabriel-Krieshok/e/B07RTRKY9V/ref=dp_byline_cont_ebooks_1).
+- Make individual commits for suggestions (the docs are all markdown files), or open up issues to flag something.
+- Update the master [AirTable database](https://airtable.com/shrIyFNx0PYL39Alh/tbl9kGk4uuG08xTJt) through the [submit form(https://airtable.com/shrtcZuxBz8d6tHjE).
 
-## Acknowledgements
+Thanks for your suggestions!
 
-These links are the result of many people's experiences working in the field in many locations around the world.
+# License
 
-Most of this guide was prepared through many nights and weekends by me, [Gabriel Krieshok](https://gabrielkrieshok.com) -- and with **amazing** help from [Henry Bruce](https://twitter.com/henryhbruce), [Annie Legge](https://twitter.com/annielegge), [Derek Caelin](https://twitter.com/derekpost), and [Matt Haikin](https://twitter.com/matthaikin).
+CC0
 
-## Behind the Scenes
-
-This part of the guide is 100% made with [VuePress](https://vuepress.vuejs.org/), which is a static site generator, allowing you to build documentation like this from Markdown files automatically.
-
-Feel free to fork and install local versions to your heart's content.
+To the extent possible, I've waived copyright to this work.
 
 ## Development
+
+The site is made with [VuePress](https://vuepress.vuejs.org/).
 
 ```bash
 yarn dev
