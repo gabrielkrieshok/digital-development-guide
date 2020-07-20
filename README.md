@@ -1,6 +1,6 @@
 # Open Tech4Good
 
-This **Open Tech4Good** site is a set of guides and resources to help anyone who wants to make a positive social impact with technology's help.
+The **Open Tech4Good** site is an open repository with resources to help build Tech4Good projects at all levels.
 
 # Contributing
 
