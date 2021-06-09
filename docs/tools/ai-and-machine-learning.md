@@ -16,12 +16,10 @@ The list of considerations to take into account when thinking through AI and mac
 
 ## Resources
 
-- [A.I. Experiments - Google](https://aiexperiments.withgoogle.com/) — Explore machine learning by playing with pictures, language, music, code, and more from Google.
-- [A16Z AI Playbook](http://aiplaybook.a16z.com/) — One of the best AI starter guides out there.
-- [Aequitas](https://dsapp.uchicago.edu/aequitas/) — Open source bias audit toolkit for machine learning.
-- [AI Ethics Guidelines Global Inventory – AlgorithmWatch](https://algorithmwatch.org/en/project/ai-ethics-guidelines-global-inventory/) — A landscape of 80+ AI ethical frameworks.
-- [DeepIndex](https://deepindex.org/) — Keeping track of what AI can do and where it is being applied (up to 505 right now) — this is an incredible list and a great way to start conversations.
-- [Impact Challenge – Google AI](https://ai.google/social-good/impact-challenge) — 20 key examples of projects using AI for positive social impact.
-- [Noodle.ai](https://noodle.ai/) — AI as a service business.
-- [The Exponential View](http://www.exponentialview.co/) — This is a weekly newsletter and is AWESOME. The best newsletter on the topic – not too wonky, but not too broad either.
-- [The Non-Technical Guide to Machine Learning & Artificial Intelligence](https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0) — Exhaustive non-technical guide to Machine Learning & Artificial Intelligence.
+These resources are synchronized with this [AirTable database](https://airtable.com/shrIyFNx0PYL39Alh/tbl9kGk4uuG08xTJt?backgroundColor=green&viewControls=on). [Submit an update](https://airtable.com/shrtcZuxBz8d6tHjE) if we are missing something!
+
+<vue-airtable
+:columns="['Name', 'Description', 'Topic', 'Link', 'Type']"
+filter="{Topic} = 'AI/ML'"
+view="Public">
+</vue-airtable>

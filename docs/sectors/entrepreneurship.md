@@ -13,8 +13,10 @@ It’s not just a matter of promoting pilot projects or promising-sounding solut
 
 ## Resources
 
-- [Aga Khan Foundation](https://www.akdn.org) — Private nonprofit foundation founded in 1967 by Prince Shah Al Hussaini that seeks to provide long-term solutions to problems of poverty, hunger, illiteracy and ill health in the poorest parts of South and Central Asia, Eastern and Western Africa, and the Middle East.
-- [Ashoka](https://ashoka.org) — International organization that promotes social  entrepreneurship by affiliating individual social entrepreneurs.
-- [Counterpart International](https://counterpart.org) — Nonprofit that builds the capacity of leaders, organizations, and social sector networks.
-- [Grameen Foundation](https://grameenfoundation.com) — Global nonprofit based in Washington DC that works to replicate the Grameen Bank microfinance model around the world through a global network of partner microfinance institutions.
-- [Humanity United](https://humanityunited.org) — Launched in 2008, HU is part of The Omidyar Group, which represents the philanthropic, personal, and professional interests of Pam and Pierre Omidyar.
+These resources are synchronized with this [AirTable database](https://airtable.com/shrIyFNx0PYL39Alh/tbl9kGk4uuG08xTJt?backgroundColor=green&viewControls=on). [Submit an update](https://airtable.com/shrtcZuxBz8d6tHjE) if we are missing something!
+
+<vue-airtable
+:columns="['Name', 'Description', 'Topic', 'Link', 'Type']"
+filter="{Topic} = 'Entrepreneurship'"
+view="Public">
+</vue-airtable>

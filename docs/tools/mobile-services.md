@@ -14,13 +14,10 @@ Assumptions of connectivity via mobile phones is also where Tech4Good plays an i
 
 ## Resources
 
-- [FrontlineSMS](https://frontlinesms.com) — Organization behind the flagship product (of the same name) — a free open-source software to distribute and collect information via text messaging (SMS).
-- [FrontlineSMS Platform](https://www.frontlinesms.com/) — A messaging platform to distribute and collect information via text messaging (SMS), very mature and used by many organizations.
-- [GSMA - Mobile for Development](https://gsma.com/mobilefordevelopment) — Group within GSMA that brings together mobile operator members, the wider mobile industry and the development community to drive commercial mobile services for underserved people in emerging markets.
-- [GSMA Inclusive Tech Lab](https://www.gsma.com/mobilefordevelopment/mobile-money/gsma-inclusive-tech-lab/) — Group within GSMA focusing on transformative digital solutions.
-- [HarassMap](https://harassmap.org) — An SMS-to-web solution which allows women to anonymously report sexual harassment they face by sending a simple text that is then displayed on a public map on the website.
-- [Nexmo](https://nexmo.com) — APIs for SMS, voice & phone verification.
-- [Praekelt Foundation](https://praekelt.org) — South Africa-based foundation that works in ICT4D, using open source technologies to deliver essential information and inclusive services to millions of people around the world, especially in Africa.
-- [TextIt](https://textit.in) — SMS messaging platform with interesting built-in flow controls for more natural 2-way communications.
-- [Twilio](https://twilio.com) — Cloud service providing many tools and services for text messaging and SMS — thorough documentation, history of projects.
-- [Viamo](https://viamo.io) — Mobile services company with data collection (DataWinners), SMS communication (3-2-1 Service), IVR, and increasingly smartphone services and chatbots. Created as a merger with HNI and Voto Mobile in 2017. Key Stats: Viamo in 26 countries. 3-2-1- Short-code service is available in 15 countries.
+These resources are synchronized with this [AirTable database](https://airtable.com/shrIyFNx0PYL39Alh/tbl9kGk4uuG08xTJt?backgroundColor=green&viewControls=on). [Submit an update](https://airtable.com/shrtcZuxBz8d6tHjE) if we are missing something!
+
+<vue-airtable
+:columns="['Name', 'Description', 'Topic', 'Link', 'Type']"
+filter="{Topic} = 'Mobile Services'"
+view="Public">
+</vue-airtable>

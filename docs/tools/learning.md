@@ -14,11 +14,10 @@ Learning new things is challenging — and requires time that many of us simply 
 
 ## Resources
 
-- [Coursera](https://www.coursera.org) — Online Courses from universities.
-- [EdX](https://edx.org) — MOOC that offers 200+ online classes from almost 50 partner universities.
-- [Free Code Camp](https://learn.freecodecamp.org) — Learning resources for coding.
-- [Khan Academy Platform](https://www.khanacademy.org) — Free courses on a range of topics.
-- [LinkedinLearning](https://www.linkedin.com/learning/) — Professional online courses, classes, training, tutorials (formerly Lynda.com).
-- [Skillshare](https://www.skillshare.com/) — Online classes on a variety of digital media topics.
-- [TechChange Platform](https://www.techchange.org) — Online tech training for social good.
-- [Tuts+](https://tutsplus.com/) — Free how-to tutorials and online courses.
+These resources are synchronized with this [AirTable database](https://airtable.com/shrIyFNx0PYL39Alh/tbl9kGk4uuG08xTJt?backgroundColor=green&viewControls=on). [Submit an update](https://airtable.com/shrtcZuxBz8d6tHjE) if we are missing something!
+
+<vue-airtable
+:columns="['Name', 'Description', 'Topic', 'Link', 'Type']"
+filter="{Topic} = 'Learning'"
+view="Public">
+</vue-airtable>

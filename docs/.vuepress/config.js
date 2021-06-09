@@ -69,12 +69,10 @@ module.exports = {
         children: [
           '/basics/what-is-tech4good.md',
           '/basics/the-tech4good-context.md',
-          '/basics/doing-tech4good.md',
-          '/basics/tech4good-resources.md'
+          '/basics/doing-tech4good.md'
         ]
       },
-      ['/basics/tech4good-resources', 'Tech4Good Resources'],
-      ['/basics/tech4good-airtable', 'Tech4Good AirTable'],
+      ['/basics/key-tech4good-resources', 'Key Tech4Good Resources'],
       {
         title: 'Sectors',
         sidebarDepth: 0,
@@ -114,6 +112,7 @@ module.exports = {
    */
   plugins: [
     '@vuepress/plugin-back-to-top',
+    'fulltext-search',
     '@vuepress/plugin-medium-zoom',
     [
       '@vuepress/google-analytics',

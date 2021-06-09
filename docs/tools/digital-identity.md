@@ -11,3 +11,13 @@ It can be easy to take for granted things like a driver’s license, passport, o
 ## Considerations
 
 It is unfair to say that if you don’t have a digital ID, then you simply fail to count, or that you simply don’t exist. Starting from a “digital ID first” orientation can be starting with the solution looking for a problem, rather than the inverse. Digital ID projects are challenging in that they require often significant levels of infrastructure to achieve, which require multilateral stakeholders representing a variety of voices, which are hard to coordinate. Additionally, digital ID projects are susceptible to bias, data leaks, issues of consent and ownership, and transparency and accountability.
+
+## Resources
+
+These resources are synchronized with this [AirTable database](https://airtable.com/shrIyFNx0PYL39Alh/tbl9kGk4uuG08xTJt?backgroundColor=green&viewControls=on). [Submit an update](https://airtable.com/shrtcZuxBz8d6tHjE) if we are missing something!
+
+<vue-airtable
+:columns="['Name', 'Description', 'Topic', 'Link', 'Type']"
+filter="{Topic} = 'Digital Identity'"
+view="Public">
+</vue-airtable>

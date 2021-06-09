@@ -14,14 +14,10 @@ Humanitarian crises require learning, adaptation, and innovation. Acute challeng
 
 ## Resources
 
-- [CartONG](https://www.cartong.org) — French-based NGO specializing in Geospatial Information for humanitarian and social development outcomes.
-- [CRS - Catholic Relief Services](https://www.crs.org) — International humanitarian agency of the Catholic community in the United States — has long been a strong player in the Tech4Good / ICT4D space.
-- [DH Network - Digital Humanitarian Network](https://digitalhumanitarians.com) — Network of networks working in digital humanitarian response efforts.
-- [Field Ready](https://fieldready.org) — Social enterprise that works in disaster relief and humanitarian response leveraging tools like rapid manufacturing and 3d-printing.
-- [GAHI - Global Alliance for Humanitarian Innovation](https://www.thegahi.org) — Cooperative from Australia, Netherlands, Denmark and the UK to scale innovation in the humanitarian sector.
-- [Humanitarian Innovation Fund](http://www.elrha.org/hif/) — Innovation fund that supports organizations and individuals around innovative and scalable solutions to the challenges facing effective humanitarian assistance.
-- [Humanitarian Makers](https://humanitarianmakers.org) — Makers, designers, and engineers using 'make' approaches for issues of social good.
-- [InterAction](https://www.interaction.org) — Alliance of international and domestic NGOs to think and act collectively around humanitarian work.
-- [IRC - International Rescue Committee](https://rescue.org) — Organization focusing on humanitarian crises and helping people to survive and rebuild their lives.
-- [Mercy Corps](https://mercycorps.org) — Global humanitarian aid agency engaged in transitional environments.
-- [Missing Maps](https://www.missingmaps.org) — Humanitarian project using OpenStreetMap to coordinate mapping of areas to meet the needs of vulnerable communities.
+These resources are synchronized with this [AirTable database](https://airtable.com/shrIyFNx0PYL39Alh/tbl9kGk4uuG08xTJt?backgroundColor=green&viewControls=on). [Submit an update](https://airtable.com/shrtcZuxBz8d6tHjE) if we are missing something!
+
+<vue-airtable
+:columns="['Name', 'Description', 'Topic', 'Link', 'Type']"
+filter="{Topic} = 'Humanitarian Response'"
+view="Public">
+</vue-airtable>

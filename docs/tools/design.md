@@ -14,12 +14,10 @@
 
 ## Resources
 
-- [18F Methods](https://methods.18f.gov) — Collection of tools for design thinking and agile development processes.
-- [Better Digital Services](https://betterdigital.services) — Design principles help charities build better digital services.
-- [Civic Service Design](https://civicservicedesign.com) — Civic service design tools and tactics from NYC — a de-facto standard.
-- [Collective Action Toolkit](http://frogdesign.com/work/frog-collective-action-toolkit.html) — A set of activities and methods to enable groups of people anywhere to organize, collaborate, and create solutions for problems impacting their community.
-- [Design Patterns for Mental Health](https://www.designpatternsformentalhealth.org/) — Design patterns for mental health.
-- [Hack Design](http://hackdesign.org/) — Design course for all UX topics.
-- [IDEO.org](http://ideo.org) — Nonprofit (related to design consultancy IDEO) dedicated to applying human-centered design to alleviate poverty.
-- [Microsoft Inclusive Design](https://microsoft.com/en-us/design/inclusive) — Microsoft's very good center that has a lot of great resources for designing with inclusion in mind from the beginning.
-- [Open Innovation Toolkit](https://toolkit.mozilla.org) — Community-sourced set of best practices and principles to incorporate human-centered design into product development process.
+These resources are synchronized with this [AirTable database](https://airtable.com/shrIyFNx0PYL39Alh/tbl9kGk4uuG08xTJt?backgroundColor=green&viewControls=on). [Submit an update](https://airtable.com/shrtcZuxBz8d6tHjE) if we are missing something!
+
+<vue-airtable
+:columns="['Name', 'Description', 'Topic', 'Link', 'Type']"
+filter="{Topic} = 'Design'"
+view="Public">
+</vue-airtable>

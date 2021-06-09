@@ -14,19 +14,10 @@ Tech4Good and M&E share a lot of DNA, but they are not interchangeable. It’s n
 
 ## Resources
 
-- [ActivityInfo](https://www.activityinfo.org) — M&E software for data collection and reporting which works online and offline, targeted at use by humanitarian organizations.
-- [Chandoo](https://chandoo.org) — Learn Excel, Power BI, Charting, Dashboards and VBA online.
-- [Changeroo](https://changeroo.com/) — Web-based Theory-of-Change software — has a focus on allowing collaboration and co-creation with stakeholders.
-- [DevResults Platform](https://www.devresults.com/tour) — Web-based project management tool specially designed for the international development community.
-- [DME for Peace](https://dmeforpeace.org) — Design, monitoring and evaluation for peacebuilding.
-- [Indicators Registry](https://humanitarianresponse.info/applications/ir) — Guidance tool for countries to select indicators, and where possible seek standard definitions and applications of those indicators.
-- [IndiKit](https://www.indikit.net) — Czech-NGO web product that has a very detailed catalog of indicators across a range of sectors.
-- [Kashana](http://kashana.org) — Open-source monitoring, evaluation, and learning (MEL) information system for international development.
-- [Kinaki](https://kinaki.ca) — Web-based project design, data collection, analysis, reporting and sharing tool.
-- [Logalto](https://www.logalto.com/) — Collaborative web-based M&E platform targeted to international work and NGOs.
-- [Logframer](http://www.logframer.eu) — Free project design and management application based on the logical framework approach.
-- [SmartME](https://www.smartme.global) — Web-based M&E suite with a focus on finance.
-- [TaroWorks](https://taroworks.org) — Mobile CRM platform built on Salesforce, supported by Grameen Foundation.
-- [TOCO - Theory of Change Org](https://www.theoryofchange.org/toco-software/) — Web-based platform to visualize and learn about Theory of Change models.
-- [TolaData](https://www.toladata.com/) — Web-based suite for data import, management, tracking, visualization, and sharing.
-- [Zenysis](https://github.com/Zenysis/Harmony) — Analytics web platform focused on data integration, interoperability, analytics, quality, and automation; developed and maintained by Zenysis.
+These resources are synchronized with this [AirTable database](https://airtable.com/shrIyFNx0PYL39Alh/tbl9kGk4uuG08xTJt?backgroundColor=green&viewControls=on). [Submit an update](https://airtable.com/shrtcZuxBz8d6tHjE) if we are missing something!
+
+<vue-airtable
+:columns="['Name', 'Description', 'Topic', 'Link', 'Type']"
+filter="{Topic} = 'Monitoring & Evaluation'"
+view="Public">
+</vue-airtable>
